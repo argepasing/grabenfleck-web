@@ -12,3 +12,9 @@ Wir freuen uns sehr darüber berichten zu können, dass wir mit Unterstützung d
 ## Mit den Ohren sehen
 
 Blinde Schützen zielen mit den Ohren. Unsere Schützen schießen mit einem Pressluftgewehr. Der Unterschied zu den Gewehren unserer sehenden Schützen liegt darin, dass Diopter und Korntunnel durch eine Optronik ersetzt werden. Diese Optronik sitzt auf dem Gewehr wie ein Zielfernrohr. Ein Spezialgerät wandelt zudem die Lichtsignale in Töne um. Auf diese Weise können die blinden bzw. sehbehinderten Schützen die Zielscheiben anvisieren. Ins “Schwarze” sollten sie dabei möglichst nicht treffen. Denn ihre Zielscheiben sind in der Mitte weiß und werden mit jedem Ring nach außen hin dunkler. Mit dem unsichtbaren Infrarotstrahl tasten die Schützen die Zielscheibe auf ihren Mittelpunkt hin ab und das Infrarotlicht ersetzt das Augenlicht. Der von der Scheibe reflektierte Lichtstrahl wird von einem Sensor am Gerät aufgenommen und in akustische Signale übersetzt, die den Schützen Aufschluss über ihre Zielgenauigkeit geben: Je höher der Ton, desto genauer ist das Ziel im Visier.
+
+![](/images/uploads/handicap1.jpg)
+
+![](/images/uploads/handicap2.jpg)
+
+![](/images/uploads/handicap3.jpg)
