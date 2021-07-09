@@ -5,6 +5,8 @@
   <title>grabenfleck | website</title>
   <meta name="description" content="grabenfleck | website">
 
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
   <style>
     :root {
       --oc-white:  #fff;
@@ -95,5 +97,17 @@
 
   <script>console.log("hello! 👋");</script>
   <!-- {{ content }} -->
+
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
 </body>
 </html>
