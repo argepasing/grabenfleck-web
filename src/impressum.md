@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Impressum
-thumbnail: /images/uploads/dummy.png
+permalink: /impressum/
 ---
 **Angaben gemäß § 5 TMG SG**
 
