@@ -4,6 +4,8 @@ title: Homepage
 ---
 # Herzlich Willkommen
 
+![Gruppenfoto Grabenfleck](/images/uploads/gruppenfoto.jpg "Gruppenfoto Grabenfleck")
+
 bei der Schützengesellschaft Grabenfleck e.V. München-Pasing!
 
 dem Schützenverein im Münchener Westen mit 200 Mitgliedern und öffentlich anerkannter Jugendgruppe!
@@ -15,3 +17,5 @@ Auf den folgenden Seiten stellen wir Ihnen kurz unseren Verein und die verschied
 #### Gefördert
 
 Die SG Grabenfleck e.V. wird gefördert von der Landeshauptstadt München. Referat für Bildung und Sport
+
+![Landeshauptstadt München - Referat für Bildung und Sport](/images/uploads/referat-bildung-sport.jpg "Landeshauptstadt München - Referat für Bildung und Sport")
