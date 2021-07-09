@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bogen
+permalink: /bogen/
 ---
 # Bogenschießen
 

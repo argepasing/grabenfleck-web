@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Behindertensport
+permalink: /behindertensport/
 ---
 # Integration von Sportlern mit Handicap
 

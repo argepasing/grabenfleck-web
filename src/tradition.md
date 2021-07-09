@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tradition
+permalink: /tradition/
 ---
 # Böllerschießen
 

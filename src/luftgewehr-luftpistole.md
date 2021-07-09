@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Luftgewehr & Luftpistole
+permalink: /lg-lp/
 ---
 # Luftgewehrschießen
 

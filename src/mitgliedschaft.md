@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mitgliedschaft
+permalink: /mitgliedschaft/
 ---
 # Unsere Vorstandschaft
 
@@ -8,15 +9,15 @@ Bei der Jahreshauptversammlung im März 2020 wurde von den Mitgliedern der Schü
 
 ## Ihre Ansprechpartner:
 
-* **1. Vorstand** Georg Felbermayr sen.
-* **2. Vorstand** Franziska Felbermayr
-* **Schatzmeister** Antonia Bergmayr
-* **Sportleiterin LG/LP** Marion Dauerer
-* **Sportleiter Bogen** Sushil Wenzel
-* **1. Jugendleiterin** Stefan Fendl
-* **Schriftführer** Stefan Medele
-* **Böllerreferent** Michael Klemke
-* **Mitgliederreferentin** Thomas Echensberger
+| 1. Vorstand | Georg Felbermayr sen. |
+| 2. Vorstand | Franziska Felbermayr |
+| Schatzmeister | Antonia Bergmayr |
+| Sportleiterin LG/LP | Marion Dauerer |
+| Sportleiter Bogen | Sushil Wenzel |
+| 1. Jugendleiterin | Stefan Fendl |
+| Schriftführer | Stefan Medele |
+| Böllerreferent | Michael Klemke |
+| Mitgliederreferentin | Thomas Echensberger |
 
 Bei Fragen freuen wir uns über eine E-Mail: E-Mail-Adresse: info(at)grabenfleck.de
 
