@@ -7,9 +7,15 @@ permalink: /bogen/
 
 ***“Alle ins Gold”***... das Ziel aller Bogenschützen, das Zentrum einer Zielscheibe mit Pfeil und Bogen zu treffen.
 
+![](/images/uploads/bogen1.jpg)
+
 Bogenschießen ist ein Sport, der Jung und Alt viel Freude bereiten kann - ob im Winter in der Halle oder im Sommer auf unserem eigenen Bogenplatz in freier Natur.
 
 Verschiedene Bogenarten - vom Blank- über Recurve- bis zu Compound-Bogen - dokumentieren die Vielseitigkeit dieses Sports und können bei uns ausgeübt werden.
+
+![](/images/uploads/bogen2.jpg)
+
+![](/images/uploads/bogen3.jpg)
 
 Erfahrene Trainer schulen Anfänger wie Fortgeschrittene und beraten in allen Fragen wie zum Beispiel Ablauf und Technik.
 
@@ -18,6 +24,8 @@ Ob Breitensportler oder leitungsorientierte Teilnehmer an Turnieren und Meisters
 ## Trainingszeiten unserer Bogenschützen
 
 ### Sommersaison
+
+![](/images/uploads/anfahrt-bogen-sommer.jpg)
 
 **Zeitraum**:\
 April - Sept., auch in der Ferienzeit - Dienstag, Donnerstag, Samstag
@@ -33,6 +41,8 @@ Silberdistelstraße\
 81241 München
 
 ### Wintersaison
+
+![](/images/uploads/anfahrt-bogen-winter.jpg)
 
 **Zeitraum**:\
 Oktober-März, nicht in Ferienzeit - Dienstag, Donnerstag
