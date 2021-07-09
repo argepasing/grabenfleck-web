@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Über uns
-permalink: /about/
+permalink: /ueber_uns/
 ---
 # Tradition, Jugend und Sport
 
@@ -10,8 +10,6 @@ Die Schützengesellschaft Grabenfleck e.V. ist Mitglied im Gau München Süd-Wes
 ## Rückblick auf über 60 Jahre Vereinsgeschichte
 
 Die „Schützengesellschaft Grabenfleck" wird am 9. Juni 1956 im Grabenfleckstüberl in der Grabenfleckstraße in Aubing von 18 schießsportbegeisterten Männern gegründet. Schon bald ist der Verein eine sportliche Größe in der Sektion München West - Land und kann in den folgenden Jahren mehrmals den 1. Sektionsmeister stellen. Den ersten großen Erfolg erreicht Hermann Reger 1957 auf dem Oktoberfest Landesschießen; mit einem 13 Teiler wird er Landesschützenkönig von Bayern. Im Herbst 1965 kann das Grabenfleckstüberl die neuen Auflagen für den Schießsport nicht mehr erfüllen und man findet auf der Schießanlage beim „Fischmüller" in Aubing eine neue Heimat.
-
-
 
 * Am 29.09.1983 wird der Verein gemeinnützig und in das Vereinsregister eingetragen.
 * 1992 wird zusammen mit drei weiteren Schützenvereinen das Angebot der Stadt München angenommen und in den unteren Räumen des neu erbauten Vereinsheims in der Bezirkssportanlage an der Aubinger Straße in Pasing eine Schießanlage mit zehn Schießständen auf eigene Kosten eingebaut.

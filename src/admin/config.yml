@@ -3,7 +3,6 @@ backend:
   branch: main
 
 site_url: https://neu.grabenfleck.de
-logo_url: https://neu.grabenfleck.de/images/logo.png
 
 media_folder: "src/images/uploads"
 public_folder: "/images/uploads"
