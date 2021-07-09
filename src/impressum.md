@@ -8,3 +8,5 @@ permalink: /impressum/
 Grabenfleck e.V.
 Aubinger Straße 12
 81243 München
+
+![](/images/uploads/dummy.png)
