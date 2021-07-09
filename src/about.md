@@ -11,6 +11,12 @@ Die Schützengesellschaft Grabenfleck e.V. ist Mitglied im Gau München Süd-Wes
 
 Die „Schützengesellschaft Grabenfleck" wird am 9. Juni 1956 im Grabenfleckstüberl in der Grabenfleckstraße in Aubing von 18 schießsportbegeisterten Männern gegründet. Schon bald ist der Verein eine sportliche Größe in der Sektion München West - Land und kann in den folgenden Jahren mehrmals den 1. Sektionsmeister stellen. Den ersten großen Erfolg erreicht Hermann Reger 1957 auf dem Oktoberfest Landesschießen; mit einem 13 Teiler wird er Landesschützenkönig von Bayern. Im Herbst 1965 kann das Grabenfleckstüberl die neuen Auflagen für den Schießsport nicht mehr erfüllen und man findet auf der Schießanlage beim „Fischmüller" in Aubing eine neue Heimat.
 
+![Grabenfleckstüberl](/images/uploads/grabenfleckstueberl.jpg "Foto Grabenfleckstüberl zur Verfügung gestellt von Reichinger/Schwab (Fam. Schwab ist die ehem. Wirtsfamilie)")
+
+![Straßenschild Grabenfleckstr.](/images/uploads/grabenfleckstr.jpg "Grabenfleckstr.")
+
+![Gruppenfoto Grabenfleck September 1983](/images/uploads/gruendungsfoto.jpg "Gründungsfoto Grabenfleck")
+
 * Am 29.09.1983 wird der Verein gemeinnützig und in das Vereinsregister eingetragen.
 * 1992 wird zusammen mit drei weiteren Schützenvereinen das Angebot der Stadt München angenommen und in den unteren Räumen des neu erbauten Vereinsheims in der Bezirkssportanlage an der Aubinger Straße in Pasing eine Schießanlage mit zehn Schießständen auf eigene Kosten eingebaut.
 * Seit dem Umzug 1993 in die Bezirkssportanlage heißt der Verein „Schützengesellschaft Grabenfleck e.V. München-Pasing"
@@ -23,6 +29,12 @@ Die „Schützengesellschaft Grabenfleck" wird am 9. Juni 1956 im Grabenfleckst�
 * Der Verein feiert am 3. August 2008 das 10jährige Bestehen der Böllerabteilung im Rahmen der Pasinger Vorwiesn mit einer Festmesse und anschließendem Umzug durch Pasing sowie einem großen Böllerschießen.
 * Mit Stolz trägt unsere Fahnenabordnung die im Jahr 2006 geweihten Vereinsfahne bei allen hohen kirchlichen Festtagen und Umzügen in Pasing und Umgebung.
 
+  ![Vereinsfahne](/images/uploads/vereinsfahne.jpg "Vereinsfahne")
+
+  ![Vereinsfahne](/images/uploads/vereinsfahne2.jpg "Vereinsfahne")
+
 ## Engagement über den Schießsport hinaus…
 
 Auf unseren Internetseiten können Sie viel über den Schießsport und die sportlichen Aktivitäten des Vereins erfahren. An dieser Stelle möchten wir Sie jedoch über unsere sonstigen Aktionen informieren. Als Gründungsmitglied der Arbeitsgemeinschaft der Pasinger Vereine e.V. (ARGE) beteiligen wir uns seit vielen Jahren aktiv am Pasinger Gesellschaftsleben.Besuchen Sie doch mal das Pasinger Faschingstreiben auf dem Paseo (Pasing Arcaden).
+
+![3 Personen verkleidet als Bauarbeiter auf Bauwagen](/images/uploads/fasching.jpg "Fasching auf dem Paseo")
