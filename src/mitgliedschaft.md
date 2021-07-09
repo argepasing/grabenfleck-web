@@ -36,4 +36,4 @@ Wenn Sie Mitglied bei uns werden möchten, ist eine fünfmalige Teilnahme am Tra
 
 Schüler: bis 15 Jahre Jugend/Junioren: bis 18 Jahre (sowie Wehrdienstleistende, Studenten und Auszubildende)
 
-[Satzung der SG Grabenfleck e.V.zum Download](<>)
+[Satzung der SG Grabenfleck e.V.zum Download](</images/uploads/satzung_sggrabenfleck.pdf>)
