@@ -6,3 +6,11 @@ console.log('Vite ⚡️ Jekyll')
 
 // Example: Import a stylesheet in <sourceCodeDir>/index.css
 // import '~/index.css'
+
+import Swup from 'swup';
+import SwupSlideTheme from '@swup/slide-theme';
+import SwupPreloadPlugin from '@swup/preload-plugin';
+
+const swup = new Swup({
+  plugins: [new SwupSlideTheme(), new SwupPreloadPlugin()]
+});
