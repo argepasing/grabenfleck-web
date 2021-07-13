@@ -10,7 +10,7 @@ public_folder: "/images/uploads"
 collections:
   - name: "page"
     label: "Page"
-    folder: "src"
+    folder: "/"
     create: true
     slug: "{{slug}}"
     fields:
