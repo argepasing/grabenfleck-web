@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    {% include head.html %}
+
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  </head>
+  <body class="{{ page.layout }} {{ page.page_class }} border-t-8 border-green-600">
+    <div class="container items-center ">
+      {% include navbar.html %}
+
+      <main class="container px-5 mx-auto lg:px-8 prose">
+        {{ content }}
+      </main>
+
+      {% include footer.html %}
+    </div>
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
+  </body>
+</html>
