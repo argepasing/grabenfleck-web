@@ -1,5 +1,5 @@
 ---
-layout: maintenance
+layout: page
 title: Homepage
 ---
 # Herzlich Willkommen
