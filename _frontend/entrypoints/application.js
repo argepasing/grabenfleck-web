@@ -10,7 +10,12 @@ console.log('Vite ⚡️ Jekyll')
 import Swup from 'swup';
 import SwupSlideTheme from '@swup/slide-theme';
 import SwupPreloadPlugin from '@swup/preload-plugin';
+import SwupScrollPlugin from '@swup/scroll-plugin';
 
 const swup = new Swup({
-  plugins: [new SwupSlideTheme(), new SwupPreloadPlugin()]
+  plugins: [
+    new SwupSlideTheme(),
+    new SwupPreloadPlugin(),
+    new SwupScrollPlugin()
+  ]
 });
