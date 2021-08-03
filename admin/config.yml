@@ -3,7 +3,7 @@ backend:
   branch: main
 
 site_url: https://neu.grabenfleck.de
-
+locale: "de"
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
 
