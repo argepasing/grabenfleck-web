@@ -9,7 +9,7 @@ public_folder: "/images/uploads"
 
 collections:
   - name: "page"
-    label: "Page"
+    label: "Seite"
     folder: "/"
     create: true
     slug: "{{slug}}"
