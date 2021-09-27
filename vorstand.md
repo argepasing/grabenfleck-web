@@ -1,5 +1,14 @@
 ---
 layout: page
 title: Vorstand
+permalink: /vorstand/
 ---
-Vorstand
+# Vorstand
+
+Unser Vorstand…
+
+## Name Vorname
+
+test
+
+* details

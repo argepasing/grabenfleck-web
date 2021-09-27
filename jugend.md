@@ -1,5 +1,8 @@
 ---
 layout: page
 title: Jugend
+permalink: /jugend/
 ---
-Jugend
+# Jugend
+
+Alles üeber die Jugend...

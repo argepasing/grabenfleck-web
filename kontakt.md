@@ -1,5 +1,8 @@
 ---
 layout: page
 title: Kontakt
+permalink: /kontakt/
 ---
-Kontakt
+# Kontakt
+
+Hallo Kontakt Seite

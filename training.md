@@ -1,5 +1,8 @@
 ---
 layout: page
 title: Training
+permalink: /training/
 ---
-Training
+# Training
+
+Alles über das Training

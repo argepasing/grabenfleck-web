@@ -1,5 +1,8 @@
 ---
 layout: page
 title: Wettkampf
+permalink: /wettkampf/
 ---
-Mannschaft
+# Mannschaften
+
+…Content kommt hier rein.
