@@ -5,18 +5,18 @@ permalink: /kontakt/
 ---
 # Kontakt
 
-Lust auf ein Probetraining? Dann meldet euch unter info@grabenfleck.de 
+Lust auf ein Probetraining? Dann meldet euch unter info@grabenfleck.de
 
-**Luftgewehr- und Luftpistolentraining** 
+**Luftgewehr- und Luftpistolentraining**
 
-Freitags ab 17.00 Uhr 
+Freitags ab 17.00 Uhr
 
-(Probetraining Freitags 17.00-19.00 Uhr) 
+(Probetraining Freitags 17.00-19.00 Uhr)
 
 **Bogentraining**
 
-Dienstag und Donnerstag ab 
+Dienstag und Donnerstag ab
 
-Anfahrt 
+Anfahrt
 
 Bilder...

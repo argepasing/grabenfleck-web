@@ -5,52 +5,28 @@ permalink: /wettkampf/
 ---
 # Mannschaften
 
+## LP 1 - Münchenliga
 
+*Mannschaftsbild einfügen*
 
-LP 1 - Münchenliga
+* Max Bergmayr
+* Stefan Fendl
+* Roland Türstein
+* Thomas Echensberger
+* Sabrina Schreiber
+* Stefan Medele
+* Alfred Glasl
 
+---
 
+## LG 1 - Münchenliga
 
-Mannschaftsbild
+*Mannschaftsbild einfügen*
 
-
-
-Max Bergmayr
-
-Stefan Fendl
-
-Roland Türstein 
-
-Thomas Echensberger 
-
-Sabrina Schreiber
-
-Stefan Medele
-
-Alfred Glasl
-
-
-
-
-
-LG 1 - Münchenliga
-
-
-
-Mannschaftsbild
-
-
-
-Franziska Felbermayr
-
-Verena Glasl
-
-Marion Dauerer
-
-Beate Soyer
-
-Mattias Pointner
-
-Waldtraud Glasl
-
-Christina Glasl
+* Franziska Felbermayr
+* Verena Glasl
+* Marion Dauerer
+* Beate Soyer
+* Mattias Pointner
+* Waldtraud Glasl
+* Christina Glasl

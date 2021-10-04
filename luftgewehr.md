@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Luftgewehr "
-permalink: /lg-lp/
+title: "Luftgewehr"
+permalink: /luftgewehr/
 ---
 # Luftgewehrschießen
 

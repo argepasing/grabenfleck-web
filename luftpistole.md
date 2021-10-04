@@ -1,5 +1,6 @@
 ---
 layout: page
-title: "Luftpistole "
+title: "Luftpistole"
+permalink: /luftpistole/
 ---
-....
+# Luftpistole
