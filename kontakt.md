@@ -5,7 +5,7 @@ permalink: /kontakt/
 ---
 # Kontakt
 
-Lust auf ein Probetraining? Dann meldet euch unter info@grabenfleck.de
+Lust auf ein Probetraining? Dann meldet euch unter <info@grabenfleck.de>
 
 **Luftgewehr- und Luftpistolentraining**
 

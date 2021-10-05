@@ -19,7 +19,7 @@ Bei der Jahreshauptversammlung im März 2020 wurde von den Mitgliedern der Schü
 | Böllerreferent | Michael Klemke |
 | Mitgliederreferentin | Thomas Echensberger |
 
-Bei Fragen freuen wir uns über eine E-Mail: E-Mail-Adresse: info(at)grabenfleck.de
+Bei Fragen freuen wir uns über eine E-Mail: E-Mail-Adresse: <info@grabenfleck.de>
 
 ## Wie Sie Mitglied werden können
 
