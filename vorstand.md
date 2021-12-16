@@ -9,7 +9,7 @@ Unser Vorstand…
 
 BILD
 
-\| **1. Schützenmeister** | Georg Felbermayr sen. |
+| **1. Schützenmeister** | Georg Felbermayr sen. |
 | **2. Schützenmeisterin** | Franziska Felbermayr |
 | **1. Sportleiterin LG/LP** | Marion Dauerer |
 | **2. Sportleiter LG/LP** | Wolfgang Empl |
