@@ -5,8 +5,8 @@ permalink: /training/
 ---
 # Training
 
-Franziska Felbermayr Luftgewehr Trainerin 
+Franziska Felbermayr – Luftgewehr Trainerin 
 
-Max Bergmayer Luftpistolen Trainer
+Max Bergmayer – Luftpistolen Trainer
 
 Was machen wir:  ........
