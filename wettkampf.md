@@ -10,7 +10,7 @@ thumbnail: /images/uploads/dsc03380.jpg
 
 ![](/images/uploads/dsc03380.jpg)
 
-* Max Bergmayr
+* Maximilian Bergmayr
 * Stefan Fendl
 * Roland Türstein
 * Thomas Echensberger
