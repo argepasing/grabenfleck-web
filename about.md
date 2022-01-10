@@ -5,7 +5,7 @@ permalink: /ueber_uns/
 ---
 # Tradition, Jugend und Sport
 
-Die Schützengesellschaft Grabenfleck e.V. ist Mitglied im Gau München Süd-West, im Bezirk München und ist dem Bayerischen Sportschützenbund angeschlossen. Neben der Traditions- und Brauchtumspflege (Böllerschießen) und dem sportlichen Wettkamp finden verschiedenen Disziplinen (Bogen, Luftgewehr, Luftpistole) ist die Jugendarbeit eines der Hauptanliegen des Vereins. Auf den folgenden Seiten erfahren Sie alles Wissenswerte über uns, den Schießsport im Allgemeinen und über unsere Jugendgruppe. Wie Sie sehen werden, sind wir nicht nur sportlich aktiv, sondern engagieren uns auch stark in der Arbeitsgemeinschaft der Pasinger Vereine e.V. Dadurch sind wir zu einem festen Bestandteil im Pasinger Vereinsleben und zu einem der größten Schützenvereine im Münchner Westen geworden!
+Die Schützengesellschaft Grabenfleck e.V. ist Mitglied im Schützengau München Süd-West, im Bezirk München und ist dem Bayerischen Sportschützenbund angeschlossen. Neben der Traditions- und Brauchtumspflege und dem sportlichen Wettkamp in verschiedenen Disziplinen ist die Jugendarbeit eines der Hauptanliegen des Vereins. Auf den folgenden Seiten erfahren Sie alles Wissenswerte über uns, den Schießsport im Allgemeinen und über unsere Jugend. Wir sind nicht nur sportlich aktiv, sondern engagieren uns auch stark im Pasinger Vereinsleben und zu einem der größten Schützenvereine im Münchner Westen geworden!
 
 ## Rückblick auf über 60 Jahre Vereinsgeschichte
 
