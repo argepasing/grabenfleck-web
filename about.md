@@ -3,11 +3,29 @@ layout: page
 title: Über uns
 permalink: /ueber_uns/
 ---
-# Tradition, Jugend und Sport
+##  Von Tradition bis Sport
 
-Die Schützengesellschaft Grabenfleck e.V. ist Mitglied im Schützengau München Süd-West, im Bezirk München und ist dem Bayerischen Sportschützenbund angeschlossen. Neben der Traditions- und Brauchtumspflege und dem sportlichen Wettkamp in verschiedenen Disziplinen ist die Jugendarbeit eines der Hauptanliegen des Vereins. Auf den folgenden Seiten erfahren Sie alles Wissenswerte über uns, den Schießsport im Allgemeinen und über unsere Jugend. Wir sind nicht nur sportlich aktiv, sondern engagieren uns auch stark im Pasinger Vereinsleben und zu einem der größten Schützenvereine im Münchner Westen geworden!
+Unser Verein, die Schützengesellschaft Grabenfleck e.V. ist dem Schützengau München Süd-West,dem Bezirk München und dem Bayerischen Sportschützenbund angeschlossen. Neben der Traditions- und Brauchtumspflege und dem sportlichen Wettkampf in verschiedenen Disziplinen ist die Jugendarbeit eines der Hauptanliegen des Vereins und sind so zu einem der größten Schützenvereine im Münchner Westen geworden.
 
-## Rückblick auf über 60 Jahre Vereinsgeschichte
+##### Engagement über den Schießsport hinaus…
+
+Neben unseren sportlichen Leistungen organisieren wir Aktivitäten innerhalb und außerhalb unseres Vereins. Dazu gehört unser Vereinsauflug,  das Sommerfest unser Wiesnschießen uvm. Regelmäßig sind wir auch bei Veranstaltung der ARGE Pasing Vertreten wie z.B beim Pasinger Fasching auf dem Paseo
+
+![](/images/uploads/img_7322.jpeg)
+
+![](/images/uploads/0a00f53a-19b4-4e62-9bc4-69dcc09f9cb0.jpeg)
+
+![](/images/uploads/37719ac3-707a-430e-9e37-e5bf8ef17ee0.jpeg)
+
+![](/images/uploads/3cd2577b-be9d-45f5-8308-2f860aca2e51.jpeg)
+
+![](/images/uploads/img_4796.jpeg)
+
+![]()
+
+![]()
+
+## Unsere Vereinsgeschichte
 
 Die „Schützengesellschaft Grabenfleck" wird am 9. Juni 1956 im Grabenfleckstüberl in der Grabenfleckstraße in Aubing von 18 schießsportbegeisterten Männern gegründet. Schon bald ist der Verein eine sportliche Größe in der Sektion München West - Land und kann in den folgenden Jahren mehrmals den 1. Sektionsmeister stellen. Den ersten großen Erfolg erreicht Hermann Reger 1957 auf dem Oktoberfest Landesschießen; mit einem 13 Teiler wird er Landesschützenkönig von Bayern. Im Herbst 1965 kann das Grabenfleckstüberl die neuen Auflagen für den Schießsport nicht mehr erfüllen und man findet auf der Schießanlage beim „Fischmüller" in Aubing eine neue Heimat.
 
@@ -33,8 +51,4 @@ Die „Schützengesellschaft Grabenfleck" wird am 9. Juni 1956 im Grabenfleckst�
 
   ![Vereinsfahne](/images/uploads/vereinsfahne2.jpg "Vereinsfahne")
 
-## Engagement über den Schießsport hinaus…
-
-Auf unseren Internetseiten können Sie viel über den Schießsport und die sportlichen Aktivitäten des Vereins erfahren. An dieser Stelle möchten wir Sie jedoch über unsere sonstigen Aktionen informieren. Als Gründungsmitglied der Arbeitsgemeinschaft der Pasinger Vereine e.V. (ARGE) beteiligen wir uns seit vielen Jahren aktiv am Pasinger Gesellschaftsleben.Besuchen Sie doch mal das Pasinger Faschingstreiben auf dem Paseo (Pasing Arcaden).
-
-![3 Personen verkleidet als Bauarbeiter auf Bauwagen](/images/uploads/fasching.jpg "Fasching auf dem Paseo")
+![3 Personen verkleidet als Bauarbeiter auf Bauwagen]( "Fasching auf dem Paseo")
