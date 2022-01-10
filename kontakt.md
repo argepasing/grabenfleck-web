@@ -5,18 +5,36 @@ permalink: /kontakt/
 ---
 # Kontakt
 
-Lust auf ein Probetraining? Dann meldet euch unter <info@grabenfleck.de>
+Lust auf ein Probetraining? Dann melde dich unter [info@grabenfleck.de](mailto:info@grabenfleck.de)
 
 **Luftgewehr- und Luftpistolentraining**
 
-Freitags ab 17.00 Uhr
+freitags ab 17.00 Uhr
 
-(Probetraining Freitags 17.00-19.00 Uhr)
+(Probetraining freitags 17.00-19.00 Uhr)
 
 **Bogentraining**
 
-Dienstag und Donnerstag ab
+Dienstag und Donnerstag ab ???????
 
-Anfahrt
+**Anfahrt:**
 
-Bilder...
+Vereinsheim (Luftgewehr und Luftpistole)
+
+Aubinger Straße 12
+
+81245 München
+
+![](/images/uploads/anfahrt-kugelschuetzen.jpg)
+
+
+
+Bogenhalle (Oktober-April)
+
+![](/images/uploads/anfahrt-bogen-winter.jpg)
+
+
+
+Bogenplatz (Mai-September)
+
+![](/images/uploads/anfahrt-bogen-sommer.jpg)
