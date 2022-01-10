@@ -3,9 +3,7 @@ layout: page
 title: Vorstand
 permalink: /vorstand/
 ---
-# Vorstand
-
-Unser Vorstand…
+Unsere Vorstandschaft
 
 BILD
 
