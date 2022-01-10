@@ -17,23 +17,23 @@ freitags ab 17.00 Uhr
 
 Dienstag und Donnerstag ab ???????
 
-**Anfahrt:**
+**Adresse:**
 
-Vereinsheim (Luftgewehr und Luftpistole)
+Vereinsheim 
 
 Aubinger Straße 12
 
 81245 München
 
+
+
+**Anfahrt:**
+
 ![](/images/uploads/anfahrt-kugelschuetzen.jpg)
-
-
 
 Bogenhalle (Oktober-April)
 
 ![](/images/uploads/anfahrt-bogen-winter.jpg)
-
-
 
 Bogenplatz (Mai-September)
 
