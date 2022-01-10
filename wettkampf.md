@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mannschaft
+title: Mannschaften
 permalink: /wettkampf/
 thumbnail: /images/uploads/dsc03380.jpg
 ---
