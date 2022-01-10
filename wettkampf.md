@@ -8,7 +8,7 @@ thumbnail: /images/uploads/dsc03380.jpg
 
 ## LP 1 - Münchenliga
 
-*Mannschaftsbild einfügen*
+![](/images/uploads/dsc03380.jpg)
 
 * Max Bergmayr
 * Stefan Fendl
@@ -18,7 +18,7 @@ thumbnail: /images/uploads/dsc03380.jpg
 * Stefan Medele
 * Alfred Glasl
 
----
+- - -
 
 ## LG 1 - Münchenliga
 
