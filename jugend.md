@@ -3,7 +3,7 @@ layout: page
 title: Jugend
 permalink: /jugend/
 ---
-# Jugend
+
 
 Bei uns wird Jugendarbeit groß geschrieben. Wir fördern unsere Jugendlichen nicht nur im Training sondern sind auch im Bereich des überfachlichen aktiv. Dazu gehörten zahlreiche Tagesausflüge sowie Jugendwochenenden in unserem Jugendhaus am Wlchensee. Hierzu sind alle unsere Jugendlichen von 12  bis 27 Jahren mit dabei und sind begeistert über die zahlreichen und verschiedensten Aktivitäten die jedesmal geplant sind.
 
