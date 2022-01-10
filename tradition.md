@@ -3,7 +3,7 @@ layout: page
 title: Böller
 permalink: /tradition/
 ---
-# Böllerschießen
+
 
 ![Gruppenfoto Böllerschützen](/images/uploads/tradition-boellerschuetzen.jpg "Gruppenfoto Böllerschützen")
 
