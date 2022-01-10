@@ -7,10 +7,10 @@ permalink: /luftgewehr/
 
 ![](/images/uploads/dsc03330.jpg)
 
-
-
 ![](/images/uploads/dsc03315.jpg)
 
-Für das wöchentliche Training sind in der Bezirkssportanlage Pasing zehn elektronisché LG/LP-Schießstände vorhanden. Laufend wird außerdem viel Geld in die Ausrüstung investiert. So stehen für Gäste und Mitglieder mehrere neue Luftdruckgewehre sowie spezielle Jugendgewehre kostenlos zur Verfügung. Darüber hinaus besteht eine große Auswahl an Schießhandschuhen, Schießjacken und -hosen, die ebenfalls unentgeltlich benutzt werden können.
+Jeden Freitag trainieren wir in unserem Vereinsheim in der Bezirksportanlage Pasing. Dort stehen uns zehn elektronische Schießstände für das Luftgewehr und Luftpistolen schießen zur Verfügung. Für das Luftgewehr schießen benötigt man eine Umfangreiche Ausrüstung von Schießjacke,- hose über spezielle Schuhe und einen Handschuh. Je erfolgreicher man ist, desto mehr kann man seine Ausstattung erweitern. Es ist aber nciht zwingend erforderlich sich von Anfang an eine komplette Ausstattung zu kaufen, bei uns kann man sich die neueste Ausstattung für das training auch kostenlos leihen.
+
+
 
 ![]()
