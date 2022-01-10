@@ -46,9 +46,17 @@ Silberdistelstraße\
 
 
 
+**Zeitraum**:\
+Oktober-März, nicht in Ferienzeit - Dienstag, Donnerstag
 
+**Uhrzeit**:\
+16.00 bis 19.00 Uhr (Di)\
+16.00 bis 20.00 Uhr (Do)
 
-
+**Adresse**:\
+Sporthalle BZ Luisenstraße\
+Luisenstr. 9/11\
+80333 München
 
 ![](/images/uploads/anfahrt-bogen-winter.jpg)
 
