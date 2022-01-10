@@ -7,11 +7,9 @@ permalink: /training/
 
 Franziska Felbermayr – Luftgewehr Trainerin 
 
-Max Bergmayer – Luftpistolen Trainer
+Max Bergmayr – Luftpistolen Trainer
 
 Unser Motto: Es muss Spaß machen
-
-
 
 Seit 2018 haben wir in unserem Verein einen Trainer für Luftpisolen schießen und eine Trainerin für das Luftgewehrschießen.In einem einwöchigen Kurs mit anschließender Prüfung haben die beiden Ihre Prüfung abgelegt. Um die Lizenz zu behalten sind regelmäßige Fortbildungen Pflicht.
 
