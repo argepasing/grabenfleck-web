@@ -3,7 +3,7 @@ layout: page
 title: Mitgliedschaft
 permalink: /mitgliedschaft/
 ---
-## Wie wirst Du Teil unseres Vereins
+## So wirst Du Teil unseres Vereins
 
 Wenn Du Mitglied bei uns werden möchten, ist eine fünfmalige Teilnahme am Training (Bogen, LG oder LP) Voraussetzung. Bei Fragen oder Interesse stehen Ihnen unser/e Sportleiter/in der jeweiligen Disziplinen gerne zur Verfügung!
 
