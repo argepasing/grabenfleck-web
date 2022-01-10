@@ -3,7 +3,7 @@ layout: page
 title: Kontakt
 permalink: /kontakt/
 ---
-# Kontakt
+
 
 Lust auf ein Probetraining? Dann melde dich unter [info@grabenfleck.de](mailto:info@grabenfleck.de)
 
@@ -43,8 +43,6 @@ April - Sept., auch in der Ferienzeit - Dienstag, Donnerstag, Samstag
 Bogenplatz Pasing\
 Silberdistelstraße\
 81241 München
-
-
 
 **Zeitraum**:\
 Oktober-März, nicht in Ferienzeit - Dienstag, Donnerstag
