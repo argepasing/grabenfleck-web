@@ -6,17 +6,7 @@ title: Startseite
 
 ![Gruppenfoto Grabenfleck](/images/uploads/dsc03367.jpg "Gruppenfoto Grabenfleck")
 
-Wir sind die Schützengesellschaft Grabenfleck e.V. München-Pasing!
-
-
-
-
-
-
-
-
-
-
+Wir sind die Schützengesellschaft Grabenfleck e.V. München-Pasing.
 
 Die SG Grabenfleck e.V. wird gefördert von der Landeshauptstadt München. Referat für Bildung und Sport
 
