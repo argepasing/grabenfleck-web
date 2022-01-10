@@ -23,18 +23,24 @@ Vereinsheim
 
 Aubinger Straße 12
 
-81245 München
-
-
+81243 München
 
 **Anfahrt:**
 
+**Vereinsheim Luftgewehr/Luftpistole**
+
+Aubinger Straße 12 81243 München
+
 ![](/images/uploads/anfahrt-kugelschuetzen.jpg)
 
-Bogenhalle (Oktober-April)
+**Bogenhalle (Oktober-April)**
+
+Luisenstr.9/11 80333 München
 
 ![](/images/uploads/anfahrt-bogen-winter.jpg)
 
-Bogenplatz (Mai-September)
+**Bogenplatz (Mai-September)**
+
+Silberdistelstraße
 
 ![](/images/uploads/anfahrt-bogen-sommer.jpg)
