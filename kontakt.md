@@ -13,10 +13,6 @@ freitags ab 17.00 Uhr
 
 (Probetraining freitags 17.00-19.00 Uhr)
 
-**Bogentraining**
-
-Dienstag und Donnerstag ab ???????
-
 **Adresse:**
 
 Vereinsheim 
@@ -33,9 +29,26 @@ Aubinger Straße 12 81243 München
 
 ![](/images/uploads/anfahrt-kugelschuetzen.jpg)
 
-**Bogenhalle (Oktober-April)**
+**Bogentraining**
 
-Luisenstr.9/11 80333 München
+**Zeitraum:**\
+April - Sept., auch in der Ferienzeit - Dienstag, Donnerstag, Samstag
+
+**Uhrzeit**:\
+17:00 bis 19:00 Uhr (Di)\
+17:00 bis 20:00 Uhr (Do)\
+10:30 bis 13:00 Uhr (Sa)
+
+**Adresse**:\
+Bogenplatz Pasing\
+Silberdistelstraße\
+81241 München
+
+
+
+
+
+
 
 ![](/images/uploads/anfahrt-bogen-winter.jpg)
 
