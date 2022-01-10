@@ -10,3 +10,11 @@ Bei uns wird Jugendarbeit groß geschrieben. Wir fördern unsere Jugendlichen ni
 In den vergangenen Jahren war unsere Jugend im Skylinepark, beim Bowling, im Kletterwald und vieles mehr. Unsere Jugendleitung gibt sich sehr viel Mühe, sich immer wieder Neues einfallen zu lassen um auch so den Zusammenhalt zu stärken und Zeit miteinander zu verbringen. 
 
 Unsere Jugend ist eigenverantwortlich, selbstständig und selbstverwaltend. Das bedeutet dass sie eine eigene Jugendsatzung hat. Damit können wir für unsere Jugendarbeit Förderungen der Landeshauptstadt München und dem Kreisjugendring beantragen.
+
+![](/images/uploads/dsc03408.jpg)
+
+![](/images/uploads/dsc03401.jpg)
+
+![](/images/uploads/img_0070.jpeg)
+
+![](/images/uploads/img_0241.jpeg)
