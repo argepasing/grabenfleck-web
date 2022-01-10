@@ -4,9 +4,11 @@ title: Startseite
 ---
 # Herzlich Willkommen
 
-![Gruppenfoto Grabenfleck](/images/uploads/gruppenfoto.jpg "Gruppenfoto Grabenfleck")
+![Gruppenfoto Grabenfleck](/images/uploads/dsc03367.jpg "Gruppenfoto Grabenfleck")
 
 Wir sind die Schützengesellschaft Grabenfleck e.V. München-Pasing!
+
+
 
 
 
