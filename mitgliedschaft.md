@@ -3,9 +3,9 @@ layout: page
 title: Mitgliedschaft
 permalink: /mitgliedschaft/
 ---
-## Wie Sie Mitglied werden können
+## Wie wirst Du Teil unseres Vereins
 
-Wenn Sie Mitglied bei uns werden möchten, ist eine fünfmalige Teilnahme am Training (Bogen, LG oder LP) Voraussetzung. Bei Fragen oder Interesse stehen Ihnen unser/e Sportleiter/in der jeweiligen Disziplinen gerne zur Verfügung!
+Wenn Du Mitglied bei uns werden möchten, ist eine fünfmalige Teilnahme am Training (Bogen, LG oder LP) Voraussetzung. Bei Fragen oder Interesse stehen Ihnen unser/e Sportleiter/in der jeweiligen Disziplinen gerne zur Verfügung!
 
 ### Gesetzliche Alterseinschränkungen
 
@@ -24,9 +24,5 @@ Jugend/Junioren (bis 18 Jahre) Jahresbeitrag 60€
 Wehrdienstleistende, Studenten und Auszubildende: Jahresbeitrag 60€
 
 Erwachsene: Jahresbeitrag 120€
-
-
-
-
 
 [Satzung der SG Grabenfleck e.V. zum Download](/images/uploads/satzung_sggrabenfleck.pdf)
