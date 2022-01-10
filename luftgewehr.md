@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Luftgewehr"
+title: Luftgewehr
 permalink: /luftgewehr/
 ---
 # Luftgewehrschießen
 
 Der gesellschaftliche Wert eines Schützenvereins nach außen wird auch anhand seiner aktiven Schützen deutlich! Die Vorstandschaft unseres Vereins ist deshalb auch sehr stolz darauf, dass sich nicht nur eine, sondern gleich mehrere Luftgewehrmannschaften in den verschiedensten Leistungsklassen im Gau München Süd-West und des Bezirks München an den Rundenwettkämpfen beteiligen.
 
-![](/images/uploads/luftgewehr1.jpg)
+![](/images/uploads/dsc03315.jpg)
 
 Bei den Meisterschaften qualifizieren sich die "Grabenfleckler" regelmäßig für die Gau- und Bezirksmeisterschaften und vor allem in der Jugendklasse konnten bereits schöne Erfolge auch bei den bayerischen und sogar deutschen Meisterschaften gefeiert werden.
 
