@@ -3,8 +3,6 @@ layout: page
 title: Bogen
 permalink: /bogen/
 ---
-# Bogenschießen
-
 ***“Alle ins Gold”***... das Ziel aller Bogenschützen, das Zentrum einer Zielscheibe mit Pfeil und Bogen zu treffen.
 
 ![](/images/uploads/bogen1.jpg)
