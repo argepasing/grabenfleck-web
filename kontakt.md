@@ -13,19 +13,17 @@ freitags ab 17.00 Uhr
 
 (Probetraining freitags 17.00-19.00 Uhr)
 
-**Adresse:**
-
-Vereinsheim 
-
-Aubinger Straße 12
-
+**Adresse:**\
+Vereinsheim\
+Aubinger Straße 12\
 81243 München
 
 **Anfahrt:**
 
 **Vereinsheim Luftgewehr/Luftpistole**
 
-Aubinger Straße 12 81243 München
+Aubinger Straße 12\
+81243 München
 
 ![](/images/uploads/anfahrt-kugelschuetzen.jpg)
 

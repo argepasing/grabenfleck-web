@@ -24,9 +24,3 @@ Verschiedene Bogenarten - vom Blank- über Recurve- bis zu Compound-Bogen - doku
 Erfahrene Trainer schulen Anfänger wie Fortgeschrittene und beraten in allen Fragen wie zum Beispiel Ablauf und Technik.
 
 Ob Breitensportler oder leitungsorientierte Teilnehmer an Turnieren und Meisterschaften - für alle ist Platz in unserem Verein.
-
-![]()
-
-![]()
-
-![]()

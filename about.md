@@ -51,8 +51,6 @@ Die „Schützengesellschaft Grabenfleck" wird am 9. Juni 1956 im Grabenfleckst�
 * Der Verein feiert am 3. August 2008 das 10jährige Bestehen der Böllerabteilung im Rahmen der Pasinger Vorwiesn mit einer Festmesse und anschließendem Umzug durch Pasing sowie einem großen Böllerschießen.
 * Mit Stolz trägt unsere Fahnenabordnung die im Jahr 2006 geweihten Vereinsfahne bei allen hohen kirchlichen Festtagen und Umzügen in Pasing und Umgebung.
 
-  ![Vereinsfahne](/images/uploads/vereinsfahne.jpg "Vereinsfahne")
+![Vereinsfahne](/images/uploads/vereinsfahne.jpg "Vereinsfahne")
 
-  ![Vereinsfahne](/images/uploads/vereinsfahne2.jpg "Vereinsfahne")
-
-![3 Personen verkleidet als Bauarbeiter auf Bauwagen]( "Fasching auf dem Paseo")
+![Vereinsfahne](/images/uploads/vereinsfahne2.jpg "Vereinsfahne")

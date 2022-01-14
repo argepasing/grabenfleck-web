@@ -4,9 +4,7 @@ title: Datenschutzerklärung
 permalink: /datenschutz/
 ---
 
-
 ## Datenschutz auf einen Blick
-
 
 ### Allgemeine Hinweise
 
