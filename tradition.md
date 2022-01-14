@@ -19,4 +19,4 @@ Exakte Datierungen über die Entstehung des Böllerschiessens sind nicht vorhand
 
 ![Bavaria Böllerschützen](/images/uploads/tradition-bavaria.jpg "Bavaria Böllerschützen")
 
-![Köningsscheibe Grabenfleck]( "Köningsscheibe Grabenfleck")
+![Köningsscheibe Grabenfleck](/images/uploads/koenigsscheibe.jpg "Köningsscheibe Grabenfleck")
