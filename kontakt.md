@@ -48,7 +48,7 @@ Oktober-März, nicht in Ferienzeit - Dienstag, Donnerstag
 16.00 bis 20.00 Uhr (Do)
 
 **Adresse**:\
-Sporthalle BZ Luisenstraße\
+Sporthalle BSZ Luisenstraße\
 Luisenstr. 9/11\
 80333 München
 
