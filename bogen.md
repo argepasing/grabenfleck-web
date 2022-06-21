@@ -3,21 +3,23 @@ layout: page
 title: Bogen
 permalink: /bogen/
 ---
-***“Alle ins Gold”***... das Ziel aller Bogenschützen, das Zentrum einer Zielscheibe mit Pfeil und Bogen zu treffen.
+***“Alle ins Gold”***... ist das Ziel aller Bogenschützen.
 
 ![](/images/uploads/bogen1.jpg)
 
-Bogenschießen ist ein Sport, der Jung und Alt viel Freude bereiten kann - ob im Winter in der Halle oder im Sommer auf unserem eigenen Bogenplatz in freier Natur.
+Das Bogenschießen genießt mittlerweile große Beliebtheit, ob Jung oder Alt. 
 
-Verschiedene Bogenarten - vom Blank- über Recurve- bis zu Compound-Bogen - dokumentieren die Vielseitigkeit dieses Sports und können bei uns ausgeübt werden.
+Bei uns könnt ihr alle Bogenarten vom Blank über Recurve bis zu Compound-Bogen ausüben. Im Winter in der Halle und im Sommer auf unserem eigenen Bogenplatz.
+
+
 
 ![](/images/uploads/dscn0327.jpg)
 
 ![](/images/uploads/dscn0321.jpg)
 
-Erfahrene Trainer schulen Anfänger wie Fortgeschrittene und beraten in allen Fragen wie zum Beispiel Ablauf und Technik.
+Unsere Trainer stehen euch für alle Fragen rund um den Bogensport zur Verfügung. Egal ob Breitensportler\*in oder leistungsorientierte Teilnehmer\*innen. Alle sind herzlich willkommen.
 
-Ob Breitensportler oder leitungsorientierte Teilnehmer an Turnieren und Meisterschaften - für alle ist Platz in unserem Verein.
+
 
 ![](/images/uploads/dscn0324.jpg)
 
