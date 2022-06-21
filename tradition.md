@@ -5,7 +5,9 @@ permalink: /tradition/
 ---
 ![Gruppenfoto Böllerschützen](/images/uploads/tradition-boellerschuetzen.jpg "Gruppenfoto Böllerschützen")
 
-Um in Pasing den Brauch des Böllerschießens wieder neu zu beleben wurde Anfang 1998 die Böllergruppe der SG Grabenfleck e.V. gegründet. Zusammen mit dem Trachtenverein Würmtaler Stamm e.V. wurde zeitgleich die Pasinger Böllerkompanie ins Leben gerufen. Nach absolviertem Lehrgang mit anschließender Prüfung über die vorschriftsmäßige Verwendung von Handböllern und Böllerpulver fand der erste Auftritt der Pasinger Böllerkompanie am 20.Juni 1998 im Rahmen des Pasinger Stadtteilfests statt. Über das ganze Jahr beteiligen sich unsere Böllerschützen an diversen kirchlichen Veranstaltungen, wie dem Patrozinium im Mai, Fronleichnam im Juni und dem Volkstrauertag im November. Daneben stehen auch Feierlichkeiten wie das Pasinger Volksfesst, das Münchner Stadtgründungsfest oder das Dachauer Volksfest auf dem Terminplan. Traditionell beginnt das Böllerjahr am Neujahrstag mit dem Anböllern am Pasinger Rathaus. Einen besonderen Höhepunkt bildet das Abschlussschießen am letzten Wiesnsonntag zu Füßen der Bavaria auf der Theresienwiese. Mittlerweile haben sich auch die Böllerschützen des Kultur- und Heimatpflegevereins D'Pasinger der Pasinger Böllerkompanie angeschlossen.
+Sport und Brauchtum zeichnen unseren Verein aus. Daher haben wir Anfang 1998 die Böllergruppe der SG Grabenfleck e.V gegründet. Der erste Auftritt unserer Böllerschütz*innen fand am 20.Juni 1998 im Rahmen des Pasinger Stadtteilfests statt. Über das ganze Jahr nehmen wir an unterschiedlichsten Veranstaltungen wie kirchlichen Feiertagen, Volksfesten, dem Münchner Stadtgründungsfest, das Neujahrsböllern in Pasing und als Höhepunkt am Böllerschießen auf der Theresienwiese zum Abschluss des Oktoberfest teil.
+
+Um Böllerschütz*in zu werden muss man neben der Mitgliedschaft bei uns einen Lehrgang mit anschließender Prüfung zur vorschriftsmäßigen Verwendung von Handböllern und Böllerpukver absolvieren.
 
 ## Tradition und Brauchtum
 
