@@ -9,7 +9,7 @@ Unser Verein, die Schützengesellschaft Grabenfleck e.V. ist dem Schützengau M�
 
 ##### Engagement über den Schießsport hinaus…
 
-Neben unseren sportlichen Leistungen organisieren wir Aktivitäten innerhalb und außerhalb unseres Vereins. Dazu gehört unser Vereinsauflug,  das Sommerfest unser Wiesnschießen uvm. Regelmäßig sind wir auch bei Veranstaltung der ARGE Pasing Vertreten wie z.B beim Pasinger Fasching auf dem Paseo
+Neben unseren sportlichen Leistungen organisieren wir Aktivitäten innerhalb und außerhalb unseres Vereins. Dazu gehört unser Vereinsauflug,  das Sommerfest unser Wiesnschießen uvm. Regelmäßig sind wir auch bei Veranstaltung der ARGE Pasing vertreten wie z.B beim Pasinger Fasching auf dem Paseo
 
 ![](/images/uploads/img_7322.jpeg)
 
