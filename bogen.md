@@ -11,16 +11,16 @@ Bogenschießen ist ein Sport, der Jung und Alt viel Freude bereiten kann - ob im
 
 Verschiedene Bogenarten - vom Blank- über Recurve- bis zu Compound-Bogen - dokumentieren die Vielseitigkeit dieses Sports und können bei uns ausgeübt werden.
 
-![](/images/uploads/bogen2.jpg)
+![](/images/uploads/dscn0327.jpg)
 
-
-
-
-
-
-
-![](/images/uploads/bogen3.jpg)
+![](/images/uploads/dscn0321.jpg)
 
 Erfahrene Trainer schulen Anfänger wie Fortgeschrittene und beraten in allen Fragen wie zum Beispiel Ablauf und Technik.
 
 Ob Breitensportler oder leitungsorientierte Teilnehmer an Turnieren und Meisterschaften - für alle ist Platz in unserem Verein.
+
+![](/images/uploads/dscn0324.jpg)
+
+![](/images/uploads/dscn0322.jpg)
+
+![]()
