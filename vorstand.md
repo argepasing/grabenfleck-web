@@ -3,11 +3,11 @@ layout: page
 title: Vorstand
 permalink: /vorstand/
 ---
-Unsere Vorstandschaft
+# Unsere Vorstandschaft
 
 BILD
 
-\| **1. Schützenmeister** | Georg Felbermayr sen. |
+| **1. Schützenmeister** | Georg Felbermayr sen. |
 | **2. Schützenmeisterin** | Franziska Felbermayr |
 | **1. Sportleiterin LG/LP** | Marion Dauerer |
 | **2. Sportleiter LG/LP** | Wolfgang Empl |
@@ -18,8 +18,6 @@ BILD
 | **1. Jugendleiter** | Stefan Fendl |
 | **2. Jugendleiter** | Sandra Thürstein |
 | **Jugendsprecherin** | Christina Dauerer |
-| **Jugendsprecher** | Levi Meier 
-
-**Mitgliederreferent** I Thomas Echensberger
-
-**Böllerreferent** I Michael Klemke
+| **Jugendsprecher** | Levi Meier |
+| **Mitgliederreferent** | Thomas Echensberger |
+| **Böllerreferent** | Michael Klemke |
