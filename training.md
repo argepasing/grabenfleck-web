@@ -3,7 +3,7 @@ layout: page
 title: Training
 permalink: /training/
 ---
-# Training
+# Training das Spaß macht
 
 Franziska Felbermayr – Luftgewehr Trainerin
 
