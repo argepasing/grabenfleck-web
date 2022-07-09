@@ -3,7 +3,9 @@ layout: page
 title: Kontakt
 permalink: /kontakt/
 ---
-Lust auf ein Probetraining? Dann melde dich unter [info@grabenfleck.de           ](mailto:info@grabenfleck.de)oder telefonisch unter 089/88 69 21 bei unserem Vorstand Georg Felbermayr
+# Kurz und knapp
+
+Lust auf ein Probetraining? Dann melde dich unter [info@grabenfleck.de](mailto:info@grabenfleck.de) oder telefonisch unter 089/88 69 21 bei unserem Vorstand Georg Felbermayr
 
 **Luftgewehr- und Luftpistolentraining**
 
