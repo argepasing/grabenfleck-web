@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Böller
+title: Tradition
 permalink: /tradition/
 ---
+# Böllergruppe
+
 ![Gruppenfoto Böllerschützen](/images/uploads/tradition-boellerschuetzen.jpg "Gruppenfoto Böllerschützen")
 
 Sport und Brauchtum zeichnen unseren Verein aus. Daher haben wir Anfang 1998 die Böllergruppe der SG Grabenfleck e.V gegründet. Der erste Auftritt unserer Böllerschütz*innen fand am 20.Juni 1998 im Rahmen des Pasinger Stadtteilfests statt. Über das ganze Jahr nehmen wir an unterschiedlichsten Veranstaltungen wie kirchlichen Feiertagen, Volksfesten, dem Münchner Stadtgründungsfest, das Neujahrsböllern in Pasing und als Höhepunkt am Böllerschießen auf der Theresienwiese zum Abschluss des Oktoberfest teil.
@@ -17,4 +19,4 @@ Exakte Datierungen über die Entstehung des Böllerschiessens sind nicht vorhand
 
 ![Bavaria Böllerschützen](/images/uploads/tradition-bavaria.jpg "Bavaria Böllerschützen")
 
-![Köningsscheibe Grabenfleck]( "Köningsscheibe Grabenfleck")
+![Köningsscheibe Grabenfleck](/images/uploads/koenigsscheibe.jpg "Köningsscheibe Grabenfleck")
