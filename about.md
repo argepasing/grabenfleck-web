@@ -7,7 +7,7 @@ permalink: /ueber_uns/
 
 Unser Verein, die Schützengesellschaft Grabenfleck e.V. ist dem Schützengau München Süd-West,dem Bezirk München und dem Bayerischen Sportschützenbund angeschlossen. Neben der Traditions- und Brauchtumspflege und dem sportlichen Wettkampf in verschiedenen Disziplinen ist die Jugendarbeit eines der Hauptanliegen des Vereins und sind so zu einem der größten Schützenvereine im Münchner Westen geworden.
 
-##### Engagement über den Schießsport hinaus…
+## Engagement über den Schießsport hinaus
 
 Neben unseren sportlichen Leistungen organisieren wir Aktivitäten innerhalb und außerhalb unseres Vereins. Dazu gehört unser Vereinsauflug,  das Sommerfest unser Wiesnschießen uvm. Regelmäßig sind wir auch bei Veranstaltung der ARGE Pasing vertreten wie z.B beim Pasinger Fasching auf dem Paseo
 
@@ -21,7 +21,7 @@ Neben unseren sportlichen Leistungen organisieren wir Aktivitäten innerhalb und
 
 ![](/images/uploads/img_4796.jpeg)
 
-###### Eine ganz besondere Ehre ...
+## Eine ganz besondere Ehre
 
 Am Ende eines jeden Jahres wird im Rahmen des Weihnachtsschießens unter allen Luftgewehr- und Luftpistolenschützen der Schützenkönig ausgeschossen. Ein einziger Schuss entscheidet darüber, wer ein Jahr lang die Königskette tragen, den Verein bei verschiedenen Anlässen, wie z.B. dem Schützen- und Trachtenumzug zum Oktoberfest, vertreten darf und auf der Königsscheibe verewigt wird. Die Königsproklamation bildet alljährlich den Höhepunkt bei der großen Jahresabschlussfeier des Vereins.
 
