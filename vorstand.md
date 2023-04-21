@@ -37,9 +37,26 @@ permalink: /vorstand/
 
 **Schriftführer** I Stefan Medele I
 
-\| **1. Jugendleiter** | Stefan Fendl |
-| **2. Jugendleiter** | Sandra Thürstein |
-| **Jugendsprecherin** | Christina Dauerer |
-| **Jugendsprecher** | Levi Meier |
-| **Mitgliederreferent** | Thomas Echensberger |
-| **Böllerreferent** | Michael Klemke |
+![](/images/uploads/img_6839.jpeg)
+
+**1. Jugendleiter** I Stefan Fendl I
+
+![](/images/uploads/img_6399.png)
+
+**2. Jugendleiter** I Sandra Thürstein I
+
+![](/images/uploads/img_6399.png)
+
+**Jugendsprecherin** I Christina Dauerer I
+
+![](/images/uploads/img_6399.png)
+
+**Jugendsprecher** | Levi Meier I
+
+![](/images/uploads/img_6399.png)
+
+**Mitgliederreferent** I Thomas Echensberger I
+
+![](/images/uploads/img_6399.png)
+
+**Böllerreferent** I Michael Klemke I
