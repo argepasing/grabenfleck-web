@@ -7,6 +7,8 @@ permalink: /vorstand/
 
 ![](/images/uploads/img_6593.jpeg "1. Schützenmeister Georg Felbemayr")
 
+**1. Schützenmeister** I Georg Felbermayr I
+
 \| **2. Schützenmeisterin** | Franziska Felbermayr |
 | **1. Sportleiterin LG/LP** | Marion Dauerer |
 | **2. Sportleiter LG/LP** | Wolfgang Empl |
