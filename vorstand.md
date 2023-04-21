@@ -15,12 +15,21 @@ permalink: /vorstand/
 
 ![](/images/uploads/img_6399.png)
 
-**1. Sportleiterin LG/LP** | Marion Dauerer |
+**1. Sportleiterin LG/LP** I Marion Dauerer I
 
-\| **2. Sportleiter LG/LP** | Wolfgang Empl |
-| **1. Sportleiter Bogen** | Jürgen Bohl|
-| **2. Sportleiter Bogen** | Simon Gratz |
-| **Kassiererin** | Ester Mittermeier |
+![](/images/uploads/img_6399.png)
+
+**2. Sportleiter LG/LP** I Wolfgang Empl I
+
+![](/images/uploads/img_6399.png)
+
+**1. Sportleiter Bogen** I Jürgen Bohl I
+
+![](/images/uploads/img_6399.png)
+
+**2. Sportleiter Bogen** | Simon Gratz |
+
+\| **Kassiererin** | Ester Mittermeier |
 | **Schriftführer** | Stefan Medele |
 | **1. Jugendleiter** | Stefan Fendl |
 | **2. Jugendleiter** | Sandra Thürstein |
