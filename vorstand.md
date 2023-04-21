@@ -27,15 +27,15 @@ permalink: /vorstand/
 
 ![](/images/uploads/img_6399.png)
 
-**2. Sportleiter Bogen** | Simon Gratz |
+**2. Sportleiter Bogen** I Simon Gratz I
 
 ![](/images/uploads/img_6399.png)
 
-**Kassiererin** | Ester Mittermeier |
+**Kassiererin** I Ester Mittermeier I
 
 ![](/images/uploads/img_6399.png)
 
-**Schriftführer** | Stefan Medele |
+**Schriftführer** I Stefan Medele I
 
 \| **1. Jugendleiter** | Stefan Fendl |
 | **2. Jugendleiter** | Sandra Thürstein |
