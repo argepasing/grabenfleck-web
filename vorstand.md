@@ -11,11 +11,11 @@ permalink: /vorstand/
 
 ![](/images/uploads/img_9850.jpeg)
 
-**2. Schützenmeisterin** | Franziska Felbermayr |
+**2. Schützenmeisterin** I Franziska Felbermayr I
 
 ![](/images/uploads/img_6399.png)
 
-\| **1. Sportleiterin LG/LP** | Marion Dauerer |
+**1. Sportleiterin LG/LP** | Marion Dauerer |
 
 \| **2. Sportleiter LG/LP** | Wolfgang Empl |
 | **1. Sportleiter Bogen** | Jürgen Bohl|
