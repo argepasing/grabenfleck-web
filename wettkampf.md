@@ -22,7 +22,7 @@ thumbnail: /images/uploads/dsc03380.jpg
 
 ## LG 1 - Münchenliga
 
-*Mannschaftsbild einfügen*
+![](/images/uploads/img_6399.png)
 
 * Franziska Felbermayr
 * Verena Glasl
