@@ -29,9 +29,15 @@ permalink: /vorstand/
 
 **2. Sportleiter Bogen** | Simon Gratz |
 
-\| **Kassiererin** | Ester Mittermeier |
-| **Schriftführer** | Stefan Medele |
-| **1. Jugendleiter** | Stefan Fendl |
+![](/images/uploads/img_6399.png)
+
+**Kassiererin** | Ester Mittermeier |
+
+![](/images/uploads/img_6399.png)
+
+**Schriftführer** | Stefan Medele |
+
+\| **1. Jugendleiter** | Stefan Fendl |
 | **2. Jugendleiter** | Sandra Thürstein |
 | **Jugendsprecherin** | Christina Dauerer |
 | **Jugendsprecher** | Levi Meier |
