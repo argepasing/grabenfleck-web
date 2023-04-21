@@ -5,7 +5,7 @@ permalink: /vorstand/
 ---
 # Unsere Vorstandschaft
 
-![1. Schützenmeister Georg Felbermayr](/images/uploads/img_6593.jpeg)
+![](/images/uploads/img_6593.jpeg "1. Schützenmeister Georg Felbemayr")
 
 \| **2. Schützenmeisterin** | Franziska Felbermayr |
 | **1. Sportleiterin LG/LP** | Marion Dauerer |
