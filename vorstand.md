@@ -11,7 +11,7 @@ permalink: /vorstand/
 
 ![](/images/uploads/img_9850.jpeg)
 
-\| **2. Schützenmeisterin** | Franziska Felbermayr |
+**2. Schützenmeisterin** | Franziska Felbermayr |
 
 ![](/images/uploads/img_6399.png)
 
