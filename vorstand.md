@@ -5,7 +5,7 @@ permalink: /vorstand/
 ---
 # Unsere Vorstandschaft
 
-BILD
+![](/images/uploads/img_6593.jpeg "1. Schützenmeister Georg Felbermayr sen.")
 
 \| **1. Schützenmeister** | Georg Felbermayr sen. |
 | **2. Schützenmeisterin** | Franziska Felbermayr |
