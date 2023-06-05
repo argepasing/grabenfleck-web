@@ -5,11 +5,10 @@ permalink: /training/
 ---
 # Training das Spaß macht
 
-Franziska Felbermayr – Luftgewehr Trainerin
+| Franziska Felbermayr | Luftgewehr Trainerin |
+| Max Bergmayr | Luftpistolen Trainer |
 
-Max Bergmayr – Luftpistolen Trainer
-
-Unser Motto: Es muss Spaß machen
+> Unser Motto: Es muss Spaß machen
 
 ![](/images/uploads/a848e29a-a43c-41d9-adb5-2d56db173d10.jpeg)
 

@@ -3,9 +3,9 @@ layout: page
 title: Behindertensport
 permalink: /behindertensport/
 ---
-# Integration von Sportler*innen mit Handicap
+# Sport verbindet
 
-## Sport verbindet!
+## Integration von Sportler*innen mit Handicap
 
 Neben der Jugendarbeit wird bei uns auch Inklusion groß geschrieben. Als einziger Schützenverein in München können bei uns Menschen mit fehlender oder stark eingeschränkter Sehfähigkeit den Schießsport ausüben. Mit der Unterstützung der Stiftung Soziales München und der Stadtsparkase München konntenn wir uns ein speziell angefertigtes Luftgewehr anschaffen. Zusammen mit der Unterstützung sehender Schütz*innen können so auch sehbehinderten an unserem Training teilnehmen.
 
@@ -16,5 +16,3 @@ Wie das funktioniert, ganz einfach. Bei dem speziell angefertigtem Luftgewehr we
 ![](/images/uploads/img_6650.jpeg)
 
 ![](/images/uploads/img_6647.jpeg)
-
-![]()

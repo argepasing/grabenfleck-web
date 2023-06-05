@@ -22,4 +22,6 @@ Wenn Du Mitglied bei uns werden möchten, ist eine fünfmalige Teilnahme am Trai
 * Wehrdienstleistende, Studenten und Auszubildende: Jahresbeitrag 60€
 * Erwachsene: Jahresbeitrag 120€
 
-[Satzung der SG Grabenfleck e.V. zum Download](/images/uploads/satzung_sggrabenfleck.pdf)
+### Satzung der SG Grabenfleck e.V
+
+- 📖 [Satzung als PDF zum Download](/images/uploads/satzung_sggrabenfleck.pdf)

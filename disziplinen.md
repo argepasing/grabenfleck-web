@@ -3,10 +3,14 @@ layout: page
 title: Disziplinen
 permalink: /disziplinen/
 ---
+# Sportarten
+
 Lichtgewehr / Lichtpistole
 
-Luftgewehr
+[Luftgewehr](/luftgewehr/)
 
-Luftpistole
+[Luftpistole](/luftpistole/)
 
-Bogen
+[Bogen](/bogen/)
+
+❓ Intern: Braucht ihr diese Seite?

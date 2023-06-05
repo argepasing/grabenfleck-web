@@ -5,59 +5,69 @@ permalink: /kontakt/
 ---
 # Kurz und knapp
 
+## Probetraining
+
 Lust auf ein Probetraining? Dann melde dich unter [info@grabenfleck.de](mailto:info@grabenfleck.de) oder telefonisch unter 089/88 69 21 bei unserem Vorstand Georg Felbermayr
 
-**Luftgewehr- und Luftpistolentraining**
+---
 
-freitags ab 17.00 Uhr
+## Luftgewehr- und Luftpistolentraining
 
-(Probetraining freitags 17.00-19.00 Uhr)
+### Trainingszeiten
 
-**Adresse:**\
-Bezirkssportanlage Aubinger Straße (Vereinsheim)\
+| Freitag | 17:00 bis 19:00 Uhr |
+| Probetraining freitags | 17:00 bis 19:00 Uhr |
+
+### Adresse Vereinsheim
+
+Bezirkssportanlage Aubinger Straße\
 Aubinger Straße 12\
 81243 München
 
-**Anfahrt:**
+### Anfahrt
 
-**Vereinsheim Luftgewehr/Luftpistole**
-
+**Vereinsheim Luftgewehr/Luftpistole**\
 Aubinger Straße 12\
 81243 München
 
 ![](/images/uploads/anfahrt-kugelschuetzen.jpg)
 
-**Bogentraining**
+## Bogentraining
 
-**Zeitraum:**\
-April - Sept., auch in der Ferienzeit - Dienstag, Donnerstag, Samstag
+### Zeitraum • April - Sept
+Dienstag, Donnerstag, Samstag (auch in der Ferienzeit)
 
-**Uhrzeit**:\
-17:00 bis 19:00 Uhr (Di)\
-17:00 bis 20:00 Uhr (Do)\
-10:30 bis 13:00 Uhr (Sa)
+### Trainingszeiten
 
-**Adresse**:\
+| Dienstag | 17:00 bis 19:00 Uhr |
+| Donnerstag | 17:00 bis 20:00 Uhr |
+| Samstag | 10:30 bis 13:00 Uhr |
+
+### Adresse Bogenplatz
+
 Bogenplatz Pasing\
 Silberdistelstraße\
 81241 München
 
-**Zeitraum**:\
-Oktober-März, nicht in Ferienzeit - Dienstag, Donnerstag
+![](/images/uploads/anfahrt-bogen-sommer.jpg)
 
-**Uhrzeit**:\
-16.00 bis 19.00 Uhr (Di)\
-16.00 bis 20.00 Uhr (Do)
+---
 
-**Adresse**:\
+### Zeitraum • Oktober - März
+nicht in Ferienzeit - Dienstag, Donnerstag
+
+### Trainingszeiten
+
+| Dienstag | 16.00 bis 19.00 Uhr |
+| Donnerstag | 16.00 bis 20.00 Uhr |
+
+### Adresse Turnhalle
 Sporthalle BSZ Luisenstraße\
 Luisenstr. 9/11\
 80333 München
 
 ![](/images/uploads/anfahrt-bogen-winter.jpg)
 
-**Bogenplatz (Mai-September)**
 
-Silberdistelstraße
 
-![](/images/uploads/anfahrt-bogen-sommer.jpg)
+

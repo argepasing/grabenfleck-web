@@ -7,56 +7,56 @@ permalink: /vorstand/
 
 ![](/images/uploads/img_6593.jpeg)
 
-**1. Schützenmeister** I Georg Felbermayr I
+**1. Schützenmeister** • Georg Felbermayr
 
 ![](/images/uploads/img_9850.jpeg)
 
-**2. Schützenmeisterin** I Franziska Felbermayr I
+**2. Schützenmeisterin** • Franziska Felbermayr
 
 ![](/images/uploads/img_6399.png)
 
-**1. Sportleiterin LG/LP** I Marion Dauerer I
+**1. Sportleiterin LG/LP** • Marion Dauerer
 
 ![](/images/uploads/img_6399.png)
 
-**2. Sportleiter LG/LP** I Wolfgang Empl I
+**2. Sportleiter LG/LP** • Wolfgang Empl
 
 ![](/images/uploads/img_6399.png)
 
-**1. Sportleiter Bogen** I Jürgen Bohl I
+**1. Sportleiter Bogen** • Jürgen Bohl
 
 ![](/images/uploads/img_6399.png)
 
-**2. Sportleiter Bogen** I Simon Gratz I
+**2. Sportleiter Bogen** • Simon Gratz
 
 ![](/images/uploads/img_6399.png)
 
-**Kassiererin** I Ester Mittermeier I
+**Kassiererin** • Ester Mittermeier
 
 ![](/images/uploads/img_6399.png)
 
-**Schriftführer** I Stefan Medele I
+**Schriftführer** • Stefan Medele
 
 ![](/images/uploads/img_6839.jpeg)
 
-**1. Jugendleiter** I Stefan Fendl I
+**1. Jugendleiter** • Stefan Fendl
 
 ![](/images/uploads/img_6399.png)
 
-**2. Jugendleiter** I Sandra Thürstein I
+**2. Jugendleiter** • Sandra Thürstein
 
 ![](/images/uploads/img_6399.png)
 
-**Jugendsprecherin** I Christina Dauerer I
+**Jugendsprecherin** • Christina Dauerer
 
 ![](/images/uploads/img_6399.png)
 
-**Jugendsprecher** | Levi Meier I
+**Jugendsprecher** • Levi Meier
 
 ![](/images/uploads/img_6399.png)
 
-**Mitgliederreferent** I Thomas Echensberger I
+**Mitgliederreferent** • Thomas Echensberger
 
 ![](/images/uploads/img_6399.png)
 
-**Böllerreferent** I Michael Klemke I
+**Böllerreferent** • Michael Klemke
