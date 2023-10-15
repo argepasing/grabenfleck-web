@@ -1,8 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-
-.navbar-item {
-  @apply mx-2 py-1 text-base transition duration-500 ease-in-out transform hover:text-green-500 focus:border-b-4 focus:border-green-500 whitespace-nowrap;
-}
