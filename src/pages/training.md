@@ -4,14 +4,14 @@ title: Training
 ---
 # Training das Spaß macht
 
-| Person | Spezialgebiet |
-|---|---|
+| Person               | Spezialgebiet        |
+| -------------------- | -------------------- |
 | Franziska Felbermayr | Luftgewehr Trainerin |
-| Max Bergmayr | Luftpistolen Trainer |
+| Max Bergmayr         | Luftpistolen Trainer |
 
 > Unser Motto: Es muss Spaß machen
 
-![](/images/uploads/a848e29a-a43c-41d9-adb5-2d56db173d10.jpeg)
+![Foto Trainer Max und Franziska](/images/uploads/a848e29a-a43c-41d9-adb5-2d56db173d10.jpeg)
 
 Seit 2018 haben wir in unserem Verein zwei Trainer*innen. Einen Trainer für das Luftpistolen schießen und eine Trainerin für das Luftgewehrschießen. In einem einwöchigen Kurs mit anschließender Prüfung haben die beiden Ihre Trainerlizenz C erhalten. Um diese zu behalten sind regelmäßige Fortbildungen Pflicht.
 
