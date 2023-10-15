@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/argepasing/grabenfleck-web/compare/v1.0.1...v1.0.2) (2023-10-15)
+
+
+### Bug Fixes
+
+* ViewTransition fix ([3771f04](https://github.com/argepasing/grabenfleck-web/commit/3771f04afd8c03e54fa9ca6de664ff4a18c26793))
+
 ## [1.0.1](https://github.com/argepasing/grabenfleck-web/compare/v1.0.0...v1.0.1) (2023-10-15)
 
 
