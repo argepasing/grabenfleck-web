@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/argepasing/grabenfleck-web/compare/v1.0.0...v1.0.1) (2023-10-15)
+
+
+### Bug Fixes
+
+* expose build infos ([83118e5](https://github.com/argepasing/grabenfleck-web/commit/83118e5e58696f144d211ea8799338e2fca0bb21))
+
 ## 1.0.0 (2023-10-15)
 
 
