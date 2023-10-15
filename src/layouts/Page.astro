@@ -1,0 +1,17 @@
+---
+import Default from '../layouts/Default.astro';
+
+const {frontmatter} = Astro.props;
+---
+
+<Default title={ frontmatter.title }>
+  <div class="mx-auto px-5 lg:px-8 lg:w-3/4">
+    <div class="text-sm title-font text-gray-500 tracking-widest uppercase mb-2">
+      { frontmatter.title }
+    </div>
+
+    <div class="prose">
+      <slot />
+    </div>
+  </div>
+</Default>

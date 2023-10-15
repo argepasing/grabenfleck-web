@@ -1,0 +1,45 @@
+---
+import "../stylesheets/app.css";
+
+import Head from '../components/Head.astro';
+import Navbar from '../components/Navbar.astro';
+import Footer from '../components/Footer.astro';
+
+import { ViewTransitions } from 'astro:transitions';
+
+const { title } = Astro.props
+---
+
+<!doctype html>
+<html lang="de">
+  <head>
+    <Head title={title} />
+
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <ViewTransitions />
+    <meta name="generator" content={Astro.generator} />
+  </head>
+  <body class="border-t-8 border-green-600">
+    <div class="container items-center ">
+      <Navbar />
+
+      <main id="swup" class="container">
+        <slot />
+      </main>
+
+      <Footer />
+    </div>
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
+  </body>
+</html>
