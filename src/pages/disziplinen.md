@@ -4,12 +4,10 @@ title: Disziplinen
 ---
 # Sportarten
 
-Lichtgewehr / Lichtpistole
+[Lichtgewehr & Lichtpistole](/lichtgewehr-pistole/)
 
 [Luftgewehr](/luftgewehr/)
 
 [Luftpistole](/luftpistole/)
 
 [Bogen](/bogen/)
-
-❓ Intern: Braucht ihr diese Seite?
