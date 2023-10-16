@@ -20,12 +20,14 @@ title: Wettkampf
 
 ## LG 1 - Münchenliga
 
-![](/images/uploads/img_6399.jpeg)
+![](/images/uploads/df4969b6-b44d-485a-87e6-6b5a6f9d197c.jpg)
 
 * Franziska Felbermayr
-* Verena Glasl
 * Marion Dauerer
+* Christina Dauerer
+* Julia
 * Beate Soyer
 * Mattias Pointner
 * Waldtraud Glasl
-* Christina Glasl
+* Verena Glasl
+* Georg Sebastian Felbermayr
