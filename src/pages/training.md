@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/Page.astro
+layout: @layouts/Page.astro
 title: Training
 ---
 # Training das Spaß macht
