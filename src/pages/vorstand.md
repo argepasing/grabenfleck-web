@@ -1,7 +1,8 @@
 ---
-layout: @layouts/Page.astro
+layout: "@layouts/Page.astro"
 title: Vorstand
 ---
+
 # Unsere Vorstandschaft
 
 ![](/images/uploads/img_6593.jpeg)

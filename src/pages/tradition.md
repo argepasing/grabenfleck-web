@@ -1,14 +1,15 @@
 ---
-layout: @layouts/Page.astro
+layout: "@layouts/Page.astro"
 title: Tradition
 ---
+
 # Böllergruppe
 
 ![Gruppenfoto Böllerschützen](/images/uploads/tradition-boellerschuetzen.jpg "Gruppenfoto Böllerschützen")
 
-Sport und Brauchtum zeichnen unseren Verein aus. Daher haben wir Anfang 1998 die Böllergruppe der SG Grabenfleck e.V gegründet. Der erste Auftritt unserer Böllerschütz*innen fand am 20.Juni 1998 im Rahmen des Pasinger Stadtteilfests statt. Über das ganze Jahr nehmen wir an unterschiedlichsten Veranstaltungen wie kirchlichen Feiertagen, Volksfesten, dem Münchner Stadtgründungsfest, das Neujahrsböllern in Pasing und als Höhepunkt am Böllerschießen auf der Theresienwiese zum Abschluss des Oktoberfest teil.
+Sport und Brauchtum zeichnen unseren Verein aus. Daher haben wir Anfang 1998 die Böllergruppe der SG Grabenfleck e.V gegründet. Der erste Auftritt unserer Böllerschütz\*innen fand am 20.Juni 1998 im Rahmen des Pasinger Stadtteilfests statt. Über das ganze Jahr nehmen wir an unterschiedlichsten Veranstaltungen wie kirchlichen Feiertagen, Volksfesten, dem Münchner Stadtgründungsfest, das Neujahrsböllern in Pasing und als Höhepunkt am Böllerschießen auf der Theresienwiese zum Abschluss des Oktoberfest teil.
 
-Um Böllerschütz*in zu werden muss man neben der Mitgliedschaft bei uns einen Lehrgang mit anschließender Prüfung zur vorschriftsmäßigen Verwendung von Handböllern und Böllerpukver absolvieren.
+Um Böllerschütz\*in zu werden muss man neben der Mitgliedschaft bei uns einen Lehrgang mit anschließender Prüfung zur vorschriftsmäßigen Verwendung von Handböllern und Böllerpukver absolvieren.
 
 ## Tradition und Brauchtum
 

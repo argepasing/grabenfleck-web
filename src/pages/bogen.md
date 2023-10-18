@@ -1,10 +1,11 @@
 ---
-layout: @layouts/Page.astro
+layout: "@layouts/Page.astro"
 title: Bogen
 ---
+
 # Bogenschießen
 
-***“Alle ins Gold”***... ist das Ziel aller Bogenschützen.
+**_“Alle ins Gold”_**... ist das Ziel aller Bogenschützen.
 
 ![](/images/uploads/bogen1.jpg)
 
@@ -16,7 +17,7 @@ Bei uns könnt ihr alle Bogenarten vom Blank über Recurve bis zu Compound-Bogen
 
 ![](/images/uploads/dscn0321.jpg)
 
-Unsere Trainer\*innen stehen euch für alle Fragen rund um den Bogensport zur Verfügung. Egal ob Breitensportler\*in oder leistungsorientierte Teilnehmer*innen. Alle sind herzlich willkommen.
+Unsere Trainer\*innen stehen euch für alle Fragen rund um den Bogensport zur Verfügung. Egal ob Breitensportler\*in oder leistungsorientierte Teilnehmer\*innen. Alle sind herzlich willkommen.
 
 ![](/images/uploads/dscn0324.jpg)
 

@@ -1,13 +1,14 @@
 ---
 import "../stylesheets/app.css";
 
-import Head from '@components/Head.astro';
-import Navbar from '@components/Navbar.astro';
-import Footer from '@components/Footer.astro';
+import Head from "@components/Head.astro";
+import Navbar from "@components/Navbar.astro";
+import Footer from "@components/Footer.astro";
 
-import { ViewTransitions } from 'astro:transitions';
+import { ViewTransitions } from "astro:transitions";
 
-const { title } = Astro.props
+const { title } = Astro.props;
+// <ViewTransitions />
 ---
 
 <!doctype html>
@@ -15,12 +16,14 @@ const { title } = Astro.props
   <head>
     <Head title={title} />
 
-    <script is:inline src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <ViewTransitions />
+    <script
+      is:inline
+      src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <!-- /* view transition */ -->
     <meta name="generator" content={Astro.generator} />
   </head>
   <body class="border-t-8 border-green-600">
-    <div class="container items-center ">
+    <div class="container items-center">
       <Navbar />
 
       <main class="container">
@@ -32,7 +35,7 @@ const { title } = Astro.props
 
     <script is:inline>
       if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", user => {
+        window.netlifyIdentity.on("init", (user) => {
           if (!user) {
             window.netlifyIdentity.on("login", () => {
               document.location.href = "/admin/";

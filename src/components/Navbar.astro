@@ -1,34 +1,98 @@
 ---
+import {
+  Astronav,
+  MenuItems,
+  MenuIcon,
+  Dropdown,
+  DropdownItems,
+  DropdownSubmenu,
+} from "astro-navbar";
 ---
 
-<div transition:persist class="text-blueGray-700 transition duration-500 ease-in-out transform bg-white">
-  <div class="flex flex-col flex-wrap p-5 mx-auto md:items-center md:flex-row">
-    <a href="/" class="pr-2 lg:pr-8 lg:px-6 focus:outline-none">
-      <div class="inline-flex items-baseline">
-        <div class="w-2 h-2 p-2 mr-2 rounded-full bg-gradient-to-tr from-green-500 to-green-600"></div>
-        <h2 class="block p-2 text-xl font-medium tracking-tighter text-black transition duration-500 ease-in-out transform cursor-pointer hover:text-blueGray-500 lg:text-x lg:mr-8">
-          SG Grabenfleck e.V.
-          <small class="text-gray-500 font-light text-sm font-mono block">München-Pasing</small>
-        </h2>
-      </div>
-    </a>
-    <nav class="flex flex-wrap items-center justify-center text-base md:ml-auto md:mr-auto">
-      <ul class="items-center inline-block list-none lg:inline-flex">
-        <li><a href="/ueber-uns/" class="navbar-item">Über uns</a></li>
-        <li><a href="/tradition/" class="navbar-item">Tradition</a></li>
-        <li><a href="/disziplinen/" class="navbar-item">Disziplinen</a></li>
-          <li><a href="/bogen/" class="navbar-item">Bogen</a></li>
-          <li><a href="/luftgewehr/" class="navbar-item">Luftgewehr</a></li>
-          <li><a href="/luftpistole/" class="navbar-item">Luftpistole</a></li>
-          <li><a href="/lichtgewehr-pistole/" class="navbar-item">Lichtgewehr- /pistole</a></li>
-          <li><a href="/behindertensport/" class="navbar-item">Behindertensport</a></li>
-        <li><a href="/training/" class="navbar-item">Training</a></li>
-        <li><a href="/wettkampf/" class="navbar-item">Wettkampf</a></li>
-        <li><a href="/jugend/" class="navbar-item">Jugend</a></li>
-        <li><a href="/vorstand/" class="navbar-item">Vorstand</a></li>
-        <li><a href="/mitgliedschaft/" class="navbar-item">Mitgliedschaft</a></li>
-        <li><a href="/kontakt/" class="navbar-item">Kontakt</a></li>
-      </ul>
-    </nav>
-  </div>
-</div>
+<header
+  transition:persist
+  class="text-blueGray-700 transform bg-white py-3 transition duration-500 ease-in-out"
+>
+  <Astronav>
+    <div class="flex w-full justify-between justify-items-center">
+      <a href="/" class="pr-2 focus:outline-none lg:px-6 lg:pr-8">
+        <div class="inline-flex items-center">
+          <div class="flex w-5">
+            <div
+              class="absolute mr-2 h-4 w-4 rounded-full bg-gradient-to-tr from-black to-slate-800 p-3"
+            >
+            </div>
+            <div
+              class="absolute mr-2 h-2 w-2 rounded-full bg-gradient-to-tr from-green-500 to-green-600 p-2"
+            >
+            </div>
+          </div>
+          <h2
+            class="hover:text-blueGray-500 lg:text-x block transform cursor-pointer p-2 text-xl font-medium tracking-tighter text-black transition duration-500 ease-in-out lg:mr-8"
+          >
+            SG Grabenfleck e.V.
+            <small class="block text-sm font-light text-gray-500"
+              >München-Pasing</small
+            >
+          </h2>
+        </div>
+        <div class="block lg:hidden">
+          <MenuIcon class="h-6 w-6 text-gray-800" />
+        </div>
+      </a>
+      <MenuItems class="lg:flex">
+        <ul
+          class="flex flex-col items-center justify-center lg:flex-row lg:gap-5"
+        >
+          <li><a href="/ueber-uns/" class="navbar-item">Über uns</a></li>
+          <li><a href="/tradition/" class="navbar-item">Tradition</a></li>
+          <li>
+            <Dropdown class="group">
+              <button class="flex items-center">
+                <span> Disziplinen</span>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke-width="3"
+                  stroke="currentColor"
+                  class="ml-2 h-3 w-3 group-open:rotate-180"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    d="M19.5 8.25l-7.5 7.5-7.5-7.5"></path>
+                </svg>
+              </button>
+              <DropdownItems class="relative">
+                <div class="absolute top-0 bg-white p-2">
+                  <ul>
+                    <li><a href="/bogen/" class="">Bogen</a></li>
+                    <li><a href="/luftgewehr/" class="">Luftgewehr</a></li>
+                    <li><a href="/luftpistole/" class="">Luftpistole</a></li>
+                    <li>
+                      <a href="/lichtgewehr-pistole/" class=""
+                        >Lichtgewehr- /pistole</a
+                      >
+                    </li>
+                    <li>
+                      <a href="/behindertensport/" class="">Behindertensport</a>
+                    </li>
+                  </ul>
+                </div>
+              </DropdownItems>
+            </Dropdown>
+          </li>
+          <li><a href="/training/" class="navbar-item">Training</a></li>
+          <li><a href="/wettkampf/" class="navbar-item">Wettkampf</a></li>
+          <li><a href="/jugend/" class="navbar-item">Jugend</a></li>
+          <li><a href="/vorstand/" class="navbar-item">Vorstand</a></li>
+          <li>
+            <a href="/mitgliedschaft/" class="navbar-item">Mitgliedschaft</a>
+          </li>
+          <li><a href="/kontakt/" class="navbar-item">Kontakt</a></li>
+        </ul>
+      </MenuItems>
+    </div>
+  </Astronav>
+</header>

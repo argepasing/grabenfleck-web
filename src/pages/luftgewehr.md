@@ -1,7 +1,8 @@
 ---
-layout: @layouts/Page.astro
+layout: "@layouts/Page.astro"
 title: Luftgewehr
 ---
+
 # Luftgewehrschießen
 
 ![](/images/uploads/dsc03330.jpg)

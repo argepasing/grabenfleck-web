@@ -1,7 +1,8 @@
 ---
-layout: @layouts/Page.astro
+layout: "@layouts/Page.astro"
 title: Startseite
 ---
+
 # Herzlich Willkommen
 
 ![Gruppenfoto Grabenfleck](/images/uploads/dsc03367.jpg "Gruppenfoto Grabenfleck")
