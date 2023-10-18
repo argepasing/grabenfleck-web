@@ -17,16 +17,7 @@ import {
     <div class="flex w-full justify-between justify-items-center">
       <a href="/" class="pr-2 focus:outline-none lg:px-6 lg:pr-8">
         <div class="inline-flex items-center">
-          <div class="flex w-5">
-            <div
-              class="absolute mr-2 h-4 w-4 rounded-full bg-gradient-to-tr from-black to-slate-800 p-3"
-            >
-            </div>
-            <div
-              class="absolute mr-2 h-2 w-2 rounded-full bg-gradient-to-tr from-green-500 to-green-600 p-2"
-            >
-            </div>
-          </div>
+          <div class="flex w-14 text-5xl">🏹</div>
           <h2
             class="hover:text-blueGray-500 lg:text-x block transform cursor-pointer p-2 text-xl font-medium tracking-tighter text-black transition duration-500 ease-in-out lg:mr-8"
           >
@@ -36,10 +27,10 @@ import {
             >
           </h2>
         </div>
-        <div class="block lg:hidden">
-          <MenuIcon class="h-6 w-6 text-gray-800" />
-        </div>
       </a>
+      <div class="block lg:hidden">
+        <MenuIcon class="h-6 w-6 text-gray-800" />
+      </div>
       <MenuItems class="lg:flex">
         <ul
           class="flex flex-col items-center justify-center lg:flex-row lg:gap-5"
@@ -65,18 +56,44 @@ import {
                 </svg>
               </button>
               <DropdownItems class="relative">
-                <div class="absolute top-0 bg-white p-2">
+                <div
+                  class="absolute top-0 mt-2 w-56 origin-top-right divide-y divide-gray-100 rounded-md border border-gray-200 bg-white py-1 shadow-lg outline-none"
+                >
                   <ul>
-                    <li><a href="/bogen/" class="">Bogen</a></li>
-                    <li><a href="/luftgewehr/" class="">Luftgewehr</a></li>
-                    <li><a href="/luftpistole/" class="">Luftpistole</a></li>
                     <li>
-                      <a href="/lichtgewehr-pistole/" class=""
+                      <a
+                        href="/bogen/"
+                        class="flex w-full justify-between px-4 py-2 text-left text-sm leading-5 text-gray-700 hover:bg-slate-100 focus-visible:outline-1 focus-visible:outline-blue-500"
+                        >Bogen</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        href="/luftgewehr/"
+                        class="flex w-full justify-between px-4 py-2 text-left text-sm leading-5 text-gray-700 hover:bg-slate-100 focus-visible:outline-1 focus-visible:outline-blue-500"
+                        >Luftgewehr</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        href="/luftpistole/"
+                        class="flex w-full justify-between px-4 py-2 text-left text-sm leading-5 text-gray-700 hover:bg-slate-100 focus-visible:outline-1 focus-visible:outline-blue-500"
+                        >Luftpistole</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        href="/lichtgewehr-pistole/"
+                        class="flex w-full justify-between px-4 py-2 text-left text-sm leading-5 text-gray-700 hover:bg-slate-100 focus-visible:outline-1 focus-visible:outline-blue-500"
                         >Lichtgewehr- /pistole</a
                       >
                     </li>
                     <li>
-                      <a href="/behindertensport/" class="">Behindertensport</a>
+                      <a
+                        href="/behindertensport/"
+                        class="flex w-full justify-between px-4 py-2 text-left text-sm leading-5 text-gray-700 hover:bg-slate-100 focus-visible:outline-1 focus-visible:outline-blue-500"
+                        >Behindertensport</a
+                      >
                     </li>
                   </ul>
                 </div>
