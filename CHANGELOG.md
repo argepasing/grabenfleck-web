@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/argepasing/grabenfleck-web/compare/v1.0.2...v1.0.3) (2023-10-19)
+
+
+### Bug Fixes
+
+* whitespace-nowrap issues ([6c0d1b5](https://github.com/argepasing/grabenfleck-web/commit/6c0d1b5005c3e18d149908d1e24102f1293247f8))
+
 ## [1.0.2](https://github.com/argepasing/grabenfleck-web/compare/v1.0.1...v1.0.2) (2023-10-15)
 
 
