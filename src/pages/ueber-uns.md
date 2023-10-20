@@ -11,15 +11,15 @@ Unser Verein, die Schützengesellschaft Grabenfleck e.V. ist dem Schützengau M�
 
 Neben unseren sportlichen Leistungen organisieren wir Aktivitäten innerhalb und außerhalb unseres Vereins. Dazu gehört unser Vereinsauflug, das Sommerfest unser Wiesnschießen uvm.
 
-![](/images/uploads/img_7322.jpeg)
+![](/images/uploads/img_7322.jpg)
 
-![](/images/uploads/0a00f53a-19b4-4e62-9bc4-69dcc09f9cb0.jpeg)
+![](/images/uploads/0a00f53a-19b4-4e62-9bc4-69dcc09f9cb0.jpg)
 
-![](/images/uploads/37719ac3-707a-430e-9e37-e5bf8ef17ee0.jpeg)
+![](/images/uploads/37719ac3-707a-430e-9e37-e5bf8ef17ee0.jpg)
 
-![](/images/uploads/3cd2577b-be9d-45f5-8308-2f860aca2e51.jpeg)
+![](/images/uploads/3cd2577b-be9d-45f5-8308-2f860aca2e51.jpg)
 
-![](/images/uploads/img_4796.jpeg)
+![](/images/uploads/img_4796.jpg)
 
 ## Eine ganz besondere Ehre
 
@@ -27,7 +27,7 @@ Am Ende eines jeden Jahres wird im Rahmen des Weihnachtsschießens unter allen L
 
 ![](/images/uploads/koenigsscheibe.jpg)
 
-![](/images/uploads/img_4188.jpeg)
+![](/images/uploads/img_4188.jpg)
 
 ## Unsere Vereinsgeschichte
 

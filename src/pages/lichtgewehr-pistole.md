@@ -25,8 +25,8 @@ Die Lichtpistole ist auch eine sehr umweltfreundliche Waffe, da sie keine Bleiku
 
 Unsere erfahrenen Trainer stehen Ihnen zur Verfügung, um Ihnen die Grundlagen des Schießens mit der Lichtpistole beizubringen und Ihnen dabei zu helfen, Ihre Fähigkeiten zu verbessern. Wir laden Sie herzlich ein, sich uns anzuschließen und die Faszination des Schießens mit der Lichtpistole zu erleben.
 
-![](/images/uploads/img_8376.jpeg)
+![](/images/uploads/img_8376.jpg)
 
-![](/images/uploads/img_8377.jpeg)
+![](/images/uploads/img_8377.jpg)
 
-![](/images/uploads/img_8378.jpeg)
+![](/images/uploads/img_8378.jpg)

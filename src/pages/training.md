@@ -12,7 +12,7 @@ title: Training
 
 > Unser Motto: Es muss Spaß machen
 
-![Foto Trainer Max und Franziska](/images/uploads/a848e29a-a43c-41d9-adb5-2d56db173d10.jpeg)
+![Foto Trainer Max und Franziska](/images/uploads/a848e29a-a43c-41d9-adb5-2d56db173d10.jpg)
 
 Seit 2018 haben wir in unserem Verein zwei Trainer\*innen. Einen Trainer für das Luftpistolen schießen und eine Trainerin für das Luftgewehrschießen. In einem einwöchigen Kurs mit anschließender Prüfung haben die beiden Ihre Trainerlizenz C erhalten. Um diese zu behalten sind regelmäßige Fortbildungen Pflicht.
 
@@ -24,10 +24,10 @@ Zu Veranstaltungen, Meisterschaften und Wettbewerben werden die Jugendlichen beg
 
 All ihr wissen geben sie mit Leidenschaft an Vereinskolleg\*innen weiter egal ob Anfänger oder Fortgeschritten ob Jung oder Alt. Mit individuellen Trainingsmethoden sorgen sie jederzeit für Spaß am Training.
 
-![](/images/uploads/img_1999.jpeg)
+![](/images/uploads/img_1999.jpg)
 
-![](/images/uploads/img_1992.jpeg)
+![](/images/uploads/img_1992.jpg)
 
-![](/images/uploads/img_1960.jpeg)
+![](/images/uploads/img_1960.jpg)
 
-![](/images/uploads/b7cb4ba5-9b96-48ed-a73d-225fc7d6ce02.jpeg)
+![](/images/uploads/b7cb4ba5-9b96-48ed-a73d-225fc7d6ce02.jpg)

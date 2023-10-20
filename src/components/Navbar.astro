@@ -1,30 +1,18 @@
 ---
-import {
-  Astronav,
-  MenuItems,
-  MenuIcon,
-  Dropdown,
-  DropdownItems,
-  DropdownSubmenu,
-} from "astro-navbar";
+import { Astronav, MenuItems, MenuIcon, Dropdown, DropdownItems, DropdownSubmenu } from "astro-navbar";
 ---
 
-<header
-  transition:persist
-  class="text-blueGray-700 transform bg-white py-3 transition duration-500 ease-in-out"
->
+<header transition:persist class="text-blueGray-700 transform bg-white py-3 transition duration-500 ease-in-out">
   <Astronav>
     <div class="flex w-full justify-between justify-items-center">
       <a href="/" class="pr-2 focus:outline-none lg:px-6 lg:pr-8">
         <div class="inline-flex items-center">
           <div class="flex w-14 text-5xl">🏹</div>
           <h2
-            class="hover:text-blueGray-500 lg:text-x block transform cursor-pointer p-2 text-xl font-medium tracking-tighter whitespace-nowrap text-black transition duration-500 ease-in-out lg:mr-8"
+            class="hover:text-blueGray-500 lg:text-x block transform cursor-pointer whitespace-nowrap p-2 text-xl font-medium tracking-tighter text-black transition duration-500 ease-in-out lg:mr-8"
           >
             SG Grabenfleck e.V.
-            <small class="block text-sm font-light text-gray-500"
-              >München-Pasing</small
-            >
+            <small class="block text-sm font-light text-gray-500">München-Pasing</small>
           </h2>
         </div>
       </a>
@@ -32,9 +20,7 @@ import {
         <MenuIcon class="h-6 w-6 text-gray-800" />
       </div>
       <MenuItems class="lg:flex">
-        <ul
-          class="flex flex-col items-center justify-center lg:flex-row lg:gap-5"
-        >
+        <ul class="flex flex-col items-center justify-center lg:flex-row lg:gap-3">
           <li><a href="/ueber-uns/" class="navbar-item">Über uns</a></li>
           <li><a href="/tradition/" class="navbar-item">Tradition</a></li>
           <li>
@@ -49,10 +35,7 @@ import {
                   stroke="currentColor"
                   class="ml-2 h-3 w-3 group-open:rotate-180"
                 >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    d="M19.5 8.25l-7.5 7.5-7.5-7.5"></path>
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5"></path>
                 </svg>
               </button>
               <DropdownItems class="relative">
