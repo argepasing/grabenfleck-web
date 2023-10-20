@@ -3,7 +3,7 @@ layout: "@layouts/Page.astro"
 title: Luftpistole
 ---
 
-# Luftpistoleschießen
+# Luftpistole&shy;schießen
 
 ![](/images/uploads/dsc03326.jpg)
 

@@ -3,7 +3,7 @@ layout: "@layouts/Page.astro"
 title: Luftgewehr
 ---
 
-# Luftgewehrschießen
+# Luftgewehr&shy;schießen
 
 ![](/images/uploads/dsc03330.jpg)
 

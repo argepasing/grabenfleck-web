@@ -3,7 +3,7 @@ layout: "@layouts/Page.astro"
 title: Lichtgewehr-/ pistole
 ---
 
-# Lichtgewehrschießen
+# Lichtgewehr&shy;schießen
 
 ## Jugend übt
 
