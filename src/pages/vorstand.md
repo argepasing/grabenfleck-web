@@ -2,7 +2,6 @@
 layout: "@layouts/Page.astro"
 title: Vorstand
 ---
-
 # Unsere Vorstandschaft
 
 ![](/images/uploads/img_6593.jpg)
@@ -51,11 +50,11 @@ title: Vorstand
 
 ![](/images/uploads/img_6399.jpg)
 
-**Jugendsprecher** • Levi Meier
+**Jugendsprecher** • Michl Konrath
 
 ![](/images/uploads/img_6399.jpg)
 
-**Mitgliederreferent** • Thomas Echensberger
+**Mitgliederreferentin** • Doris Faden
 
 ![](/images/uploads/img_6399.jpg)
 
