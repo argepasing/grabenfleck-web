@@ -1,4 +1,5 @@
 ---
+const currentPath = Astro.url.pathname;
 import { Astronav, MenuItems, MenuIcon, Dropdown, DropdownItems, DropdownSubmenu } from "astro-navbar";
 ---
 
@@ -20,9 +21,9 @@ import { Astronav, MenuItems, MenuIcon, Dropdown, DropdownItems, DropdownSubmenu
         <MenuIcon class="h-6 w-6 text-gray-800" />
       </div>
       <MenuItems class="lg:flex">
-        <ul class="flex flex-col items-center justify-center lg:flex-row lg:gap-3">
-          <li><a href="/ueber-uns/" class="navbar-item">Über uns</a></li>
-          <li><a href="/tradition/" class="navbar-item">Tradition</a></li>
+        <ul class="flex flex-col items-center justify-center lg:flex-row lg:gap-3" data-current-path={currentPath}>
+          <li><a href="/ueber-uns/" class="navbar-item {currentPath === '/ueber-uns' ? 'active' : ''}">Über uns</a></li>
+          <li><a href="/tradition/" class="navbar-item {currentPath === '/tradition' ? 'active' : ''}">Tradition</a></li>
           <li>
             <Dropdown class="group">
               <button class="flex items-center">
@@ -83,12 +84,12 @@ import { Astronav, MenuItems, MenuIcon, Dropdown, DropdownItems, DropdownSubmenu
               </DropdownItems>
             </Dropdown>
           </li>
-          <li><a href="/training/" class="navbar-item">Training</a></li>
-          <li><a href="/wettkampf/" class="navbar-item">Wettkampf</a></li>
-          <li><a href="/jugend/" class="navbar-item">Jugend</a></li>
-          <li><a href="/vorstand/" class="navbar-item">Vorstand</a></li>
-          <li><a href="/mitgliedschaft/" class="navbar-item">Mitgliedschaft</a></li>
-          <li><a href="/kontakt/" class="navbar-item">Kontakt</a></li>
+          <li><a href="/training/" class="navbar-item {currentPath === '/training' ? 'active' : ''}">Training</a></li>
+          <li><a href="/wettkampf/" class="navbar-item {currentPath === '/wettkampf' ? 'active' : ''}">Wettkampf</a></li>
+          <li><a href="/jugend/" class="navbar-item {currentPath === '/jugend' ? 'active' : ''}">Jugend</a></li>
+          <li><a href="/vorstand/" class="navbar-item {currentPath === '/vorstand' ? 'active' : ''}">Vorstand</a></li>
+          <li><a href="/mitgliedschaft/" class="navbar-item {currentPath === '/mitgliedschaft' ? 'active' : ''}">Mitgliedschaft</a></li>
+          <li><a href="/kontakt/" class="navbar-item {currentPath === '/kontakt' ? 'active' : ''}">Kontakt</a></li>
         </ul>
       </MenuItems>
     </div>
