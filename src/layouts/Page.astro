@@ -4,10 +4,10 @@ import Default from "@layouts/Default.astro";
 const { frontmatter } = Astro.props;
 ---
 
-<Default title={frontmatter.title}>
+<Default title={frontmatter?.title || "Vorstand"}>
   <div class="mx-auto px-5 lg:w-3/4 lg:px-8">
     <div class="title-font mb-2 text-sm uppercase tracking-widest text-gray-500">
-      {frontmatter.title}
+      {frontmatter?.title || "Vorstand"}
     </div>
 
     <div class="prose">
