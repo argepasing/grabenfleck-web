@@ -2,9 +2,9 @@
 layout: "@layouts/Page.astro"
 title: Luftgewehr
 ---
-### Das Luftgewehrschießen 
+![](/images/uploads/dsc03330.jpg)
 
-
+### Das Luftgewehrschießen
 
 Die Faszination des Luftgewehrschießens begeistert Jung und Alt. Ob als Hobby oder als sportliche Herausforderung - das Training mit dem Luftgewehr erfordert Präzision und Konzentration. Wichtig ist dabei die richtige Körperhaltung. Eine stabile und gleichmäßige Körperhaltung ist beim Luftgewehrschießen entscheidend. Doch wie gelingt es, das Zielen zu verbessern und die Treffsicherheit zu steigern? Bei diesen Fragen stehen dir unsere Trainerinnen und Trainer zur Seite.
 
@@ -19,5 +19,7 @@ Für das wöchentliche Training stehen uns zehn elektronische Schießstände fü
 **Unsere Trainingszeiten**
 
 Das Luftgewehrtraining findet jeden Freitag ab 17 Uhr in unserem Vereinsheim in der Bezirkssportanlage Pasing statt.
+
+![]()
 
 ![](/images/uploads/dsc03315.jpg)
