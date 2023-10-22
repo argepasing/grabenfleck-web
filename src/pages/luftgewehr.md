@@ -2,7 +2,7 @@
 layout: "@layouts/Page.astro"
 title: Luftgewehr
 ---
-![](/images/uploads/dsc03330.jpg)
+![](/images/uploads/dsc03330.jpg "Luftgewehr")
 
 ### Das Luftgewehrschießen
 
