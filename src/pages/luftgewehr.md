@@ -20,6 +20,4 @@ Für das wöchentliche Training stehen uns zehn elektronische Schießstände fü
 
 Das Luftgewehrtraining findet jeden Freitag ab 17 Uhr in unserem Vereinsheim in der Bezirkssportanlage Pasing statt.
 
-![]()
-
 ![](/images/uploads/dsc03315.jpg)
