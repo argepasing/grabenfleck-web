@@ -15,12 +15,15 @@ Wenn Du Mitglied bei uns werden möchten, ist eine fünfmalige Teilnahme am Trai
 - **Probetraining:** Bis 14 Jahren benötigen Jugendliche außerdem eine schriftliche Einverständniserklärung der Erziehungsberechtigten, um am Schießen mit dem Luftgewehr oder der Luftpistole teilnehmen zu können.
 - **Mitgliedschaft:** Bis 18 Jahre benötigen Jugendliche die schriftliche Einverständniserklärung der Erziehungsberechtigten, um eine Mitgliedschaft im Schützenverein beantragen zu können.
 
-### Jahresbeiträge (Stand 2022 - Änderungen vorbehalten)
+### Jahresbeiträge
 
-- Schüler (bis 15 Jahre): Jahresbeitrag 60€
-- Jugend/Junioren (bis 18 Jahre) Jahresbeitrag 60€
-- Wehrdienstleistende, Studenten und Auszubildende: Jahresbeitrag 60€
-- Erwachsene: Jahresbeitrag 120€
+|                                                    | Jahresbeitrag |
+| -------------------------------------------------- | ------------- |
+| Schüler <small>(bis 15 Jahre)</small>              | 60,- €        |
+| Jugend/Junioren <small>(bis 18 Jahre)</small>      | 60,- €        |
+| Wehrdienstleistende, Studenten und Auszubildende   | 60,- €        |
+| Erwachsene                                         | 120,- €       |
+| <small>Stand 2022 - Änderungen vorbehalten</small> |               |
 
 ### Satzung der SG Grabenfleck e.V
 
