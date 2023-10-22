@@ -8,7 +8,7 @@ title: Bogen
 
 ![](/images/uploads/bogen1.jpg)
 
-### **Das Bogenschießen** 
+### **Das Bogenschießen**
 
 Bogenschießen ist ein Sport für alle und der viel Freude bereitet.
 
@@ -16,11 +16,25 @@ Bei uns könnt ihr alle Bogenarten vom Blank über Recurve bis zu Compound-Bogen
 
 Das Bogenschießen hat eine lange Tradition und geht zurück bis ins alte Ägypten. bereits von 1900 bis 1920 war das Bogenschießen eine Disziplin der Olympischen Spiele. Das bogenschießen gilt im allegemeinen als ein gesunder Sport, denn durch diesen Sport wird unter anderem die Rückenmuskulatur gestärkt und verbessert die Körperhaltung. Ein weiterer Vorteil dieses Sports ist , dass er sowohl im Innenraum (Halle) als auch im freien durchgeführt werden kann. 
 
+Ob Breitensportler oder leistungsorientieren Teilnehmer an Tunieren und Meisterschaften - für alle ist Platz in unserem Verein.
+
 **Interesse geweckt?**
 
+Wenn wir dein Interesse geweckt haben und du mehr über das Bogenschießen erfahren möchtest, dann melde dich bei uns und vereinbare einen Termin für ein Probetraining. 
+
+Für das wöchentliche Training haben wir im Sommer unseren eigenen Bogenplatz und im Winter sind wir in der Turnhalle des Luisengymnasiums. Unsere erfahrenen Trainer schulen Anfänger wie Fortgeschrittene und beraten in allen Fragen.
 
 
 
+**Unsere Trainingszeiten**
+
+Sommersaison:                                  Wintersaison:
+
+Dienstag: 17-19h                                Dienstag: 16-19h
+
+Donnerstag: 17-20h                           Donnerstag: 16-20h
+
+Samstag: 10.30-13h
 
 ![](/images/uploads/dscn0327.jpg)
 
