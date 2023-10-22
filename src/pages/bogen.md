@@ -8,7 +8,7 @@ title: Bogen
 
 ![](/images/uploads/bogen1.jpg)
 
-**Das Bogenschießen** 
+### **Das Bogenschießen** 
 
 Bogenschießen ist ein Sport für alle und der viel Freude bereitet.
 
