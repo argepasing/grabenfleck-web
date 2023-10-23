@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/Page.astro"
-title: Behindertensport
+title: "Disziplinen » Behindertensport"
 ---
 
 # Sport verbindet

@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/Page.astro"
-title: Lichtgewehr-/ pistole
+title: "Disziplinen » Lichtgewehr-/ pistole"
 ---
 # Lichtgewehr&shy;schießen
 
@@ -12,7 +12,7 @@ Das Lichtgewehr-/Pistole ist eine moderne Variante der klassischenSportgeräte d
 
 **Interesse geweckt?**
 
-Wenn wir dein Interesse geweckt haben und du mehr über das Lichtpunktschießen erfahren möchtest, dann melde dich bei uns und vereinbare einen Termin für ein Probetraining. 
+Wenn wir dein Interesse geweckt haben und du mehr über das Lichtpunktschießen erfahren möchtest, dann melde dich bei uns und vereinbare einen Termin für ein Probetraining.
 
 Für das wöchentliche Training steht ein Lichtgewehr und eine Lichtpisole zur Verfügung. Alle was du an Ausrüstung für das Training brauchst kannst du bei uns kostenlos ausleihen.
 

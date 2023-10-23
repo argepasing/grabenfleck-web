@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/Page.astro"
-title: Luftgewehr
+title: "Disziplinen » Luftgewehr"
 ---
 ![](/images/uploads/dsc03330.jpg "Luftgewehr")
 
@@ -12,7 +12,7 @@ Bei uns zählt nicht nur der sportliche Erfolg, sondern das Training soll auch S
 
 **Interesse geweckt?**
 
-Wenn wir dein Interesse geweckt haben und du mehr über das Luftgewehrschießen erfahren möchtest, dann melde dich bei uns und vereinbare einen Termin für ein Probetraining. 
+Wenn wir dein Interesse geweckt haben und du mehr über das Luftgewehrschießen erfahren möchtest, dann melde dich bei uns und vereinbare einen Termin für ein Probetraining.
 
 Für das wöchentliche Training stehen uns zehn elektronische Schießstände für Luftgewehr und Luftpistole zur Verfügung. Für das Luftgewehrschießen benötigt man eine umfangreiche Ausrüstung von der Schießjacke über die Schießhose bis hin zu speziellen Schuhen und Handschuhen. Je erfolgreicher man ist, desto mehr kann man seine Ausrüstung erweitern. Man muss sich aber nicht gleich eine komplette Ausrüstung kaufen, sondern kann sich bei uns auch kostenlos die neueste Ausrüstung für das Training ausleihen.
 

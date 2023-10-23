@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/Page.astro"
-title: "Disziplinen / Bogen"
+title: "Disziplinen » Bogen"
 ---
 
 # Bogenschießen

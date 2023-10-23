@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/Page.astro"
-title: Luftpistole
+title: "Disziplinen » Luftpistole"
 ---
 # Luftpistole&shy;schießen
 
@@ -16,7 +16,7 @@ Für das regelmäßige Training mir der Luftpistole stehen dir unsere Trainerinn
 
 **Interesse geweckt?**
 
-Wenn wir dein Interesse geweckt haben und du mehr über das Luftpistolenschießen erfahren möchtest, dann setzte dich mit uns in Verbindung und vereinbare einen Termin für ein Probetraining. 
+Wenn wir dein Interesse geweckt haben und du mehr über das Luftpistolenschießen erfahren möchtest, dann setzte dich mit uns in Verbindung und vereinbare einen Termin für ein Probetraining.
 
 Für das wöchentliche Training stehen uns zehn elektronische Schießstände für Luftgewehr und Luftpistole zur Verfügung. Für das Luftpistolenschießen benötigt man keine umfangreiche Ausrüstung wie beim Luftgewehrschießen. Vereinspistolen stehen alllen Mitgliedern und Gsten kostenlos zur Verfügung.
 
