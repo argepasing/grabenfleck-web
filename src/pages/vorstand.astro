@@ -1,14 +1,16 @@
 ---
-import Page from "@layouts/Page.astro";
+import PageFull from "@layouts/PageFull.astro";
 ---
 
-<Page title="Vorstand">
-  <h1>Unsere Vorstandschaft</h1>
+<PageFull title="Vorstand">
+  <div class="prose">
+    <h1>Unsere Vorstandschaft</h1>
+  </div>
 
   <!-- Team -->
-  <div class="xmx-auto pb-10">
+  <div class="xmx-auto py-10">
     <!-- Grid -->
-    <div class="grid grid-cols-2 gap-8 sm:grid-cols-2 md:grid-cols-2 md:gap-12 lg:grid-cols-2">
+    <div class="grid grid-cols-2 gap-8 sm:grid-cols-3 md:grid-cols-3 md:gap-12 lg:grid-cols-3">
       <div class="text-center">
         <img class="mx-auto h-24 w-24 rounded-full" src="/images/uploads/vorstand/georg-felbermayr-senior.jpg" alt="Georg Felbermayr" />
         <div class="mt-2 sm:mt-4">
@@ -161,4 +163,4 @@ import Page from "@layouts/Page.astro";
     <!-- End Card -->
   </div>
   <!-- End Team -->
-</Page>
+</PageFull>

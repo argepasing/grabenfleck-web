@@ -27,11 +27,11 @@ Für das wöchentliche Training haben wir im Sommer unseren eigenen Bogenplatz u
 
 **Unsere Trainingszeiten**
 
-| Training   | Sommersaison | Wintersaison |
-| ---------- | ------------ | ------------ |
-| Dienstag   | 17-19 Uhr    | 16-19 Uhr    |
-| Donnerstag | 17-20 Uhr    | 16-20 Uhr    |
-| Samstag    | 10:30-13 Uhr |              |
+| Training   | Sommersaison        | Wintersaison        |
+| ---------- | ------------------- | ------------------- |
+| Dienstag   | 17:00 bis 19:00 Uhr | 16:00 bis 19:00 Uhr |
+| Donnerstag | 17:00 bis 20:00 Uhr | 16:00 bis 20:00 Uhr |
+| Samstag    | 10:30 bis 13:00 Uhr |                     |
 
 ![](/images/uploads/dscn0327.jpg)
 

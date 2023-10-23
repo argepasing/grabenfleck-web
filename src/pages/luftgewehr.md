@@ -2,6 +2,9 @@
 layout: "@layouts/Page.astro"
 title: "Disziplinen » Luftgewehr"
 ---
+
+# Luftgewehr&shy;schießen
+
 ![](/images/uploads/dsc03330.jpg "Luftgewehr")
 
 ### Das Luftgewehrschießen

@@ -2,6 +2,7 @@
 layout: "@layouts/Page.astro"
 title: "Disziplinen » Lichtgewehr-/ pistole"
 ---
+
 # Lichtgewehr&shy;schießen
 
 ## Früh übt sich...
