@@ -16,80 +16,86 @@ const currentPath = Astro.url.pathname;
       </div>
     </a>
     <div class="block lg:hidden">
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-head" aria-controls="navbar-head" aria-expanded="false" aria-label="Toggle navigation">
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbar-head"
+        aria-controls="navbar-head"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
         <i class="bi bi-list"></i> Menü
       </button>
     </div>
     <div class="lg:flex" id="navbar-head">
       <ul class="flex flex-col items-center justify-center lg:flex-row lg:gap-3" data-current-path={currentPath}>
-        <li><a href="/ueber-uns/" class={currentPath === '/ueber-uns/' ? 'navbar-item active' : 'navbar-item'}>Über uns</a></li>
-        <li><a href="/tradition/" class={currentPath === '/tradition/' ? 'navbar-item active' : 'navbar-item'}>Tradition</a></li>
+        <li><a href="/ueber-uns/" class={currentPath === "/ueber-uns/" ? "navbar-item active" : "navbar-item"}>Über uns</a></li>
+        <li><a href="/tradition/" class={currentPath === "/tradition/" ? "navbar-item active" : "navbar-item"}>Tradition</a></li>
         <li>
-          <div class="group">
-            <button class="flex items-center" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-              <span>Disziplinen</span>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke-width="3"
-                stroke="currentColor"
-                class="ml-2 h-3 w-3 group-open:rotate-180"
-              >
-                <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5"></path>
-              </svg>
-            </button>
-            <div class="dropdown-menu relative">
-              <div
-                class="absolute top-0 mt-2 w-56 origin-top-right divide-y divide-gray-100 rounded-md border border-gray-200 bg-white py-1 shadow-lg outline-none"
-              >
-                <ul>
-                  <li>
-                    <a
-                      href="/bogen/"
-                      class="flex w-full justify-between px-4 py-2 text-left text-sm leading-5 text-gray-700 hover:bg-slate-100 focus-visible:outline-1 focus-visible:outline-blue-500"
-                      >Bogen</a
-                    >
-                  </li>
-                  <li>
-                    <a
-                      href="/luftgewehr/"
-                      class="flex w-full justify-between px-4 py-2 text-left text-sm leading-5 text-gray-700 hover:bg-slate-100 focus-visible:outline-1 focus-visible:outline-blue-500"
-                      >Luftgewehr</a
-                    >
-                  </li>
-                  <li>
-                    <a
-                      href="/luftpistole/"
-                      class="flex w-full justify-between px-4 py-2 text-left text-sm leading-5 text-gray-700 hover:bg-slate-100 focus-visible:outline-1 focus-visible:outline-blue-500"
-                      >Luftpistole</a
-                    >
-                  </li>
-                  <li>
-                    <a
-                      href="/lichtgewehr-pistole/"
-                      class="flex w-full justify-between px-4 py-2 text-left text-sm leading-5 text-gray-700 hover:bg-slate-100 focus-visible:outline-1 focus-visible:outline-blue-500"
-                      >Lichtgewehr- /pistole</a
-                    >
-                  </li>
-                  <li>
-                    <a
-                      href="/behindertensport/"
-                      class="flex w-full justify-between px-4 py-2 text-left text-sm leading-5 text-gray-700 hover:bg-slate-100 focus-visible:outline-1 focus-visible:outline-blue-500"
-                      >Behindertensport</a
-                    >
-                  </li>
-                </ul>
-              </div>
+          <button class="flex items-center" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <span>Disziplinen</span>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke-width="3"
+              stroke="currentColor"
+              class="ml-2 h-3 w-3 group-open:rotate-180"
+            >
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5"></path>
+            </svg>
+          </button>
+          <div class="dropdown-menu relative">
+            <div
+              class="absolute top-0 mt-2 w-56 origin-top-right divide-y divide-gray-100 rounded-md border border-gray-200 bg-white py-1 shadow-lg outline-none"
+            >
+              <ul>
+                <li>
+                  <a
+                    href="/bogen/"
+                    class="flex w-full justify-between px-4 py-2 text-left text-sm leading-5 text-gray-700 hover:bg-slate-100 focus-visible:outline-1 focus-visible:outline-blue-500"
+                    >Bogen</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="/luftgewehr/"
+                    class="flex w-full justify-between px-4 py-2 text-left text-sm leading-5 text-gray-700 hover:bg-slate-100 focus-visible:outline-1 focus-visible:outline-blue-500"
+                    >Luftgewehr</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="/luftpistole/"
+                    class="flex w-full justify-between px-4 py-2 text-left text-sm leading-5 text-gray-700 hover:bg-slate-100 focus-visible:outline-1 focus-visible:outline-blue-500"
+                    >Luftpistole</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="/lichtgewehr-pistole/"
+                    class="flex w-full justify-between px-4 py-2 text-left text-sm leading-5 text-gray-700 hover:bg-slate-100 focus-visible:outline-1 focus-visible:outline-blue-500"
+                    >Lichtgewehr- /pistole</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="/behindertensport/"
+                    class="flex w-full justify-between px-4 py-2 text-left text-sm leading-5 text-gray-700 hover:bg-slate-100 focus-visible:outline-1 focus-visible:outline-blue-500"
+                    >Behindertensport</a
+                  >
+                </li>
+              </ul>
             </div>
           </div>
         </li>
-        <li><a href="/training/" class={currentPath === '/training/' ? 'navbar-item active' : 'navbar-item'}>Training</a></li>
-        <li><a href="/wettkampf/" class={currentPath === '/wettkampf/' ? 'navbar-item active' : 'navbar-item'}>Wettkampf</a></li>
-        <li><a href="/jugend/" class={currentPath === '/jugend/' ? 'navbar-item active' : 'navbar-item'}>Jugend</a></li>
-        <li><a href="/vorstand/" class={currentPath === '/vorstand/' ? 'navbar-item active' : 'navbar-item'}>Vorstand</a></li>
-        <li><a href="/mitgliedschaft/" class={currentPath === '/mitgliedschaft/' ? 'navbar-item active' : 'navbar-item'}>Mitgliedschaft</a></li>
-        <li><a href="/kontakt/" class={currentPath === '/kontakt/' ? 'navbar-item active' : 'navbar-item'}>Kontakt</a></li>
+        <li><a href="/training/" class={currentPath === "/training/" ? "navbar-item active" : "navbar-item"}>Training</a></li>
+        <li><a href="/wettkampf/" class={currentPath === "/wettkampf/" ? "navbar-item active" : "navbar-item"}>Wettkampf</a></li>
+        <li><a href="/jugend/" class={currentPath === "/jugend/" ? "navbar-item active" : "navbar-item"}>Jugend</a></li>
+        <li><a href="/vorstand/" class={currentPath === "/vorstand/" ? "navbar-item active" : "navbar-item"}>Vorstand</a></li>
+        <li><a href="/mitgliedschaft/" class={currentPath === "/mitgliedschaft/" ? "navbar-item active" : "navbar-item"}>Mitgliedschaft</a></li>
+        <li><a href="/kontakt/" class={currentPath === "/kontakt/" ? "navbar-item active" : "navbar-item"}>Kontakt</a></li>
       </ul>
     </div>
   </div>
