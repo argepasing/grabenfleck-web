@@ -3,7 +3,7 @@ layout: "@layouts/Page.astro"
 title: Datenschutzerklärung
 ---
 
-## Datenschutz auf einen Blick
+# Datenschutz
 
 ### Allgemeine Hinweise
 
