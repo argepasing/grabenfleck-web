@@ -6,7 +6,7 @@
   @apply border-b-4 border-green-500 text-green-500;
 }
 
-.prose > p > img {
+.prose > p > img[src$=".jpg"] {
   @apply rounded-xl border border-gray-300 p-1;
 }
 
