@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.4](https://github.com/argepasing/grabenfleck-web/compare/v1.0.3...v1.0.4) (2023-10-29)
+
+
+### Bug Fixes
+
+* Bump astro from 3.3.2 to 3.4.0 ([#6](https://github.com/argepasing/grabenfleck-web/issues/6)) ([f3f78ba](https://github.com/argepasing/grabenfleck-web/commit/f3f78ba3908902f93a779308574651e40469edd7))
+* Footer.astro ([55284b2](https://github.com/argepasing/grabenfleck-web/commit/55284b2a834659ca511bded763981a9222809454))
+
 ## [1.0.3](https://github.com/argepasing/grabenfleck-web/compare/v1.0.2...v1.0.3) (2023-10-19)
 
 
