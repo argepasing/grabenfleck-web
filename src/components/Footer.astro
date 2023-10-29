@@ -13,14 +13,13 @@ const current_year = new Date().getFullYear();
           <div class="inline-flex items-center">
             <div class="flex w-14 text-5xl">🏹</div>
             <h2
-              class="hover:text-blueGray-500 lg:text-x block transform cursor-pointer whitespace-nowrap px-2 text-xl font-medium tracking-tighter text-black transition duration-500 ease-in-out lg:mr-8"
+              class="hover:text-blueGray-500 lg:text-x block transform cursor-pointer px-2 text-xl font-medium tracking-tighter text-black transition duration-500 ease-in-out lg:mr-8"
             >
               SG Grabenfleck
-              <small class="block text-sm font-light text-gray-500">München-Pasing</small>
+              <small class="block text-sm font-light text-gray-500 whitespace-nowrap">München-Pasing</small>
             </h2>
           </div>
         </a>
-        <!-- <a class="flex-none text-xl font-semibold dark:text-white" href="/" aria-label="Brand">SG Grabenfleck e.V.</a> -->
         <p title={`${package_version} • ${git_commit_hash.substring(0, 7)}`} class="mt-52 text-xs text-gray-300 dark:text-gray-400 sm:text-sm">
           © {current_year} • {package_version}
         </p>
