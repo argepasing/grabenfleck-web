@@ -3,15 +3,11 @@ const currentPath = Astro.url.pathname;
 ---
 
 <header
-  class="z-50 mb-4 flex w-full flex-wrap border-b border-gray-200 bg-white py-3 text-sm dark:border-gray-700 dark:bg-gray-800 sm:flex-nowrap sm:justify-start sm:py-0"
+  class="z-50 mb-4 flex w-full flex-wrap border-b border-gray-200 bg-white py-3 text-sm dark:border-gray-300 dark:bg-gray-100 sm:flex-nowrap sm:justify-start sm:py-0"
 >
-  <nav
-    class="relative mx-auto w-full max-w-7xl px-4 sm:flex sm:items-center sm:justify-between sm:px-6 lg:px-8"
-    aria-label="Global"
-    data-current-path={currentPath}
-  >
+  <nav class="relative mx-auto w-full max-w-[85rem] px-6 sm:flex sm:items-center sm:justify-between" aria-label="Global" data-current-path={currentPath}>
     <div class="flex items-center justify-between">
-      <a href="/" class="pr-2 focus:outline-none lg:px-6 lg:pr-8">
+      <a href="/" class="focus:outline-none">
         <div class="inline-flex items-center">
           <div class="flex w-14 text-5xl">🏹</div>
           <h2

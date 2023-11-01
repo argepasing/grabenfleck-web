@@ -5,14 +5,12 @@ const { frontmatter } = Astro.props;
 ---
 
 <Default title={frontmatter.title}>
-  <div class="mx-auto px-5 lg:w-3/4 lg:px-8">
-    <div class="title-font mb-2 text-sm uppercase tracking-widest text-gray-500">
-      <i class="bi bi-house mr-1"></i>
-      {frontmatter.title}
-    </div>
+  <div class="title-font mb-2 text-sm uppercase tracking-widest text-gray-500">
+    <i class="bi bi-house mr-1"></i>
+    {frontmatter.title}
+  </div>
 
-    <div class="prose">
-      <slot />
-    </div>
+  <div class="prose">
+    <slot />
   </div>
 </Default>

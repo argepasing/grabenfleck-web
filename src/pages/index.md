@@ -24,5 +24,3 @@ Von Luftgewehr und Luftpistole über Bogen und Böller können bei uns auch die 
 Wenn wir Dein Interesse am Schießsport geweckt haben und Du uns näher kennen lernen möchtest, dann würden wir uns freuen, Dich an einem unserer Trainingstage begrüßen zu dürfen.
 
 Die SG Grabenfleck e.V. wird gefördert von der Landeshauptstadt München. [Referat für Bildung und Sport](https://stadt.muenchen.de/infos/portrait-referat-bildung-sport.html).
-
-![Landeshauptstadt München - Referat für Bildung und Sport](/images/uploads/referat-bildung-sport.svg "Landeshauptstadt München - Referat für Bildung und Sport")
