@@ -10,15 +10,6 @@
   @apply rounded-xl border border-gray-300 p-1;
 }
 
-/* bootstrap dropdown menu */
-.dropdown-menu {
-  display: none;
-}
-
-.dropdown-menu.show {
-  display: block;
-}
-
 /* preline.co dropdown dirty hack */
 .hs-dropdown.open > .hs-dropdown-open\:opacity-100 {
   opacity: 1;
