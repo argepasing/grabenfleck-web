@@ -26,6 +26,8 @@ Bezirkssportanlage Aubinger Straße\
 Aubinger Straße 12\
 81243 München
 
+<i class="bi bi-geo-alt"></i> [Google Maps](https://maps.app.goo.gl/EmvyStMU6MaJYw6e8)
+
 ### Anfahrt
 
 **Vereinsheim Luftgewehr/Luftpistole**\
@@ -54,6 +56,8 @@ Bogenplatz Pasing\
 Silberdistelstraße\
 81241 München
 
+<i class="bi bi-geo-alt"></i> [Google Maps](https://maps.app.goo.gl/WEcgBWoPgvcRTSW5A)
+
 ![Plan zum Bogenplatz](/images/uploads/anfahrt-bogen-sommer.jpg)
 
 ---
@@ -74,5 +78,7 @@ nicht in Ferienzeit - Dienstag, Donnerstag
 Sporthalle BSZ Luisenstraße\
 Luisenstr. 9/11\
 80333 München
+
+<i class="bi bi-geo-alt"></i> [Google Maps](https://maps.app.goo.gl/YtKrHWjMFgvDUe826)
 
 ![Wegbeschreibung zur Turnhalle](/images/uploads/anfahrt-bogen-winter.jpg)
