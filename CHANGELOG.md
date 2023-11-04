@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.6](https://github.com/argepasing/grabenfleck-web/compare/v1.0.5...v1.0.6) (2023-11-04)
+
+
+### Bug Fixes
+
+* mdx image gallery - first round ([1e8877f](https://github.com/argepasing/grabenfleck-web/commit/1e8877ffb2be9f1d603706107d973a145ae09b5d))
+
 ## [1.0.5](https://github.com/argepasing/grabenfleck-web/compare/v1.0.4...v1.0.5) (2023-11-04)
 
 
