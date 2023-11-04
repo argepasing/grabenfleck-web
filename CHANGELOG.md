@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.5](https://github.com/argepasing/grabenfleck-web/compare/v1.0.4...v1.0.5) (2023-11-04)
+
+
+### Bug Fixes
+
+* pushin layout further ([e075416](https://github.com/argepasing/grabenfleck-web/commit/e075416bf0310234b71dbe476bbd710c4904fab7))
+* remove signal icon from footer ([b9603f1](https://github.com/argepasing/grabenfleck-web/commit/b9603f1d98f0f3ed4a7a29ab590f223965653eb0))
+
 ## [1.0.4](https://github.com/argepasing/grabenfleck-web/compare/v1.0.3...v1.0.4) (2023-10-29)
 
 
