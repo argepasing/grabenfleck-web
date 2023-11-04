@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.7](https://github.com/argepasing/grabenfleck-web/compare/v1.0.6...v1.0.7) (2023-11-04)
+
+
+### Bug Fixes
+
+* use md file extension ([7e61985](https://github.com/argepasing/grabenfleck-web/commit/7e61985361e2d79a30e0a25602c8565019a7a221))
+
 ## [1.0.6](https://github.com/argepasing/grabenfleck-web/compare/v1.0.5...v1.0.6) (2023-11-04)
 
 
