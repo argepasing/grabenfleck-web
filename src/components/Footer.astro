@@ -4,7 +4,7 @@ const git_commit_hash = import.meta.env.COMMIT_REF;
 const current_year = new Date().getFullYear();
 ---
 
-<div class="mt-10 bg-green-50 dark:bg-gray-700">
+<div class="mt-10 bg-green-50">
   <footer class="mx-auto w-full max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8">
     <!-- Grid -->
     <div class="mb-10 grid grid-cols-2 gap-6 md:grid-cols-4 lg:grid-cols-5">
@@ -20,112 +20,91 @@ const current_year = new Date().getFullYear();
             </h2>
           </div>
         </a>
-        <p title={`${package_version} • ${git_commit_hash.substring(0, 7)}`} class="mt-52 text-xs text-gray-300 dark:text-gray-400 sm:text-sm">
+        <p title={`${package_version} • ${git_commit_hash.substring(0, 7)}`} class="mt-52 text-xs opacity-30">
           © {current_year} • {package_version}
         </p>
       </div>
       <!-- End Col -->
 
       <div>
-        <h4 class="text-xs font-semibold uppercase text-gray-900 dark:text-gray-100">Disziplinen</h4>
+        <h4 class="text-xs font-semibold uppercase text-gray-900">Disziplinen</h4>
 
         <div class="mt-3 grid space-y-3 text-sm">
-          <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200" href="/bogen/">Bogen</a></p>
-          <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200" href="/luftgewehr/">Luftgewehr</a></p>
+          <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800" href="/bogen/">Bogen</a></p>
+          <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800" href="/luftgewehr/">Luftgewehr</a></p>
           <p>
-            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200" href="/luftpistole/">Luftpistole</a>
+            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800" href="/luftpistole/">Luftpistole</a>
           </p>
           <p>
-            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200" href="/lichtgewehr-pistole/"
-              >Lichtgewehr- /pistole</a
-            >
+            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800" href="/lichtgewehr-pistole/">Lichtgewehr- /pistole</a>
           </p>
           <p>
-            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200" href="/behindertensport/"
-              >Behindertensport</a
-            >
+            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800" href="/behindertensport/">Behindertensport</a>
           </p>
         </div>
       </div>
       <!-- End Col -->
 
       <div>
-        <h4 class="text-xs font-semibold uppercase text-gray-900 dark:text-gray-100">Verein</h4>
+        <h4 class="text-xs font-semibold uppercase text-gray-900">Verein</h4>
 
         <div class="mt-3 grid space-y-3 text-sm">
-          <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200" href="/ueber-uns/">Über uns</a></p>
-          <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200" href="/tradition/">Tradition</a></p>
-          <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200" href="/vorstand/">Vorstand</a></p>
+          <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800" href="/ueber-uns/">Über uns</a></p>
+          <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800" href="/tradition/">Tradition</a></p>
+          <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800" href="/vorstand/">Vorstand</a></p>
           <p>
-            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200" href="/mitgliedschaft/"
-              >Mitgliedschaft</a
-            >
-            <span class="inline text-green-700 dark:text-blue-500">— Schnupper rein</span>
+            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800" href="/mitgliedschaft/">Mitgliedschaft</a>
+            <span class="inline text-green-700">— Schnupper rein</span>
           </p>
           <p>
-            <a
-              class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200"
-              href="/mitgliedschaft/#satzung-der-sg-grabenfleck-ev">Satzung</a
-            >
+            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800" href="/mitgliedschaft/#satzung-der-sg-grabenfleck-ev">Satzung</a>
           </p>
         </div>
       </div>
       <!-- End Col -->
 
       <div>
-        <h4 class="text-xs font-semibold uppercase text-gray-900 dark:text-gray-100">Sport</h4>
+        <h4 class="text-xs font-semibold uppercase text-gray-900">Sport</h4>
 
         <div class="mt-3 grid space-y-3 text-sm">
-          <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200" href="/training/">Training</a></p>
-          <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200" href="/jugend/">Jugend</a></p>
-          <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200" href="/wettkampf/">Wettkampf</a></p>
+          <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800" href="/training/">Training</a></p>
+          <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800" href="/jugend/">Jugend</a></p>
+          <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800" href="/wettkampf/">Wettkampf</a></p>
           <p>
-            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200" href="/wettkampf/#lp-1---münchenliga"
-              >LP 1 - Münchenliga</a
-            >
+            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800" href="/wettkampf/#lp-1---münchenliga">LP 1 - Münchenliga</a>
           </p>
           <p>
-            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200" href="/wettkampf/#lg-1---münchenliga"
-              >LG 1 - Münchenliga</a
-            >
+            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800" href="/wettkampf/#lg-1---münchenliga">LG 1 - Münchenliga</a>
           </p>
         </div>
       </div>
       <!-- End Col -->
 
       <div>
-        <h4 class="text-xs font-semibold uppercase text-gray-900 dark:text-gray-100">Kontakt</h4>
+        <h4 class="text-xs font-semibold uppercase text-gray-900">Kontakt</h4>
 
         <div class="mt-3 grid space-y-3 text-sm">
           <p>
-            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200" href="/kontakt/#adresse-vereinsheim"
-              >Vereinsheim</a
-            >
+            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800" href="/kontakt/#adresse-vereinsheim">Vereinsheim</a>
           </p>
           <p>
-            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200" href="/kontakt/#adresse-bogenplatz"
-              >Bogenplatz</a
-            >
+            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800" href="/kontakt/#adresse-bogenplatz">Bogenplatz</a>
           </p>
           <p>
-            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200" href="/kontakt/#adresse-turnhalle"
-              >Turnhalle</a
-            >
+            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800" href="/kontakt/#adresse-turnhalle">Turnhalle</a>
           </p>
           <p>
-            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200" href="/kontakt/#probetraining"
-              >Probetraining</a
-            >
-            <span class="inline text-green-700 dark:text-blue-500">— Trau dich</span>
+            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800" href="/kontakt/#probetraining">Probetraining</a>
+            <span class="inline text-green-700">— Trau dich</span>
           </p>
         </div>
 
-        <h4 class="mt-7 text-xs font-semibold uppercase text-gray-900 dark:text-gray-100">Gefördert</h4>
+        <h4 class="mt-7 text-xs font-semibold uppercase text-gray-900">Gefördert</h4>
 
         <div class="mt-3 grid space-y-3 text-sm">
           <p>
             <a
-              class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200"
+              class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800"
               target="_blank"
               href="https://stadt.muenchen.de/infos/portrait-referat-bildung-sport.html"
             >
@@ -143,30 +122,33 @@ const current_year = new Date().getFullYear();
     </div>
     <!-- End Grid -->
 
-    <div class="mt-5 border-t border-gray-200 pt-5 dark:border-gray-700">
-      <div class="sm:flex sm:items-center sm:justify-between">
-        <div class="flex items-center gap-x-3">
+    <div class="mt-5 border-t border-gray-200 pt-5">
+      <div class="md:flex md:items-center md:justify-between">
+        <div class="xflex xgap-x-3 mb-4 items-center">
           <div class="space-x-4 text-sm">
-            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200" href="/impressum/">Impressum</a>
-            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200" href="/datenschutz/">Datenschutz</a>
+            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800" href="/impressum/">Impressum</a>
+            <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800" href="/datenschutz/">Datenschutz</a>
           </div>
         </div>
 
         <div class="flex items-center justify-between">
-          <div class="mt-3 sm:hidden">
-            <a class="flex-none text-xl font-semibold dark:text-white" href="/" aria-label="Brand">SG Grabenfleck e.V.</a>
-            <p class="mt-1 text-xs text-gray-300 dark:text-gray-400 sm:text-sm">© {current_year} • {package_version}</p>
+          <div class="md:hidden">
+            <a class="flex-none text-xl font-semibold" href="/" aria-label="Brand">🏹 SG Grabenfleck e.V.</a>
+          </div>
+
+          <div class="md:hidden">
+            <p class="mt-1 text-xs opacity-50">© {current_year} • {package_version}</p>
           </div>
 
           <!-- Social Brands -->
           <div class="space-x-4">
-            <a class="inline-block text-gray-500 hover:text-gray-800 dark:hover:text-gray-200" href="#!">
+            <a class="inline-block text-gray-500 hover:text-gray-800" href="#!">
               <i class="bi bi-twitter-x"></i>
             </a>
-            <a class="inline-block text-gray-500 hover:text-gray-800 dark:hover:text-gray-200" href="#!">
+            <a class="inline-block text-gray-500 hover:text-gray-800" href="#!">
               <i class="bi bi-instagram"></i>
             </a>
-            <a class="inline-block text-gray-500 hover:text-gray-800 dark:hover:text-gray-200" href="#!">
+            <a class="inline-block text-gray-500 hover:text-gray-800" href="#!">
               <i class="bi bi-facebook"></i>
             </a>
           </div>

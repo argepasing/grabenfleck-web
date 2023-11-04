@@ -26,7 +26,7 @@ Bezirkssportanlage Aubinger Straße\
 Aubinger Straße 12\
 81243 München
 
-<i class="bi bi-geo-alt"></i> [Google Maps](https://maps.app.goo.gl/EmvyStMU6MaJYw6e8)
+<i class="bi bi-geo-alt"></i> [Vereinsheim auf Google Maps](https://maps.app.goo.gl/EmvyStMU6MaJYw6e8)
 
 ### Anfahrt
 
@@ -56,7 +56,7 @@ Bogenplatz Pasing\
 Silberdistelstraße\
 81241 München
 
-<i class="bi bi-geo-alt"></i> [Google Maps](https://maps.app.goo.gl/WEcgBWoPgvcRTSW5A)
+<i class="bi bi-geo-alt"></i> [Bogenplatz auf Google Maps](https://maps.app.goo.gl/WEcgBWoPgvcRTSW5A)
 
 ![Plan zum Bogenplatz](/images/uploads/anfahrt-bogen-sommer.jpg)
 
@@ -79,6 +79,6 @@ Sporthalle BSZ Luisenstraße\
 Luisenstr. 9/11\
 80333 München
 
-<i class="bi bi-geo-alt"></i> [Google Maps](https://maps.app.goo.gl/YtKrHWjMFgvDUe826)
+<i class="bi bi-geo-alt"></i> [Turnhalle auf Google Maps](https://maps.app.goo.gl/YtKrHWjMFgvDUe826)
 
 ![Wegbeschreibung zur Turnhalle](/images/uploads/anfahrt-bogen-winter.jpg)

@@ -2,16 +2,14 @@
 const currentPath = Astro.url.pathname;
 ---
 
-<header
-  class="z-50 mb-4 flex w-full flex-wrap border-b border-gray-200 bg-white py-3 text-sm dark:border-gray-300 dark:bg-gray-100 sm:flex-nowrap sm:justify-start sm:py-0"
->
+<header class="z-50 mb-4 flex w-full flex-wrap border-b border-gray-200 bg-white py-3 text-sm sm:flex-nowrap sm:justify-start sm:py-0">
   <nav class="relative mx-auto w-full max-w-[85rem] px-6 sm:flex sm:items-center sm:justify-between" aria-label="Global" data-current-path={currentPath}>
     <div class="flex items-center justify-between">
       <a href="/" class="focus:outline-none">
         <div class="inline-flex items-center">
           <div class="flex w-14 text-5xl">🏹</div>
           <h2
-            class="hover:text-blueGray-500 lg:text-x block transform cursor-pointer whitespace-nowrap p-2 text-xl font-medium tracking-tighter text-black transition duration-500 ease-in-out lg:mr-8"
+            class="hover:text-blueGray-500 lg:text-x block transform cursor-pointer whitespace-nowrap p-2 text-xl font-medium tracking-tighter text-black transition duration-500 ease-in-out"
           >
             SG Grabenfleck e.V.
             <small class="block text-sm font-light text-gray-500">München-Pasing</small>
@@ -21,7 +19,7 @@ const currentPath = Astro.url.pathname;
       <div class="sm:hidden">
         <button
           type="button"
-          class="hs-collapse-toggle inline-flex items-center justify-center gap-2 rounded-md border bg-white p-2 align-middle text-sm font-medium text-gray-700 shadow-sm transition-all hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 focus:ring-offset-white dark:border-gray-700 dark:bg-slate-900 dark:text-gray-400 dark:hover:bg-slate-800 dark:hover:text-white dark:focus:ring-offset-gray-800"
+          class="hs-collapse-toggle inline-flex items-center justify-center gap-2 rounded-md border bg-white p-2 align-middle text-sm font-medium text-gray-700 shadow-sm transition-all hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 focus:ring-offset-white"
           data-hs-collapse="#navbar-collapse-with-animation"
           aria-controls="navbar-collapse-with-animation"
           aria-label="Toggle navigation"
@@ -42,11 +40,11 @@ const currentPath = Astro.url.pathname;
     </div>
     <div id="navbar-collapse-with-animation" class="hs-collapse hidden grow basis-full overflow-hidden transition-all duration-300 sm:block">
       <div class="mt-5 flex flex-col gap-x-0 gap-y-4 sm:mt-0 sm:flex-row sm:items-center sm:justify-end sm:gap-x-7 sm:gap-y-0 sm:pl-7">
-        <a href="/ueber-uns/" class={currentPath === "/ueber-uns/" ? "navbar1-item active" : "navbar1-item"}>Über uns</a>
-        <a href="/tradition/" class={currentPath === "/tradition/" ? "navbar1-item active" : "navbar1-item"}>Tradition</a>
+        <a href="/ueber-uns/" class={currentPath === "/ueber-uns/" ? "navbar-item active" : "navbar-item"}>Über uns</a>
+        <a href="/tradition/" class={currentPath === "/tradition/" ? "navbar-item active" : "navbar-item"}>Tradition</a>
 
         <div class="hs-dropdown [--adaptive:none] [--strategy:static] sm:py-4 sm:[--strategy:fixed] sm:[--trigger:hover]">
-          <button type="button" class="flex w-full items-center font-medium text-gray-500 hover:text-gray-400 dark:text-gray-400 dark:hover:text-gray-500">
+          <button type="button" class="flex w-full items-center font-medium text-gray-500 hover:text-gray-400">
             Disziplinen
             <svg class="ml-2 h-2.5 w-2.5 text-gray-600" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5" stroke="currentColor" stroke-width="2" stroke-linecap="round"
@@ -55,34 +53,31 @@ const currentPath = Astro.url.pathname;
           </button>
 
           <div
-            class="hs-dropdown-menu hs-dropdown-open:opacity-100 top-full z-10 hidden rounded-lg bg-white p-2 opacity-0 transition-[opacity,margin] duration-[0.1ms] before:absolute before:-top-5 before:left-0 before:h-5 before:w-full dark:divide-gray-700 dark:border-gray-700 dark:bg-gray-800 sm:w-48 sm:border sm:shadow-md sm:duration-[150ms] sm:dark:border"
+            class="hs-dropdown-menu hs-dropdown-open:opacity-100 top-full z-10 hidden rounded-lg bg-white p-2 opacity-0 transition-[opacity,margin] duration-[0.1ms] before:absolute before:-top-5 before:left-0 before:h-5 before:w-full sm:w-48 sm:border sm:shadow-md sm:duration-[150ms]"
           >
-            <a
-              class="flex items-center gap-x-3.5 rounded-md px-3 py-2 text-sm text-gray-800 hover:bg-gray-100 focus:ring-2 focus:ring-blue-500 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-gray-300"
-              href="/bogen/"
-            >
+            <a class="flex items-center gap-x-3.5 rounded-md px-3 py-2 text-sm text-gray-800 hover:bg-gray-100 focus:ring-2 focus:ring-blue-500" href="/bogen/">
               Bogen
             </a>
             <a
-              class="flex items-center gap-x-3.5 rounded-md px-3 py-2 text-sm text-gray-800 hover:bg-gray-100 focus:ring-2 focus:ring-blue-500 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-gray-300"
+              class="flex items-center gap-x-3.5 rounded-md px-3 py-2 text-sm text-gray-800 hover:bg-gray-100 focus:ring-2 focus:ring-blue-500"
               href="/luftgewehr/"
             >
               Luftgewehr
             </a>
             <a
-              class="flex items-center gap-x-3.5 rounded-md px-3 py-2 text-sm text-gray-800 hover:bg-gray-100 focus:ring-2 focus:ring-blue-500 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-gray-300"
+              class="flex items-center gap-x-3.5 rounded-md px-3 py-2 text-sm text-gray-800 hover:bg-gray-100 focus:ring-2 focus:ring-blue-500"
               href="/luftpistole/"
             >
               Luftpistole
             </a>
             <a
-              class="flex items-center gap-x-3.5 rounded-md px-3 py-2 text-sm text-gray-800 hover:bg-gray-100 focus:ring-2 focus:ring-blue-500 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-gray-300"
+              class="flex items-center gap-x-3.5 rounded-md px-3 py-2 text-sm text-gray-800 hover:bg-gray-100 focus:ring-2 focus:ring-blue-500"
               href="/lichtgewehr-pistole/"
             >
               Lichtgewehr- /pistole
             </a>
             <a
-              class="flex items-center gap-x-3.5 rounded-md px-3 py-2 text-sm text-gray-800 hover:bg-gray-100 focus:ring-2 focus:ring-blue-500 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-gray-300"
+              class="flex items-center gap-x-3.5 rounded-md px-3 py-2 text-sm text-gray-800 hover:bg-gray-100 focus:ring-2 focus:ring-blue-500"
               href="/behindertensport/"
             >
               Behindertensport
@@ -90,12 +85,12 @@ const currentPath = Astro.url.pathname;
           </div>
         </div>
 
-        <a href="/training/" class={currentPath === "/training/" ? "navbar1-item active" : "navbar1-item"}>Training</a>
-        <a href="/wettkampf/" class={currentPath === "/wettkampf/" ? "navbar1-item active" : "navbar1-item"}>Wettkampf</a>
-        <a href="/jugend/" class={currentPath === "/jugend/" ? "navbar1-item active" : "navbar1-item"}>Jugend</a>
-        <a href="/vorstand/" class={currentPath === "/vorstand/" ? "navbar1-item active" : "navbar1-item"}>Vorstand</a>
-        <a href="/mitgliedschaft/" class={currentPath === "/mitgliedschaft/" ? "navbar1-item active" : "navbar1-item"}>Mitgliedschaft</a>
-        <a href="/kontakt/" class={currentPath === "/kontakt/" ? "navbar1-item active" : "navbar1-item"}>Kontakt</a>
+        <a href="/training/" class={currentPath === "/training/" ? "navbar-item active" : "navbar-item"}>Training</a>
+        <a href="/wettkampf/" class={currentPath === "/wettkampf/" ? "navbar-item active" : "navbar-item"}>Wettkampf</a>
+        <a href="/jugend/" class={currentPath === "/jugend/" ? "navbar-item active" : "navbar-item"}>Jugend</a>
+        <a href="/vorstand/" class={currentPath === "/vorstand/" ? "navbar-item active" : "navbar-item"}>Vorstand</a>
+        <a href="/mitgliedschaft/" class={currentPath === "/mitgliedschaft/" ? "navbar-item active" : "navbar-item"}>Mitgliedschaft</a>
+        <a href="/kontakt/" class={currentPath === "/kontakt/" ? "navbar-item active" : "navbar-item"}>Kontakt</a>
       </div>
     </div>
   </nav>
