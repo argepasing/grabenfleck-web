@@ -35,8 +35,9 @@ Die „Schützengesellschaft Grabenfleck" wird am 9. Juni 1956 im Grabenfleckst�
 ::list-style{.image-gal}
 
 - ![Grabenfleckstüberl](/images/uploads/grabenfleckstueberl.jpg "Foto Grabenfleckstüberl zur Verfügung gestellt von Reichinger/Schwab (Fam. Schwab ist die ehem. Wirtsfamilie)")
+- ![Gruppenfoto aus dem Jahr 2000?](/images/uploads/gruppenfoto.jpg "Gruppenfoto aus dem Jahr 2000?")
 - ![Straßenschild Grabenfleckstr.](/images/uploads/grabenfleckstr.jpg "Grabenfleckstr.")
-- ![Gruppenfoto Grabenfleck September 1983](/images/uploads/gruendungsfoto.jpg "Gründungsfoto Grabenfleck, September 1983")
+- ![Gruppenfoto Grabenfleck, September 1983](/images/uploads/gruendungsfoto.jpg "Gründungsfoto Grabenfleck, September 1983")
 
 ### Chronologie
 

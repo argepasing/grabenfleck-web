@@ -26,6 +26,7 @@ const { title } = Astro.props;
 
     <script is:inline src="https://cdn.jsdelivr.net/npm/@preline/collapse@1/index.min.js"></script>
     <script is:inline src="https://cdn.jsdelivr.net/npm/@preline/dropdown@1/index.min.js"></script>
+    <script is:inline src="https://cdn.jsdelivr.net/npm/medium-zoom@1/dist/medium-zoom.min.js"></script>
     <script is:inline>
       if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", (user) => {
@@ -36,6 +37,14 @@ const { title } = Astro.props;
           }
         });
       }
+
+      // Medium Zoom setup
+      document.addEventListener("DOMContentLoaded", () => {
+        mediumZoom(".image-gal > li > img", {
+          background: "rgba(255, 255, 255, .75)",
+          margin: 24,
+        });
+      });
     </script>
   </body>
 </html>

@@ -34,7 +34,9 @@ Aubinger Straße 12\
 Aubinger Straße 12\
 81243 München
 
-![](/images/uploads/anfahrt-kugelschuetzen.jpg):style{.float-right .w-1/3}
+::list-style{.image-gal}
+
+- ![](/images/uploads/anfahrt-kugelschuetzen.jpg)
 
 ## Bogentraining
 
@@ -58,7 +60,9 @@ Silberdistelstraße\
 
 <i class="bi bi-geo-alt"></i> [Bogenplatz auf Google Maps](https://maps.app.goo.gl/WEcgBWoPgvcRTSW5A)
 
-![Plan zum Bogenplatz](/images/uploads/anfahrt-bogen-sommer.jpg):style{.w-1/2}
+::list-style{.image-gal}
+
+- ![Plan zum Bogenplatz](/images/uploads/anfahrt-bogen-sommer.jpg)
 
 ---
 
@@ -81,4 +85,6 @@ Luisenstr. 9/11\
 
 <i class="bi bi-geo-alt"></i> [Turnhalle auf Google Maps](https://maps.app.goo.gl/YtKrHWjMFgvDUe826)
 
-![Wegbeschreibung zur Turnhalle](/images/uploads/anfahrt-bogen-winter.jpg):style{.md:w-1/2 .lg:w-2/3}
+::list-style{.image-gal}
+
+- ![Wegbeschreibung zur Turnhalle](/images/uploads/anfahrt-bogen-winter.jpg):style{}
