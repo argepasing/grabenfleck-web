@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.8](https://github.com/argepasing/grabenfleck-web/compare/v1.0.7...v1.0.8) (2023-11-05)
+
+
+### Bug Fixes
+
+* add medium zoom for images ([034f887](https://github.com/argepasing/grabenfleck-web/commit/034f887133587e97a5f570a95dc2ee32b119469f))
+
 ## [1.0.7](https://github.com/argepasing/grabenfleck-web/compare/v1.0.6...v1.0.7) (2023-11-04)
 
 
