@@ -2,7 +2,6 @@
 layout: "@layouts/Page.astro"
 title: Jugend
 ---
-
 # Jugendarbeit
 
 Bei uns wird Jugendarbeit groß geschrieben. Wir fördern unsere Jugendlichen nicht nur im Training sondern sind auch im Bereich des überfachlichen aktiv. Dazu gehörten zahlreiche Tagesausflüge sowie Jugendwochenenden im Jugendhaus am Walchensee. Hier sind alle unsere Jugendlichen zahlreich mit dabei und sind begeistert über die zahlreichen und verschiedensten Aktivitäten die jedesmal geplant sind.
@@ -15,8 +14,12 @@ Unsere Jugend ist eigenverantwortlich, selbstständig und selbstverwaltend. Das 
 
 ::list-style{.image-gal}
 
-- ![](/images/uploads/dsc03408.jpg)
-- ![](/images/uploads/dsc03401.jpg)
-- ![](/images/uploads/img-20220320-wa0030.jpg)
-- ![](/images/uploads/img_0070.jpg)
-- ![](/images/uploads/img_0241.jpg)
+* ![](/images/uploads/img_8508.jpeg)
+* ![](/images/uploads/img_8514.jpeg)
+* ![](/images/uploads/2bcf5243-3420-43a7-a28e-f6f6b54aa602.jpeg)
+
+  ![](/images/uploads/img_8589.jpeg)
+
+  ![](/images/uploads/img_8618.jpeg)
+* ![](/images/uploads/img_0070.jpg)
+* ![](/images/uploads/img_0241.jpg)
