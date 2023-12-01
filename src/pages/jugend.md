@@ -17,9 +17,7 @@ Unsere Jugend ist eigenverantwortlich, selbstständig und selbstverwaltend. Das 
 * ![](/images/uploads/img_8508.jpeg)
 * ![](/images/uploads/img_8514.jpeg)
 * ![](/images/uploads/2bcf5243-3420-43a7-a28e-f6f6b54aa602.jpeg)
-
-  ![](/images/uploads/img_8589.jpeg)
-
-  ![](/images/uploads/img_8618.jpeg)
+* ![](/images/uploads/img_8589.jpeg)
+* ![](/images/uploads/img_8618.jpeg)
 * ![](/images/uploads/img_0070.jpg)
 * ![](/images/uploads/img_0241.jpg)
