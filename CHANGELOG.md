@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.9](https://github.com/argepasing/grabenfleck-web/compare/v1.0.8...v1.0.9) (2023-12-08)
+
+
+### Bug Fixes
+
+* Bump astro from 3.6.0 to 3.6.4 ([#26](https://github.com/argepasing/grabenfleck-web/issues/26)) ([af643df](https://github.com/argepasing/grabenfleck-web/commit/af643df1e373a03cc9dad92885a043aa9dbc5f0d))
+
 ## [1.0.8](https://github.com/argepasing/grabenfleck-web/compare/v1.0.7...v1.0.8) (2023-11-05)
 
 
