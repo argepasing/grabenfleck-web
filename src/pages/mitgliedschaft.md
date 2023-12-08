@@ -27,4 +27,4 @@ Wenn Du Mitglied bei uns werden möchten, ist eine fünfmalige Teilnahme am Trai
 
 ### Satzung der SG Grabenfleck e.V
 
-- 📖 [Satzung als PDF zum Download](/images/uploads/satzung_sg_grabenfleck.pdf)
+- 📖 [Satzung als PDF zum Download](/images/uploads/satzung-sg-grabenfleck.pdf)
