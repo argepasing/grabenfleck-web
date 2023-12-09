@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.10](https://github.com/argepasing/grabenfleck-web/compare/v1.0.9...v1.0.10) (2023-12-09)
+
+
+### Bug Fixes
+
+* typo ([463a180](https://github.com/argepasing/grabenfleck-web/commit/463a1805c3fe3df034573b016ff9a409b3db8478))
+* update astro to v4 ([7db4f26](https://github.com/argepasing/grabenfleck-web/commit/7db4f264c5cddc85bb06bd7f8f0a97d62a9479cf))
+
 ## [1.0.9](https://github.com/argepasing/grabenfleck-web/compare/v1.0.8...v1.0.9) (2023-12-08)
 
 
