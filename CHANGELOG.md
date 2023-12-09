@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.11](https://github.com/argepasing/grabenfleck-web/compare/v1.0.10...v1.0.11) (2023-12-09)
+
+
+### Bug Fixes
+
+* Bump google-github-actions/release-please-action from 3 to 4 ([#25](https://github.com/argepasing/grabenfleck-web/issues/25)) ([ea9c4d1](https://github.com/argepasing/grabenfleck-web/commit/ea9c4d180d920ec42dfefacac10a41cb0153cdd7))
+
 ## [1.0.10](https://github.com/argepasing/grabenfleck-web/compare/v1.0.9...v1.0.10) (2023-12-09)
 
 
