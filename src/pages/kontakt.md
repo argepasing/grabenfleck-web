@@ -68,7 +68,7 @@ Silberdistelstraße\
 
 ### Zeitraum • Oktober - März
 
-nicht in Ferienzeit - Dienstag, Donnerstag
+nicht in der Ferienzeit - Dienstag, Donnerstag
 
 ### Trainingszeiten
 
