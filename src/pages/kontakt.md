@@ -13,6 +13,8 @@ Lust auf ein Probetraining? Dann melde dich unter [info@grabenfleck.de](mailto:i
 
 ## Luftgewehr- und Luftpistolentraining
 
+Der Schießstand befindet sich im Untergeschoss.
+
 ### Trainingszeiten
 
 | Trainingszeiten       | Uhrzeit             |
@@ -79,7 +81,9 @@ nicht in der Ferienzeit - Dienstag, Donnerstag
 
 ### Adresse Turnhalle
 
-Sporthalle BSZ Luisenstraße\
+im 2. Untergeschoss findet das Training statt.
+
+Turnhalle - Bildungszentrum für Bau und Gestaltung (BSZ)\
 Luisenstr. 9/11\
 80333 München
 
