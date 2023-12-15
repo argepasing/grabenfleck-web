@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/argepasing/grabenfleck-web/compare/v0.1.0...v0.1.1) (2023-12-15)
+
+
+### Bug Fixes
+
+* disable social media icons ([9431a13](https://github.com/argepasing/grabenfleck-web/commit/9431a13ca454393ef51ebce2023f406d16d946c3))
+
 ## 0.1.0 (2023-12-13)
 
 
