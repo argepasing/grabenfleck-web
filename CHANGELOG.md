@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.1.2](https://github.com/argepasing/grabenfleck-web/compare/v0.1.1...v0.1.2) (2023-12-18)
+
+
+### Bug Fixes
+
+* Bump astro from 4.0.4 to 4.0.6 ([#36](https://github.com/argepasing/grabenfleck-web/issues/36)) ([67e7731](https://github.com/argepasing/grabenfleck-web/commit/67e773169884591f8aa89fda3841c765a92f52e2))
+* optimize image position ([fa9b718](https://github.com/argepasing/grabenfleck-web/commit/fa9b718b2e6ec12d14e4331bab41084209225879))
+* optimize image sorting ([6521e17](https://github.com/argepasing/grabenfleck-web/commit/6521e17caee726bc534d48f19c43b552e7c1f9aa))
+* prefix vorstand images ([5294863](https://github.com/argepasing/grabenfleck-web/commit/5294863c05dc542b96d93d29a074d4f7f8090731))
+
 ## [0.1.1](https://github.com/argepasing/grabenfleck-web/compare/v0.1.0...v0.1.1) (2023-12-15)
 
 
