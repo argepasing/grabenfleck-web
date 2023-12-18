@@ -2,6 +2,7 @@
 layout: "@layouts/Page.astro"
 title: Disziplinen » Luftgewehr
 ---
+
 # Luftgewehr&shy;schießen
 
 ![](/images/uploads/dsc03330.jpg "Luftgewehr")
@@ -24,10 +25,6 @@ Das Luftgewehrtraining findet jeden Freitag ab 17 Uhr in unserem Vereinsheim in 
 
 ::list-style{.image-gal}
 
-* ![](/images/uploads/dsc03315.jpg)
-
-  ![](/images/uploads/dsc03394.jpg)
-
-  ![](/images/uploads/dsc03324.jpg)
-
-  ![]()
+- ![](/images/uploads/dsc03315.jpg)
+- ![](/images/uploads/dsc03394.jpg)
+- ![](/images/uploads/dsc03324.jpg)

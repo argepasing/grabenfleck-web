@@ -2,6 +2,7 @@
 layout: "@layouts/Page.astro"
 title: Disziplinen » Luftpistole
 ---
+
 # Luftpistole&shy;schießen
 
 ![](/images/uploads/dsc03326.jpg)
@@ -26,10 +27,7 @@ Das Luftgewehrtraining findet jeden Freitag ab 17 Uhr in unserem Vereinsheim in 
 
 ::list-style{.image-gal}
 
-* ![](/images/uploads/dsc03410.jpg)
-
-  ![](/images/uploads/dsc03333.jpg)
-
-  ![](/images/uploads/dsc03348.jpg)
-
-  ![](/images/uploads/luftpistole.jpg)
+- ![](/images/uploads/dsc03410.jpg)
+- ![](/images/uploads/dsc03333.jpg)
+- ![](/images/uploads/dsc03348.jpg)
+- ![](/images/uploads/luftpistole.jpg)
