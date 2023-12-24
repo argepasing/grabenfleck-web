@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/argepasing/grabenfleck-web/compare/v0.1.2...v0.1.3) (2023-12-24)
+
+
+### Bug Fixes
+
+* add svg logo ([c47c739](https://github.com/argepasing/grabenfleck-web/commit/c47c7396a46c2f30b9a9da13eba79c70b7b44684))
+
 ## [0.1.2](https://github.com/argepasing/grabenfleck-web/compare/v0.1.1...v0.1.2) (2023-12-18)
 
 
