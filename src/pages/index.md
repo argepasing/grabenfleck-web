@@ -11,6 +11,8 @@ title: Startseite
 
 Wir sind die Schützengesellschaft Grabenfleck e.V. München-Pasing.
 
+![Vintage Logo SG Grabenfleck e.V](/images/uploads/logo-mit-jahreszahl-texthoehe1956-48.jpg):style{.float-right .w-1/3 .m-0 .my-4 .ml-4}
+
 ##### **Tradition und sportlicher Ehrgeiz.**
 
 Bei uns treffen Tradition und Gemeinschaft auf sportlichen Ehrgeiz. Auf den folgenden Seiten stellen wir unseren Verein und die verschiedenen Disziplinen vor.

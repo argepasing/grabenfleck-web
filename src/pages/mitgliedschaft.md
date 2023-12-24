@@ -18,11 +18,11 @@ Wenn Du Mitglied bei uns werden möchten, ist eine fünfmalige Teilnahme am Trai
 ### Jahresbeiträge
 
 | Mitgliedsbeiträge                                                     | pro Jahr |
-| --------------------------------------------------------------------- | -------- |
-| Schüler <small>(bis 15 Jahre)</small>                                 | 60,- €   |
-| Jugend/Junioren <small>(bis 18 Jahre)</small>                         | 60,- €   |
-| Wehrdienstleistende, Studenten und Auszubildende                      | 60,- €   |
-| Erwachsene                                                            | 120,- €  |
+| --------------------------------------------------------------------- | -------: |
+| Schüler <small>(bis 15 Jahre)</small>                                 |   60,- € |
+| Jugend/Junioren <small>(bis 18 Jahre)</small>                         |   60,- € |
+| Wehrdienstleistende, Studenten und Auszubildende                      |   60,- € |
+| Erwachsene                                                            |  120,- € |
 | <small class="opacity-75">Stand 2022 - Änderungen vorbehalten</small> |          |
 
 ### Satzung der SG Grabenfleck e.V

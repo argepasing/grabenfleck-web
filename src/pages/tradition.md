@@ -19,3 +19,4 @@ Exakte Datierungen über die Entstehung des Böllerschiessens sind nicht vorhand
 
 - ![Bavaria Böllerschützen](/images/uploads/tradition-bavaria.jpg "Bavaria Böllerschützen")
 - ![](/images/uploads/tradition-pistole.jpg)
+- ![](/images/uploads/logo-mit-jahreszahl-texthoehe1956-48.jpg)
