@@ -3,7 +3,7 @@ const currentPath = Astro.url.pathname;
 ---
 
 <header class="z-50 mb-4 flex w-full flex-wrap border-b border-gray-200 bg-white py-3 text-sm sm:flex-nowrap sm:justify-start sm:py-0">
-  <nav class="relative mx-auto w-full max-w-[85rem] px-6 sm:flex sm:items-center sm:justify-between" aria-label="Global" data-current-path={currentPath}>
+  <nav class="relative mx-auto w-full max-w-[85rem] px-6 sm:items-center sm:justify-between md:flex" aria-label="Global" data-current-path={currentPath}>
     <div class="flex items-center justify-between">
       <a href="/" class="focus:outline-none">
         <div class="inline-flex items-center">
@@ -18,7 +18,7 @@ const currentPath = Astro.url.pathname;
           </h2>
         </div>
       </a>
-      <div class="sm:hidden">
+      <div class="md:hidden">
         <button
           type="button"
           class="hs-collapse-toggle inline-flex items-center justify-center gap-2 rounded-md border bg-white p-2 align-middle text-sm font-medium text-gray-700 shadow-sm transition-all hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 focus:ring-offset-white"
@@ -40,8 +40,8 @@ const currentPath = Astro.url.pathname;
         </button>
       </div>
     </div>
-    <div id="navbar-collapse-with-animation" class="hs-collapse hidden grow basis-full overflow-hidden transition-all duration-300 sm:block">
-      <div class="mt-5 flex flex-col gap-x-0 gap-y-4 sm:mt-0 sm:flex-row sm:items-center sm:justify-end sm:gap-x-3 sm:gap-y-0 sm:pl-7 md:gap-x-6 lg:gap-x-7">
+    <div id="navbar-collapse-with-animation" class="hs-collapse hidden grow basis-full overflow-hidden transition-all duration-300 md:block">
+      <div class="mt-5 flex flex-col gap-x-0 gap-y-4 sm:mt-0 sm:flex-row sm:items-center sm:justify-end sm:gap-x-3 sm:gap-y-0 md:gap-x-4 lg:gap-x-5">
         <a href="/ueber-uns/" class={currentPath === "/ueber-uns/" ? "navbar-item active" : "navbar-item"}>Über uns</a>
         <a href="/tradition/" class={currentPath === "/tradition/" ? "navbar-item active" : "navbar-item"}>Tradition</a>
 
