@@ -5,7 +5,7 @@ title: Über uns
 
 # Von Tradition bis Sport
 
-Unser Verein, die Schützengesellschaft Grabenfleck e.V. ist dem [Schützengau München Süd-West](//www.gau-suedwest.de), dem [Bezirk München](https://schuetzenbezirkmuenchen.org/) und dem [Bayerischen Sportschützenbund](https://www.bssb.de/) angeschlossen. Neben der Traditions- und Brauchtumspflege und dem sportlichen Wettkampf in verschiedenen Disziplinen ist die [Jugendarbeit](/jugend/) eines der Hauptanliegen unseres Vereins, so sind wir zu einem der größten Schützenvereine im Münchner Westen geworden.
+Unser Verein, die Schützengesellschaft Grabenfleck e.V. ist dem [Schützengau München Süd-West](http://www.gau-suedwest.de), dem [Bezirk München](https://schuetzenbezirkmuenchen.org/) und dem [Bayerischen Sportschützenbund](https://www.bssb.de/) angeschlossen. Neben der Traditions- und Brauchtumspflege und dem sportlichen Wettkampf in verschiedenen Disziplinen ist die [Jugendarbeit](/jugend/) eines der Hauptanliegen unseres Vereins, so sind wir zu einem der größten Schützenvereine im Münchner Westen geworden.
 
 ## Engagement über den Schießsport hinaus
 
