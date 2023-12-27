@@ -16,7 +16,7 @@
 }
 
 .navbar-item.active {
-  @apply font-medium text-green-500 sm:py-6;
+  @apply font-medium text-green-600;
 }
 
 /* image gallery with m2dx */

@@ -4,7 +4,7 @@ const git_commit_hash = import.meta.env.COMMIT_REF;
 const current_year = new Date().getFullYear();
 ---
 
-<div class="mt-10 bg-green-50">
+<div class="mt-10 border-t-4 border-green-600 bg-green-50">
   <footer class="mx-auto w-full max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8">
     <!-- Grid -->
     <div class="mb-10 grid grid-cols-2 gap-6 md:grid-cols-4 lg:grid-cols-5">
@@ -117,16 +117,16 @@ const current_year = new Date().getFullYear();
     </div>
     <!-- End Grid -->
 
-    <div class="mt-5 border-t border-gray-200 pt-5">
+    <div class="mt-5 border-t border-green-200 pt-5">
       <div class="flex items-center justify-between">
         <div class="space-x-4 text-sm">
-          <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800" href="/impressum/">Impressum</a>
-          <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800" href="/datenschutz/">Datenschutz</a>
+          <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 hover:underline" href="/impressum/">Impressum</a>
+          <a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 hover:underline" href="/datenschutz/">Datenschutz</a>
         </div>
 
         <div class="flex items-center justify-between">
           <div class="space-x-4">
-            <p title={`${package_version} • ${git_commit_hash.substring(0, 7)}`} class="text-xs opacity-30">
+            <p title={`${package_version} • ${git_commit_hash.substring(0, 7)}`} class="text-xs opacity-50">
               © {current_year} • {package_version}
             </p>
             <!-- Social Brands currently disabled -->
