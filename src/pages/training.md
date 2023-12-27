@@ -18,9 +18,9 @@ Seit 2018 haben wir in unserem Verein zwei Trainer\*innen. Einen Trainer für da
 
 Unsere Trainer\*innen geben ihre Stunden in der Regel gemeinsam. Dabei werden nicht nur die Techniken des Schießens vermittelt sondern auch Sport gemacht oder über gesundes Essen informiert, denn Ausgleichsport und eine ausgewohgene Ernährung gehörten zum erfolgreichen Schießen. Dennoch wird alles ohne Zwang und Druck vermittelt. Das wichtigste ist: Es muss Spaß machen.
 
-Neben Trainingseinheiten während der Schießabende, werden von unseren Trainer\*innen regelmäßig Trainings mit Schwerpunktthemen angeboten. Zudem fahren die beiden mit den Jugendlichen ein- bis zweimal im Jahr für ein Trainingswochenende an den Walchensee. Hier wird gemeinsam geschossen, Sport gemacht und gesund gekocht.
+Neben Trainingseinheiten während der Schießabende, werden von unseren Trainer\*innen regelmäßig Trainings mit Schwerpunktthemen angeboten. Zudem fahren die beiden mit den Jugendlichen ein- bis zweimal im Jahr für ein Trainingswochenende an den [Walchensee](https://www.walchenseehaus.de/). Hier wird gemeinsam geschossen, Sport gemacht und gesund gekocht.
 
-Zu Veranstaltungen, Meisterschaften und Wettbewerben werden die Jugendlichen begleitet und gecoacht. Wir sind zwar in erster Linie kein Leistungsverein, dennoch werden alle unsere Talente im gewünchten Maß gefördert. Unsere beiden Trainer waren früher selbt Teil des Münchenkaders und nehmen noch heute regelmäig an Meisterschaften wie zum Beispiel der Deutschen Meisterschaft teil.
+Zu Veranstaltungen, Meisterschaften und Wettbewerben werden die Jugendlichen begleitet und gecoacht. Wir sind zwar in erster Linie kein Leistungsverein, dennoch werden alle unsere Talente im gewünchten Maß gefördert. Unsere beiden Trainer waren früher selbt Teil des [Münchenkaders](https://schuetzenjugend-muenchen.de/) und nehmen noch heute regelmäig an Meisterschaften wie zum Beispiel der Deutschen Meisterschaft teil.
 
 All ihr wissen geben sie mit Leidenschaft an Vereinskolleg\*innen weiter egal ob Anfänger oder Fortgeschritten ob Jung oder Alt. Mit individuellen Trainingsmethoden sorgen sie jederzeit für Spaß am Training.
 
