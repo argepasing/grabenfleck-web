@@ -25,6 +25,6 @@ Wenn Du Mitglied bei uns werden möchten, ist eine fünfmalige Teilnahme am Trai
 | Erwachsene                                                            |  120,- € |
 | <small class="opacity-75">Stand 2022 - Änderungen vorbehalten</small> |          |
 
-### Satzung der SG Grabenfleck e.V
+### Satzung der SG Grabenfleck e.V.
 
 - 📖 [Satzung als PDF zum Download](/images/uploads/satzung-sg-grabenfleck.pdf)

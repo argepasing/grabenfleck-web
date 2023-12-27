@@ -5,7 +5,7 @@ title: Startseite
 
 # Herzlich Willkommen...
 
-![SG Grabenfleck e.V](/images/uploads/index-grabenfleck.jpg "SG Grabenfleck e.V")
+![SG Grabenfleck e.V.](/images/uploads/index-grabenfleck.jpg "SG Grabenfleck e.V.")
 
 ### Willkommen bei der Schützengesellschaft Grabenfleck e.V. München-Pasing
 
