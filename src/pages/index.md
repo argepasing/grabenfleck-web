@@ -15,14 +15,14 @@ Wir sind die Schützengesellschaft Grabenfleck e.V. München-Pasing.
 
 ##### **Tradition und sportlicher Ehrgeiz.**
 
-Bei uns treffen Tradition und Gemeinschaft auf sportlichen Ehrgeiz. Auf den folgenden Seiten stellen wir unseren Verein und die verschiedenen Disziplinen vor.
+Bei uns treffen Tradition und [Gemeinschaft](/ueber-uns/) auf sportlichen [Ehrgeiz](/wettkampf/). Auf den folgenden Seiten stellen wir unseren Verein und die verschiedenen Disziplinen vor.
 
-Unser Verein ist mehr als nur ein Sportschützenverein. Bei uns stehen der sportliche Ehrgeiz und die Gemeinschaft im Vordergrund. Von Jung bis Alt und auch Inklusion wird bei uns groß geschrieben.
+Unser Verein ist mehr als nur ein Sportschützenverein. Bei uns stehen der sportliche [Ehrgeiz](/wettkampf/) und die [Gemeinschaft](/ueber-uns/) im Vordergrund. Von Jung bis Alt und auch [Inklusion](/behindertensport/) wird bei uns groß geschrieben.
 
-Von Luftgewehr und Luftpistole über Bogen und Böller können bei uns auch die Jüngsten mit dem Lichtpunkt schießen.
+Von [Luftgewehr](/luftgewehr/) und [Luftpistole](/luftpistole/) über [Bogen](/bogen/) und [Böller](/tradition/) können bei uns auch die Jüngsten mit dem [Lichtpunkt](/lichtgewehr-pistole/) schießen.
 
 ##### **Viele Disziplinen - ein Verein**
 
-Wenn wir Dein Interesse am Schießsport geweckt haben und Du uns näher kennen lernen möchtest, dann würden wir uns freuen, Dich an einem unserer Trainingstage begrüßen zu dürfen.
+Wenn wir Dein Interesse am Schießsport geweckt haben und Du uns näher kennen lernen möchtest, dann würden wir uns freuen, Dich an einem unserer [Trainingstage](/kontakt/) begrüßen zu dürfen.
 
-Die SG Grabenfleck e.V. wird gefördert von der Landeshauptstadt München. [Referat für Bildung und Sport](https://stadt.muenchen.de/infos/portrait-referat-bildung-sport.html).
+Die SG Grabenfleck e.V. wird gefördert von der Landeshauptstadt München. <br />[Referat für Bildung und Sport](https://stadt.muenchen.de/infos/portrait-referat-bildung-sport.html).
