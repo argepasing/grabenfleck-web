@@ -1,5 +1,8 @@
 ---
 import PageLayout from "@/layouts/Page.astro";
+import VorstandContainer from "@/components/VorstandContainer.astro";
+import VorstandCard from "@/components/VorstandCard.astro";
+import VorstandPromo from "@/components/VorstandPromo.astro";
 ---
 
 <PageLayout title="Vorstand">
@@ -7,169 +10,23 @@ import PageLayout from "@/layouts/Page.astro";
     <h1>Unsere Vorstandschaft</h1>
   </div>
 
-  <!-- Team -->
-  <div class="mx-auto py-10">
-    <!-- Grid -->
-    <div class="grid grid-cols-2 gap-8 sm:grid-cols-3 md:grid-cols-3 md:gap-12 lg:grid-cols-3">
-      <div class="text-center">
-        <img class="mx-auto my-0 h-24 w-24 rounded-full bg-green-100" src="/images/uploads/vorstand-georg-felbermayr.png" alt="Georg Felbermayr" />
-        <div class="mt-2 sm:mt-4">
-          <h3 class="m-0 text-base font-medium text-gray-800">Georg Felbermayr</h3>
-          <p class="m-0 text-sm text-gray-600">1. Schützenmeister</p>
-        </div>
-      </div>
-      <!-- End Col -->
+  <VorstandContainer>
+    <VorstandCard name="Georg Felbermayr" role="1. Schützenmeister" image="/images/uploads/vorstand-georg-felbermayr.png" />
+    <VorstandCard name="Franziska Felbermayr" role="2. Schützenmeisterin" image="/images/uploads/vorstand-franziska-felbermayr.png" />
+    <VorstandCard name="Maik Dreßel" role="3. Schützenmeister" image="/images/uploads/vorstand-maik-dressel.png" />
+    <VorstandCard name="Marion Dauerer" role="1. Sportleiterin LG/LP" image="/images/uploads/vorstand-marion-dauerer.png" />
+    <VorstandCard name="Wolfgang Empl" role="2. Sportleiter LG/LP" image="/images/uploads/vorstand-wolfgang-empl.png" />
+    <VorstandCard name="Jürgen Bohl" role="1. Sportleiter Bogen" image="/images/uploads/vorstand-juergen-bohl.png" />
+    <VorstandCard name="Simon Gratz" role="2. Sportleiter Bogen" image="/images/uploads/vorstand-simon-gratz.png" />
+    <VorstandCard name="Ester Mittermeier" role="Kassiererin" image="/images/uploads/vorstand-ester-mittermeier.png" />
+    <VorstandCard name="Stefan Medele" role="Schriftführer" image="/images/uploads/vorstand-stefan-medele.png" />
+    <VorstandCard name="Stefan Fendl" role="1. Jugendleiter" image="/images/uploads/vorstand-stefan-fendl.png" />
+    <VorstandCard name="Sandra Thürstein" role="2. Jugendleiter" image="/images/uploads/vorstand-sandra-thuerstein.png" />
+    <VorstandCard name="Christina Dauerer" role="Jugendsprecherin" image="/images/uploads/vorstand-christina-dauerer.png" />
+    <VorstandCard name="Michl Konrath" role="Jugendsprecher" image="/images/uploads/vorstand-michl-konrath.png" />
+    <VorstandCard name="Doris Faden" role="Mitgliederreferentin" image="/images/uploads/vorstand-doris-faden.png" />
+    <VorstandCard name="Michael Klemke" role="Böllerreferent" image="/images/uploads/vorstand-michael-klemke.png" />
+  </VorstandContainer>
 
-      <div class="text-center">
-        <img class="mx-auto my-0 h-24 w-24 rounded-full bg-green-100" src="/images/uploads/vorstand-franziska-felbermayr.png" alt="Franziska Felbermayr" />
-        <div class="mt-2 sm:mt-4">
-          <h3 class="m-0 text-base font-medium text-gray-800">Franziska Felbermayr</h3>
-          <p class="m-0 text-sm text-gray-600">2. Schützenmeisterin</p>
-        </div>
-      </div>
-      <!-- End Col -->
-
-      <div class="text-center">
-        <img class="mx-auto my-0 h-24 w-24 rounded-full bg-green-100" src="/images/uploads/vorstand-maik-dressel.png" alt="Maik Dressel" />
-        <div class="mt-2 sm:mt-4">
-          <h3 class="m-0 text-base font-medium text-gray-800">Maik Dreßel</h3>
-          <p class="m-0 text-sm text-gray-600">3. Vorstand</p>
-        </div>
-      </div>
-      <!-- End Col -->
-
-      <div class="text-center">
-        <img class="mx-auto my-0 h-24 w-24 rounded-full bg-green-100" src="/images/uploads/vorstand-marion-dauerer.png" alt="Marion Dauerer" />
-        <div class="mt-2 sm:mt-4">
-          <h3 class="m-0 text-base font-medium text-gray-800">Marion Dauerer</h3>
-          <p class="m-0 text-sm text-gray-600">1. Sportleiterin LG/LP</p>
-        </div>
-      </div>
-      <!-- End Col -->
-
-      <div class="text-center">
-        <img class="mx-auto my-0 h-24 w-24 rounded-full bg-green-100" src="/images/uploads/vorstand-wolfgang-empl.png" alt="Wolfgang Empl" />
-        <div class="mt-2 sm:mt-4">
-          <h3 class="m-0 text-base font-medium text-gray-800">Wolfgang Empl</h3>
-          <p class="m-0 text-sm text-gray-600">2. Sportleiter LG/LP</p>
-        </div>
-      </div>
-      <!-- End Col -->
-
-      <div class="text-center">
-        <img class="mx-auto my-0 h-24 w-24 rounded-full bg-green-100" src="/images/uploads/vorstand-juergen-bohl.png" alt="Juergen Bohl" />
-        <div class="mt-2 sm:mt-4">
-          <h3 class="m-0 text-base font-medium text-gray-800">Jürgen Bohl</h3>
-          <p class="m-0 text-sm text-gray-600">1. Sportleiter Bogen</p>
-        </div>
-      </div>
-      <!-- End Col -->
-
-      <div class="text-center">
-        <img class="mx-auto my-0 h-24 w-24 rounded-full bg-green-100" src="/images/uploads/vorstand-simon-gratz.png" alt="Simon Gratz" />
-        <div class="mt-2 sm:mt-4">
-          <h3 class="m-0 text-base font-medium text-gray-800">Simon Gratz</h3>
-          <p class="m-0 text-sm text-gray-600">2. Sportleiter Bogen</p>
-        </div>
-      </div>
-      <!-- End Col -->
-
-      <div class="text-center">
-        <img class="mx-auto my-0 h-24 w-24 rounded-full bg-green-100" src="/images/uploads/vorstand-ester-mittermeier.png" alt="Ester Mittermeier" />
-        <div class="mt-2 sm:mt-4">
-          <h3 class="m-0 text-base font-medium text-gray-800">Ester Mittermeier</h3>
-          <p class="m-0 text-sm text-gray-600">Kassiererin</p>
-        </div>
-      </div>
-      <!-- End Col -->
-
-      <div class="text-center">
-        <img class="mx-auto my-0 h-24 w-24 rounded-full bg-green-100" src="/images/uploads/vorstand-stefan-medele.png" alt="Stefan Medele" />
-        <div class="mt-2 sm:mt-4">
-          <h3 class="m-0 text-base font-medium text-gray-800">Stefan Medele</h3>
-          <p class="m-0 text-sm text-gray-600">Schriftführer</p>
-        </div>
-      </div>
-      <!-- End Col -->
-
-      <div class="text-center">
-        <img class="mx-auto my-0 h-24 w-24 rounded-full bg-green-100" src="/images/uploads/vorstand-stefan-fendl.png" alt="Stefan Fendl" />
-        <div class="mt-2 sm:mt-4">
-          <h3 class="m-0 text-base font-medium text-gray-800">Stefan Fendl</h3>
-          <p class="m-0 text-sm text-gray-600">1. Jugendleiter</p>
-        </div>
-      </div>
-      <!-- End Col -->
-
-      <div class="text-center">
-        <img class="mx-auto my-0 h-24 w-24 rounded-full bg-green-100" src="/images/uploads/vorstand-sandra-thuerstein.png" alt="Sandra Thuerstein" />
-        <div class="mt-2 sm:mt-4">
-          <h3 class="m-0 text-base font-medium text-gray-800">Sandra Thürstein</h3>
-          <p class="m-0 text-sm text-gray-600">2. Jugendleiter</p>
-        </div>
-      </div>
-      <!-- End Col -->
-
-      <div class="text-center">
-        <img class="mx-auto my-0 h-24 w-24 rounded-full bg-green-100" src="/images/uploads/vorstand-christina-dauerer.png" alt="Christina Dauerer" />
-        <div class="mt-2 sm:mt-4">
-          <h3 class="m-0 text-base font-medium text-gray-800">Christina Dauerer</h3>
-          <p class="m-0 text-sm text-gray-600">Jugendsprecherin</p>
-        </div>
-      </div>
-      <!-- End Col -->
-
-      <div class="text-center">
-        <img class="mx-auto my-0 h-24 w-24 rounded-full bg-green-100" src="/images/uploads/vorstand-michl-konrath.png" alt="Michl Konrath" />
-        <div class="mt-2 sm:mt-4">
-          <h3 class="m-0 text-base font-medium text-gray-800">Michl Konrath</h3>
-          <p class="m-0 text-sm text-gray-600">Jugendsprecher</p>
-        </div>
-      </div>
-      <!-- End Col -->
-
-      <div class="text-center">
-        <img class="mx-auto my-0 h-24 w-24 rounded-full bg-green-100" src="/images/uploads/vorstand-doris-faden.png" alt="Doris Faden" />
-        <div class="mt-2 sm:mt-4">
-          <h3 class="m-0 text-base font-medium text-gray-800">Doris Faden</h3>
-          <p class="m-0 text-sm text-gray-600">Mitgliederreferentin</p>
-        </div>
-      </div>
-      <!-- End Col -->
-
-      <div class="text-center">
-        <img class="mx-auto my-0 h-24 w-24 rounded-full bg-green-100" src="/images/uploads/vorstand-michael-klemke.png" alt="Michael Klemke" />
-        <div class="mt-2 sm:mt-4">
-          <h3 class="m-0 text-base font-medium text-gray-800">Michael Klemke</h3>
-          <p class="m-0 text-sm text-gray-600">Böllerreferent</p>
-        </div>
-      </div>
-      <!-- End Col -->
-    </div>
-    <!-- End Grid -->
-
-    <!-- Card -->
-    <div class="mt-12 flex justify-center">
-      <div class="rounded-full border border-gray-200 p-1.5 pl-5">
-        <div class="flex items-center gap-x-3">
-          <span class="text-sm text-gray-500">So wirst Du Teil unseres Vereins</span>
-          <a
-            class="inline-flex items-center justify-center gap-x-2 rounded-full border bg-white px-4 py-3 text-center text-sm font-medium text-green-700 transition hover:border-gray-300 hover:text-green-800 hover:shadow-sm focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-offset-2 focus:ring-offset-white"
-            href="/mitgliedschaft/"
-          >
-            Mitgliedschaft
-            <svg class="h-2.5 w-2.5" width="16" height="16" viewBox="0 0 16 16" fill="none">
-              <path
-                d="M5.27921 2L10.9257 7.64645C11.1209 7.84171 11.1209 8.15829 10.9257 8.35355L5.27921 14"
-                stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"></path>
-            </svg>
-          </a>
-        </div>
-      </div>
-    </div>
-    <!-- End Card -->
-  </div>
-  <!-- End Team -->
+  <VorstandPromo />
 </PageLayout>

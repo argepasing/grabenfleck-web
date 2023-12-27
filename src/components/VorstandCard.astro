@@ -1,0 +1,17 @@
+---
+interface Props {
+  name: string;
+  role: string;
+  image: string;
+}
+
+const { name, role, image } = Astro.props;
+---
+
+<div class="text-center">
+  <img class="mx-auto my-0 h-24 w-24 rounded-full bg-green-100" src={image} alt="Franziska Felbermayr" />
+  <div class="mt-2 sm:mt-4">
+    <h3 class="m-0 text-base font-medium text-gray-800">{name}</h3>
+    <p class="m-0 text-sm text-gray-600">{role}</p>
+  </div>
+</div>
