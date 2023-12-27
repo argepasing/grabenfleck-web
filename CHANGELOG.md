@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.1.5](https://github.com/argepasing/grabenfleck-web/compare/v0.1.4...v0.1.5) (2023-12-27)
+
+
+### Bug Fixes
+
+* add border to footer-head ([a6a8ecf](https://github.com/argepasing/grabenfleck-web/commit/a6a8ecf566f80313a565a4779bab775641dd1845))
+* build vorstand components ([6a97a43](https://github.com/argepasing/grabenfleck-web/commit/6a97a432df6db007d3d344c5f56d7f33e630c1cf))
+* re-use Page layout ([f505e57](https://github.com/argepasing/grabenfleck-web/commit/f505e57c1a27dafee362869b0e464f7e742542a6))
+* responsive navbar improvements ([07d68f7](https://github.com/argepasing/grabenfleck-web/commit/07d68f7f8c9e0b81135301b768f12e4bde232c4f))
+* url without https gau-suedwest.de ([1294619](https://github.com/argepasing/grabenfleck-web/commit/12946192d0946f700d2f5cb6165f6aeba313d8a2))
+
 ## [0.1.4](https://github.com/argepasing/grabenfleck-web/compare/v0.1.3...v0.1.4) (2023-12-27)
 
 
