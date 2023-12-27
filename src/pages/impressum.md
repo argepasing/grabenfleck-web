@@ -22,7 +22,7 @@ E-Mail: info (at) grabenfleck.de
 Georg Felbermayr sen.\
 Scheurlinstr. 3\
 81241 München\
-Quelle: http://www.e-recht24.de
+Quelle: e-recht24.de
 
 **Registereintrag**\
 Eintragung im Vereinsregister\

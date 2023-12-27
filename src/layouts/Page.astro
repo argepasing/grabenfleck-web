@@ -1,13 +1,13 @@
 ---
 import Default from "@/layouts/Default.astro";
 
-const { frontmatter } = Astro.props;
+const { title } = Astro.props.frontmatter || Astro.props;
 ---
 
-<Default title={frontmatter.title}>
+<Default title={title}>
   <div class="title-font mb-2 text-sm uppercase tracking-widest text-gray-500">
     <i class="bi bi-house mr-1"></i>
-    {frontmatter.title}
+    {title}
   </div>
 
   <div class="prose">
