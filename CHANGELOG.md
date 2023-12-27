@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.1.4](https://github.com/argepasing/grabenfleck-web/compare/v0.1.3...v0.1.4) (2023-12-27)
+
+
+### Bug Fixes
+
+* add links in text ([05bfe69](https://github.com/argepasing/grabenfleck-web/commit/05bfe69d5e4bfc515c75b63bb88139da00486008))
+* Bump @astrojs/tailwind from 5.0.3 to 5.0.4 ([#41](https://github.com/argepasing/grabenfleck-web/issues/41)) ([2efd0ba](https://github.com/argepasing/grabenfleck-web/commit/2efd0ba80b3dc89836b137372b2978b886c7a959))
+* Bump astro from 4.0.6 to 4.0.7 ([#40](https://github.com/argepasing/grabenfleck-web/issues/40)) ([af8e785](https://github.com/argepasing/grabenfleck-web/commit/af8e7854f1b38196694dba0e969cd4ad3ac02f97))
+* imporve navbar spacing ([c7c3617](https://github.com/argepasing/grabenfleck-web/commit/c7c361789a9341cef90b1b1798917fec7bfcb630))
+* improve footer layout ([f4a9552](https://github.com/argepasing/grabenfleck-web/commit/f4a95522e1f85ddea163510b0b3a8d4cc67b4f67))
+* larger main prose area ([d58f135](https://github.com/argepasing/grabenfleck-web/commit/d58f135e789035e05cd3576081d5cf366a9e3b27))
+* links and typo ([2b354f9](https://github.com/argepasing/grabenfleck-web/commit/2b354f9560b4b82d5fab928940a7f493b5e78f09))
+* setup astro prettier ([c433484](https://github.com/argepasing/grabenfleck-web/commit/c433484b189e098faa8a71dd53f1c7d8e5b64500))
+* typo ([791446d](https://github.com/argepasing/grabenfleck-web/commit/791446dbdd1a3d602c841b2b7073a2b4ae1192df))
+* use import alias for components ([9f463de](https://github.com/argepasing/grabenfleck-web/commit/9f463de9279df22aa57834eb2dcf1a577f9ccb4b))
+* use import alias for layouts ([742cb2a](https://github.com/argepasing/grabenfleck-web/commit/742cb2a341460586ad0041768e67100194e9f255))
+
 ## [0.1.3](https://github.com/argepasing/grabenfleck-web/compare/v0.1.2...v0.1.3) (2023-12-24)
 
 
