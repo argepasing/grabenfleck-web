@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.7](https://github.com/argepasing/grabenfleck-web/compare/v0.1.6...v0.1.7) (2024-01-03)
+
+
+### Bug Fixes
+
+* enable prefetch ([ef3e4bc](https://github.com/argepasing/grabenfleck-web/commit/ef3e4bc7c395bb558ab4ded93e48b14dfcd1c29a))
+* wire vorstand json list to component ([98146d3](https://github.com/argepasing/grabenfleck-web/commit/98146d38009be2ab968a75393fb78c979b487033))
+
 ## [0.1.6](https://github.com/argepasing/grabenfleck-web/compare/v0.1.5...v0.1.6) (2024-01-01)
 
 
