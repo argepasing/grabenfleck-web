@@ -32,6 +32,8 @@ collections:
         description: "Liste der Vorstände"
         fields:
           - name: vorstand
+            label: Vorstände
+            label_singular: Vorstand
             widget: list
             fields:
               - label: "Name"
@@ -43,4 +45,4 @@ collections:
               - label: "Image Path"
                 name: image
                 widget: "string"
-                hint: "Full image path"
+                hint: "Full image path (ohne Leerzeichen, Umlaute), z.b. /images/uploads/vorstand-joerg-mueller.png"
