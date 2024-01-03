@@ -29,4 +29,4 @@ collections:
     files:
       - name: "Vorstand Seite"
         label: "Vorstand Seite MDX"
-        file: "src/pages/vorstand.mdx"
+        file: "src/pages/vorstand1.mdx"
