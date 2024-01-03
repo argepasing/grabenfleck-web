@@ -27,10 +27,9 @@ collections:
     editor:
       preview: false
     files:
-      - name: "Vorstand Seite"
-        label: "Vorstand Seite MDX"
+      - name: vorstand
+        label: "Vorstand Seite als MDX"
         file: "src/pages/vorstand1.mdx"
-        description: Vorstandsliste als MDX
         fields:
           - label: "Name"
             name: name
