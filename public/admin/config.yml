@@ -22,18 +22,25 @@ collections:
   - name: vorstand
     label: Vorstände
     label_singular: Vorstand
-    file: "src/vorstand.yml"
     delete: false
     editor:
       preview: false
-    fields:
-      - label: "Name"
-        name: name
-        widget: "string"
-      - label: "Rolle"
-        name: role
-        widget: "string"
-      - label: "Image Path"
-        name: image
-        widget: "string"
-        hint: "Full image path"
+    files:
+      - name: vorstandlist
+        label: Vorstands-Liste
+        file: "src/vorstand.yml"
+        description: "Liste der Vorstände"
+        fields:
+          - name: vorstand
+            widget: list
+            fields:
+              - label: "Name"
+                name: name
+                widget: "string"
+              - label: "Rolle"
+                name: role
+                widget: "string"
+              - label: "Image Path"
+                name: image
+                widget: "string"
+                hint: "Full image path"
