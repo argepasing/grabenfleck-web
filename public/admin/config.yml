@@ -15,9 +15,9 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
 
   - name: vorstand
     label: Vorstände
@@ -28,7 +28,7 @@ collections:
     files:
       - name: vorstandlist
         label: Vorstands-Liste
-        file: "src/vorstand.yml"
+        file: "src/content/vorstand/list.json"
         description: "Liste der Vorstände"
         fields:
           - name: vorstand
@@ -36,13 +36,11 @@ collections:
             label_singular: Vorstand
             widget: list
             fields:
-              - label: "Name"
-                name: name
-                widget: "string"
-              - label: "Rolle"
-                name: role
-                widget: "string"
-              - label: "Image Path"
-                name: image
-                widget: "string"
-                hint: "Full image path (ohne Leerzeichen, Umlaute), z.b. /images/uploads/vorstand-joerg-mueller.png"
+              - { label: "Name", name: name, widget: "string" }
+              - { label: "Rolle", name: role, widget: "string" }
+              - {
+                  label: "Image Path",
+                  name: image,
+                  widget: "string",
+                  hint: "Full image path (ohne Leerzeichen, Umlaute), z.b. /images/uploads/vorstand-joerg-mueller.png",
+                }

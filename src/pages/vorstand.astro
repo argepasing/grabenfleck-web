@@ -1,8 +1,7 @@
 ---
+import List from "@/content/vorstand/list.json";
 import PageLayout from "@/layouts/Page.astro";
-import VorstandContainer from "@/components/VorstandContainer.astro";
 import VorstandCard from "@/components/VorstandCard.astro";
-import VorstandPromo from "@/components/VorstandPromo.astro";
 ---
 
 <PageLayout title="Vorstand">
@@ -10,23 +9,28 @@ import VorstandPromo from "@/components/VorstandPromo.astro";
     <h1>Unsere Vorstandschaft</h1>
   </div>
 
-  <VorstandContainer>
-    <VorstandCard name="Georg Felbermayr" role="1. Schützenmeister" image="/images/uploads/vorstand-georg-felbermayr.png" />
-    <VorstandCard name="Franziska Felbermayr" role="2. Schützenmeisterin" image="/images/uploads/vorstand-franziska-felbermayr.png" />
-    <VorstandCard name="Maik Dreßel" role="3. Schützenmeister" image="/images/uploads/vorstand-maik-dressel.png" />
-    <VorstandCard name="Marion Dauerer" role="1. Sportleiterin LG/LP" image="/images/uploads/vorstand-marion-dauerer.png" />
-    <VorstandCard name="Wolfgang Empl" role="2. Sportleiter LG/LP" image="/images/uploads/vorstand-wolfgang-empl.png" />
-    <VorstandCard name="Jürgen Bohl" role="1. Sportleiter Bogen" image="/images/uploads/vorstand-juergen-bohl.png" />
-    <VorstandCard name="Simon Gratz" role="2. Sportleiter Bogen" image="/images/uploads/vorstand-simon-gratz.png" />
-    <VorstandCard name="Ester Mittermeier" role="Kassiererin" image="/images/uploads/vorstand-ester-mittermeier.png" />
-    <VorstandCard name="Stefan Medele" role="Schriftführer" image="/images/uploads/vorstand-stefan-medele.png" />
-    <VorstandCard name="Stefan Fendl" role="1. Jugendleiter" image="/images/uploads/vorstand-stefan-fendl.png" />
-    <VorstandCard name="Sandra Thürstein" role="2. Jugendleiter" image="/images/uploads/vorstand-sandra-thuerstein.png" />
-    <VorstandCard name="Christina Dauerer" role="Jugendsprecherin" image="/images/uploads/vorstand-christina-dauerer.png" />
-    <VorstandCard name="Michl Konrath" role="Jugendsprecher" image="/images/uploads/vorstand-michl-konrath.png" />
-    <VorstandCard name="Doris Faden" role="Mitgliederreferentin" image="/images/uploads/vorstand-doris-faden.png" />
-    <VorstandCard name="Michael Klemke" role="Böllerreferent" image="/images/uploads/vorstand-michael-klemke.png" />
-  </VorstandContainer>
+  <div class="mt-10 grid grid-cols-2 gap-8 sm:grid-cols-3">
+    {List.vorstand.map((vorstand) => <VorstandCard name={vorstand.name} role={vorstand.role} image={vorstand.image} />)}
+  </div>
 
-  <VorstandPromo />
+  <div class="mt-12 flex justify-center">
+    <div class="rounded-full border border-gray-200 p-1.5 pl-5">
+      <div class="flex items-center gap-x-3">
+        <span class="text-sm text-gray-500">So wirst Du Teil unseres Vereins</span>
+        <a
+          class="inline-flex items-center justify-center gap-x-2 rounded-full border bg-white px-4 py-3 text-center text-sm font-medium text-green-700 transition hover:border-gray-300 hover:text-green-800 hover:shadow-sm focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-offset-2 focus:ring-offset-white"
+          href="/mitgliedschaft/"
+        >
+          Mitgliedschaft
+          <svg class="h-2.5 w-2.5" width="16" height="16" viewBox="0 0 16 16" fill="none">
+            <path
+              d="M5.27921 2L10.9257 7.64645C11.1209 7.84171 11.1209 8.15829 10.9257 8.35355L5.27921 14"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"></path>
+          </svg>
+        </a>
+      </div>
+    </div>
+  </div>
 </PageLayout>
