@@ -20,5 +20,5 @@ E-Mail: info (at) grabenfleck.de
 Registergericht: Amtsgericht München\
 Vereinsregister: VR 10766
 
-**Verbraucherstreitbeilegung/Universalschlichtungsstelle**
+**Verbraucherstreitbeilegung/Universalschlichtungsstelle**\
 Wir sind weder bereit noch verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
