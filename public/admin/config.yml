@@ -30,3 +30,15 @@ collections:
       - name: "Vorstand Seite"
         label: "Vorstand Seite MDX"
         file: "src/pages/vorstand1.mdx"
+        description: Vorstandsliste als MDX
+        fields:
+          - label: "Name"
+            name: name
+            widget: "string"
+          - label: "Rolle"
+            name: role
+            widget: "string"
+          - label: "Image Path"
+            name: image
+            widget: "string"
+            hint: "Full image path"
