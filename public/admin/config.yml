@@ -8,8 +8,8 @@ media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
 
 collections:
-  - name: "page"
-    label: "Seite"
+  - name: page
+    label: Seite
     folder: "src/pages/"
     create: true
     slug: "{{slug}}"
@@ -17,3 +17,12 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: vorstand
+    label: Vorstand
+    folder: src/pages
+    delete: false
+    extension: mdx
+    format: frontmatter
+    editor:
+      preview: false
