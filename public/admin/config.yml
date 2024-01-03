@@ -9,7 +9,8 @@ public_folder: "/images/uploads"
 
 collections:
   - name: page
-    label: Seite
+    label: Seiten
+    label_singular: Seite
     folder: "src/pages/"
     create: true
     slug: "{{slug}}"
@@ -19,25 +20,20 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: vorstand
-    label: Vorstand
-    folder: src/pages
+    label: Vorstände
+    label_singular: Vorstand
+    file: "src/vorstand.yml"
     delete: false
-    extension: mdx
-    format: frontmatter
     editor:
       preview: false
-    files:
-      - name: vorstand
-        label: "Vorstand Seite als MDX"
-        file: "src/pages/vorstand1.mdx"
-        fields:
-          - label: "Name"
-            name: name
-            widget: "string"
-          - label: "Rolle"
-            name: role
-            widget: "string"
-          - label: "Image Path"
-            name: image
-            widget: "string"
-            hint: "Full image path"
+    fields:
+      - label: "Name"
+        name: name
+        widget: "string"
+      - label: "Rolle"
+        name: role
+        widget: "string"
+      - label: "Image Path"
+        name: image
+        widget: "string"
+        hint: "Full image path"
