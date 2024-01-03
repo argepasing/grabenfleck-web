@@ -14,7 +14,7 @@ Aubinger Straße 12\
 Georg Felbermayr sen. (1. Vorstand)
 
 **Kontakt**\
-Telefon: 089 88 69 21
+Telefon: 089 88 69 21\
 E-Mail: info (at) grabenfleck.de
 
 Registergericht: Amtsgericht München\
