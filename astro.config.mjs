@@ -12,6 +12,7 @@ const m2dxOptions = {
 
 // https://astro.build/config
 export default defineConfig({
+  prefetch: true,
   integrations: [tailwind(), mdx()],
   markdown: {
     remarkPlugins: [
