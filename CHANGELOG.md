@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.8](https://github.com/argepasing/grabenfleck-web/compare/v0.1.7...v0.1.8) (2024-01-06)
+
+
+### Bug Fixes
+
+* update deps ([f044ca1](https://github.com/argepasing/grabenfleck-web/commit/f044ca10995a6f3962eb1e66a1e6caf81a8be5ec))
+* update privacy policy ([ad511da](https://github.com/argepasing/grabenfleck-web/commit/ad511da2aa11996ddabd18fce57d4779962c1fd7))
+
 ## [0.1.7](https://github.com/argepasing/grabenfleck-web/compare/v0.1.6...v0.1.7) (2024-01-03)
 
 
