@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.1.9](https://github.com/argepasing/grabenfleck-web/compare/v0.1.8...v0.1.9) (2024-01-11)
+
+
+### Bug Fixes
+
+* add build_date to footer ([6679e99](https://github.com/argepasing/grabenfleck-web/commit/6679e993235f17fa679e3f24fdf08dd33101107a))
+* update astro to v4.1.2 ([23ba625](https://github.com/argepasing/grabenfleck-web/commit/23ba625423313f1ae1aa5d501f5b1df34e339992))
+* update astrojs/mdx ([0710ddd](https://github.com/argepasing/grabenfleck-web/commit/0710ddd6446a4c327b14ff7ec3b988f1682a8175))
+
 ## [0.1.8](https://github.com/argepasing/grabenfleck-web/compare/v0.1.7...v0.1.8) (2024-01-06)
 
 
