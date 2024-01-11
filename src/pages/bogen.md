@@ -2,6 +2,7 @@
 layout: "@/layouts/Page.astro"
 title: Disziplinen » Bogen
 ---
+
 # Bogenschießen
 
 > Alle ins Gold... ist das Ziel aller Bogenschützen.
@@ -32,13 +33,13 @@ Für das wöchentliche Training haben wir im Sommer unseren eigenen Bogenplatz u
 | Donnerstag | 17:00 bis 20:00 Uhr | 16:00 bis 20:00 Uhr |
 | Samstag    | 10:30 bis 13:00 Uhr |                     |
 
-Unsere Trainer\*innen stehen euch für alle Fragen rund um den Bogensport zur Verfügung. Egal ob Breitensportler\*in oder leistungsorientierte Teilnehmer*innen. Alle sind herzlich willkommen.
+Unsere Trainer\*innen stehen euch für alle Fragen rund um den Bogensport zur Verfügung. Egal ob Breitensportler\*in oder leistungsorientierte Teilnehmer\*innen. Alle sind herzlich willkommen.
 
 ### Impressionen von unserem Bogenplatz
 
 ::list-style{.image-gal}
 
-* ![](/images/uploads/dscn0327.jpg)
-* ![](/images/uploads/dscn0321.jpg)
-* ![](/images/uploads/dscn0324.jpg)
-* ![](/images/uploads/dscn0322.jpg)
+- ![](/images/uploads/dscn0327.jpg)
+- ![](/images/uploads/dscn0321.jpg)
+- ![](/images/uploads/dscn0324.jpg)
+- ![](/images/uploads/dscn0322.jpg)
