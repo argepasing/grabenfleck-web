@@ -8,4 +8,4 @@ title: Termine
 
 
 
-<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NWVtaWxiNGdnbzhxOWpyODM4ZTdmdm1vaGcgdm9yc3RhbmRAZ3JhYmVuZmxlY2suZGU&amp;tmsrc=vorstand%40grabenfleck.de"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_de.gif"></a>
+[<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NWVtaWxiNGdnbzhxOWpyODM4ZTdmdm1vaGcgdm9yc3RhbmRAZ3JhYmVuZmxlY2suZGU&amp;tmsrc=vorstand%40grabenfleck.de"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_de.gif"></a>](<<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NWVtaWxiNGdnbzhxOWpyODM4ZTdmdm1vaGcgdm9yc3RhbmRAZ3JhYmVuZmxlY2suZGU&amp;tmsrc=vorstand%40grabenfleck.de"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_de.gif"></a>>)
