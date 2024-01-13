@@ -42,6 +42,7 @@ const currentPath = Astro.url.pathname;
     </div>
     <div id="navbar-collapse-with-animation" class="hs-collapse hidden grow basis-full overflow-hidden transition-all duration-300 md:block">
       <div class="mt-5 flex flex-col gap-x-0 gap-y-4 sm:mt-0 sm:flex-row sm:items-center sm:justify-end sm:gap-x-3 sm:gap-y-0 md:gap-x-4 lg:gap-x-5">
+        <a href="/aktuelles/" class={currentPath === "/aktuelles/" ? "navbar-item active" : "navbar-item"}>Aktuelles</a>
         <a href="/ueber-uns/" class={currentPath === "/ueber-uns/" ? "navbar-item active" : "navbar-item"}>Über uns</a>
         <a href="/tradition/" class={currentPath === "/tradition/" ? "navbar-item active" : "navbar-item"}>Tradition</a>
 
@@ -93,7 +94,6 @@ const currentPath = Astro.url.pathname;
         <a href="/vorstand/" class={currentPath === "/vorstand/" ? "navbar-item active" : "navbar-item"}>Vorstand</a>
         <a href="/mitgliedschaft/" class={currentPath === "/mitgliedschaft/" ? "navbar-item active" : "navbar-item"}>Mitgliedschaft</a>
         <a href="/kontakt/" class={currentPath === "/kontakt/" ? "navbar-item active" : "navbar-item"}>Kontakt</a>
-        <a href="/termine/" class={currentPath === "/termine/" ? "navbar-item active" : "navbar-item"}>Termine</a>
       </div>
     </div>
   </nav>
