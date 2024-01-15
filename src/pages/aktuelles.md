@@ -6,7 +6,7 @@ title: Aktuelles
 
 ## Was gibts Neues?
 
-### Ergebnisse aus der Bezirgsliga
+### Ergebnisse aus der Bezirgsliga-Bogen
 
 Im Einzelwettkampf als auch in der Mannschaftswertung waren unsere Senioren gut dabei. 
 
