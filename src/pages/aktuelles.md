@@ -2,7 +2,6 @@
 layout: "@/layouts/Page.astro"
 title: Aktuelles
 ---
-
 # Aktuelles im Verein
 
 ## Was gibts Neues?
@@ -11,11 +10,18 @@ title: Aktuelles
 
 Im Einzelwettkampf als auch in der Mannschaftswertung waren unsere Senioren gut dabei. 
 
+Wir gratulieren Erna zu Platz 3 in der Einzelwertung und der Senioren-Mannschaft Erna+Bernhard und Peter ebenfalls zu Platz 3.
+
+![](/images/uploads/img-20231212-wa0041.jpg)
+
 ### Meilensteine im Hallenbau
 
-Zu Berichten gibt es folgendes, ...
+* Bauvoranfrage wurde positiv beschieden
+* Förderantrag beim Feistaat Bayern wurde mit Bescheid vom 11.12.23 bewilligt
+* Unsere Hausbank hat uns eine Finanzierungszusage erteilt
+*
 
----
+- - -
 
 ## Vereins-Termine im Kalender
 
