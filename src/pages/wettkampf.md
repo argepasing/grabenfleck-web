@@ -36,6 +36,4 @@ title: Wettkampf
 
 ## Bogenmannschaft
 
-
-
-![]()
+* in kürze
