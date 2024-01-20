@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.1.10](https://github.com/argepasing/grabenfleck-web/compare/v0.1.9...v0.1.10) (2024-01-20)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump prettier from 3.1.1 to 3.2.2 ([#55](https://github.com/argepasing/grabenfleck-web/issues/55)) ([265bdda](https://github.com/argepasing/grabenfleck-web/commit/265bddaf30df13fcae8ea44d4cfd67dda7c7c761))
+* **deps-dev:** bump prettier from 3.2.2 to 3.2.4 ([#59](https://github.com/argepasing/grabenfleck-web/issues/59)) ([3a1504b](https://github.com/argepasing/grabenfleck-web/commit/3a1504b9a8606d4dd03eba953b2c46de7a9c38af))
+* **deps-dev:** bump prettier-plugin-astro from 0.12.3 to 0.13.0 ([#57](https://github.com/argepasing/grabenfleck-web/issues/57)) ([4b9c58e](https://github.com/argepasing/grabenfleck-web/commit/4b9c58e8e91b697b60578f237edc1145fba5024d))
+* **deps:** bump @astrojs/mdx from 2.0.4 to 2.0.5 ([#58](https://github.com/argepasing/grabenfleck-web/issues/58)) ([b6f9598](https://github.com/argepasing/grabenfleck-web/commit/b6f959839b4b567c28fa3918883d221d867f30e3))
+* **deps:** bump astro from 4.1.2 to 4.2.1 ([#60](https://github.com/argepasing/grabenfleck-web/issues/60)) ([d608508](https://github.com/argepasing/grabenfleck-web/commit/d6085085d7cb8e71f4c1636c5d5ba42e678a8f57))
+
 ## [0.1.9](https://github.com/argepasing/grabenfleck-web/compare/v0.1.8...v0.1.9) (2024-01-11)
 
 
