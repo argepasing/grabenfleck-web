@@ -66,14 +66,14 @@
       "image": "/images/uploads/vorstand-michl-konrath.png"
     },
     {
-      "name": "Doris Faden",
-      "role": "Mitgliederreferentin",
-      "image": "/images/uploads/vorstand-doris-faden.png"
-    },
-    {
       "name": "Michael Klemke",
       "role": "Böllerreferent",
       "image": "/images/uploads/vorstand-michael-klemke.png"
+    },
+    {
+      "name": "Doris Faden",
+      "role": "Mitgliederreferentin",
+      "image": "/images/uploads/vorstand-doris-faden.png"
     }
   ]
 }
