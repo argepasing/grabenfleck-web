@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.11](https://github.com/argepasing/grabenfleck-web/compare/v0.1.10...v0.1.11) (2024-01-21)
+
+
+### Bug Fixes
+
+* use yml for vorstnad list ([09d3bdf](https://github.com/argepasing/grabenfleck-web/commit/09d3bdfb3d83886ef4db419856cc82dacaf2ed72))
+
 ## [0.1.10](https://github.com/argepasing/grabenfleck-web/compare/v0.1.9...v0.1.10) (2024-01-20)
 
 
