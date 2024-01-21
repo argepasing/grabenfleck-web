@@ -31,7 +31,7 @@ collections:
     files:
       - name: vorstandlist
         label: Vorstands-Liste
-        file: "src/content/vorstand/list.json"
+        file: "src/content/vorstand/list.yml"
         description: "Liste der Vorstände"
         fields:
           - name: vorstand

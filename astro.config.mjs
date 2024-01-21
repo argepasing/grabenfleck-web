@@ -4,6 +4,7 @@ import tailwind from "@astrojs/tailwind";
 import mdx from "@astrojs/mdx";
 import remarkDirective from "remark-directive";
 import m2dx from "astro-m2dx";
+import yaml from "@rollup/plugin-yaml";
 
 /** @type {import('astro-m2dx').Options} */
 const m2dxOptions = {
@@ -25,5 +26,6 @@ export default defineConfig({
     define: {
       "import.meta.env.PACKAGE_VERSION": JSON.stringify(`v${process.env.npm_package_version}`),
     },
+    plugins: [yaml()],
   },
 });
