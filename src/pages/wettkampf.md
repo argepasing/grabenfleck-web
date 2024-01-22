@@ -32,8 +32,20 @@ title: Wettkampf
 * Verena Glasl
 * Georg Sebastian Felbermayr
 
-
-
 ## Bogenmannschaft
 
-* in kürze
+## Oberliga
+
+* Jürgen Bohl
+* Sushil Wenzel
+* Sven Breider
+* Simon Gratz
+* (Peter Althammer)
+
+## Bezirksliga
+
+* Claudia Sappel
+* Leopold Wolfgang Patzina
+* Alexander Witzel 
+* Maik Dreßel
+* (Peter Althammer)
