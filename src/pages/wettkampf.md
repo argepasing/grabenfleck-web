@@ -36,6 +36,8 @@ title: Wettkampf
 
 ## Oberliga
 
+![](/images/uploads/oberligamannschaft-2023.jpg)
+
 * Jürgen Bohl
 * Sushil Wenzel
 * Sven Breider
@@ -43,6 +45,8 @@ title: Wettkampf
 * (Peter Althammer)
 
 ## Bezirksliga
+
+![](/images/uploads/bezirgsligamannschaft-2023.jpg)
 
 * Claudia Sappel
 * Leopold Wolfgang Patzina
