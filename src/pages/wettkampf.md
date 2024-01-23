@@ -34,7 +34,7 @@ title: Wettkampf
 
 ## Bogenmannschaft
 
-## Oberliga
+### Oberliga
 
 ![](/images/uploads/oberligamannschaft-2023.jpg)
 
@@ -44,7 +44,7 @@ title: Wettkampf
 * Simon Gratz
 * (Peter Althammer)
 
-## Bezirksliga
+### Bezirksliga
 
 ![](/images/uploads/bezirgsligamannschaft-2023.jpg)
 
