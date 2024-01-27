@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.12](https://github.com/argepasing/grabenfleck-web/compare/v0.1.11...v0.1.12) (2024-01-27)
+
+
+### Bug Fixes
+
+* optimize images ([88680d3](https://github.com/argepasing/grabenfleck-web/commit/88680d3634bd18efcdd053dcf44a1e10d1687f36))
+* update astro ([b270a75](https://github.com/argepasing/grabenfleck-web/commit/b270a75c40f310424fac4556ba544db33fbaa1c1))
+
 ## [0.1.11](https://github.com/argepasing/grabenfleck-web/compare/v0.1.10...v0.1.11) (2024-01-21)
 
 
