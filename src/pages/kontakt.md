@@ -2,14 +2,13 @@
 layout: "@/layouts/Page.astro"
 title: Kontakt
 ---
-
 # Kurz und knapp
 
 ## Probetraining
 
 Lust auf ein Probetraining? Dann melde dich unter [info@grabenfleck.de](mailto:info@grabenfleck.de) oder telefonisch unter 089/88 69 21 bei unserem Vorstand Georg Felbermayr.
 
----
+- - -
 
 ## Luftgewehr- und Luftpistolentraining
 
@@ -38,7 +37,7 @@ Aubinger Straße 12\
 
 ::list-style{.image-gal}
 
-- ![](/images/uploads/anfahrt-kugelschuetzen.jpg)
+* ![](/images/uploads/anfahrt-kugelschuetzen.jpg)
 
 ## Bogentraining
 
@@ -64,9 +63,9 @@ Silberdistelstraße\
 
 ::list-style{.image-gal}
 
-- ![Plan zum Bogenplatz](/images/uploads/anfahrt-bogen-sommer.jpg)
+* ![Plan zum Bogenplatz](/images/uploads/anfahrt_platz.jpg)
 
----
+- - -
 
 ### Zeitraum • Oktober - März
 
@@ -91,4 +90,4 @@ Luisenstr. 9/11\
 
 ::list-style{.image-gal}
 
-- ![Wegbeschreibung zur Turnhalle](/images/uploads/anfahrt-bogen-winter.jpg):style{}
+* ![Wegbeschreibung zur Turnhalle](/images/uploads/anfahrt-bogen-winter.jpg):style{}
