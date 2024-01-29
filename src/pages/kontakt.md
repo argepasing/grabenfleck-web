@@ -90,6 +90,4 @@ Luisenstr. 9/11\
 
 ::list-style{.image-gal}
 
-![](/images/uploads/anfahrt_halle.jpg)
-
-* :style{}
+* ![Plan zur Turnhalle](/images/uploads/anfahrt_halle.jpg)
