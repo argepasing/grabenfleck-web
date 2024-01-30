@@ -2,12 +2,13 @@
 layout: "@/layouts/Page.astro"
 title: Aktuelles
 ---
-
 # Aktuelles im Verein
 
 ## Was gibts Neues?
 
-### Ergebnisse aus der Bezirgsliga-Bogen
+### Ergebnisse aus der Bezirksmeisterschaft 2024 - Bogen
+
+10.12.2023 - Erfolge bei der BZM Halle 2024:
 
 Im Einzelwettkampf als auch in der Mannschaftswertung waren unsere Senioren gut dabei.
 
@@ -17,11 +18,11 @@ Wir gratulieren Erna zu Platz 3 in der Einzelwertung und der Senioren-Mannschaft
 
 ### Meilensteine im Hallenbau
 
-- Bauvoranfrage wurde positiv beschieden
-- Förderantrag beim Feistaat Bayern wurde mit Bescheid vom 11.12.23 bewilligt
-- Unsere Hausbank hat uns eine Finanzierungszusage erteilt
+* Bauvoranfrage wurde positiv beschieden
+* Förderantrag beim Feistaat Bayern wurde mit Bescheid vom 11.12.23 bewilligt
+* Unsere Hausbank hat uns eine Finanzierungszusage erteilt
 
----
+- - -
 
 ## Vereins-Termine im Kalender
 
