@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: main
 
-site_url: https://neu.grabenfleck.de
+site_url: https://www.grabenfleck.de
 locale: de
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
