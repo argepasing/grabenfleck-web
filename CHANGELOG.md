@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.13](https://github.com/argepasing/grabenfleck-web/compare/v0.1.12...v0.1.13) (2024-02-03)
+
+
+### Bug Fixes
+
+* change config ([a56869b](https://github.com/argepasing/grabenfleck-web/commit/a56869b00ac86405c566e3de479b1d5a25edd847))
+
 ## [0.1.12](https://github.com/argepasing/grabenfleck-web/compare/v0.1.11...v0.1.12) (2024-01-27)
 
 
