@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.1.14](https://github.com/argepasing/grabenfleck-web/compare/v0.1.13...v0.1.14) (2024-02-05)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump prettier from 3.2.4 to 3.2.5 ([#66](https://github.com/argepasing/grabenfleck-web/issues/66)) ([aafc604](https://github.com/argepasing/grabenfleck-web/commit/aafc60455856e6326db1f9c9bf524315f82ded8c))
+* **deps:** bump @astrojs/mdx from 2.1.0 to 2.1.1 ([#64](https://github.com/argepasing/grabenfleck-web/issues/64)) ([1222ce1](https://github.com/argepasing/grabenfleck-web/commit/1222ce153e8303681465c889bc16de70055a454f))
+* **deps:** bump astro from 4.2.6 to 4.3.2 ([#65](https://github.com/argepasing/grabenfleck-web/issues/65)) ([cfa3d2f](https://github.com/argepasing/grabenfleck-web/commit/cfa3d2faf4c7fb36d655570e983c25ae017c1333))
+
 ## [0.1.13](https://github.com/argepasing/grabenfleck-web/compare/v0.1.12...v0.1.13) (2024-02-03)
 
 
