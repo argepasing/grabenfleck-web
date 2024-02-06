@@ -37,7 +37,7 @@ Aubinger Straße 12\
 
 ::list-style{.image-gal}
 
-* ![](/images/uploads/anfahrt-kugelschuetzen.jpg)
+* ![](/images/uploads/anfahrt_vheim.jpg)
 
 ## Bogentraining
 
