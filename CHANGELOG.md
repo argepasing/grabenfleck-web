@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.15](https://github.com/argepasing/grabenfleck-web/compare/v0.1.14...v0.1.15) (2024-02-12)
+
+
+### Bug Fixes
+
+* Bump astro from 4.3.2 to 4.3.5 ([#68](https://github.com/argepasing/grabenfleck-web/issues/68)) ([08b1bb2](https://github.com/argepasing/grabenfleck-web/commit/08b1bb27f71c823915f8c87a9ce136167b61d5a6))
+
 ## [0.1.14](https://github.com/argepasing/grabenfleck-web/compare/v0.1.13...v0.1.14) (2024-02-05)
 
 
