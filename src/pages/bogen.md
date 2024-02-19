@@ -12,11 +12,11 @@ title: Disziplinen » Bogen
 
 Bogenschießen ist ein Sport für alle, der viel Freude bereitet.
 
-Bei uns könnt alle Bogenarten geschossen werden: vom Blankbogen über Recurvebogen bis zu Compoundbogen, im Winter in der Halle als auch im Sommer auf unserem eigenen Bogenplatz.
+Bei uns könnt alle Bogenarten geschossen werden: vom Blank-Bogen über Recurve-Bogen bis zu Compound-Bogen, im Winter in der Halle als auch im Sommer auf unserem eigenen Bogenplatz.
 
 Über die Jahre hinweg hat sich Bogenschießen als ein sportliches Betätigungsfeld etabliert, das nicht nur die physische Gesundheit fördert- insbesondere durch Stärkung der Rückenmuskulatur und der Verbesserung der Körperhaltung-, sondern auch geistige Konzentration und Disziplin verlangt. Dieser vielseitige Sport kann sowohl in geschlossenen Räumen als auch im Freien ausgeübt werden, was ihn zu einer ganzjährigen Aktivität macht. 
 
-Ob Breitensportler oder leistungsorientiete Teilnehmer an Tunieren und Meisterschaften - für alle ist Platz in unserem Verein.
+Ob Breitensportler oder leistungsorientierte Teilnehmer an Turnieren und Meisterschaften - für alle ist Platz in unserem Verein.
 
 #### Interesse geweckt?
 
