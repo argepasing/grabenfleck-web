@@ -12,6 +12,8 @@ title: Aktuelles
 
 Einen ausführlichen Bericht und ein paar Fotos könnt ihr auf unserer Facebook Seite sehen.
 
+https://www.facebook.com/profile.php/?id=61550909529877&name=STSDirectNavUserDecorator
+
 ### Ergebnisse aus der Bezirksmeisterschaft 2024 - Bogen
 
 10.12.2023 - Erfolge bei der BZM Halle 2024:
