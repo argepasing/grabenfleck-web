@@ -2,7 +2,6 @@
 layout: "@/layouts/Page.astro"
 title: Disziplinen » Bogen
 ---
-
 # Bogenschießen
 
 > Alle ins Gold... ist das Ziel aller Bogenschützen.
@@ -11,17 +10,17 @@ title: Disziplinen » Bogen
 
 ### Das Bogenschießen
 
-Bogenschießen ist ein Sport für alle und der viel Freude bereitet.
+Bogenschießen ist ein Sport für alle, der viel Freude bereitet.
 
-Bei uns könnt ihr alle Bogenarten vom Blank über Recurve bis zu Compound-Bogen ausüben. Im Winter in der Halle und im Sommer auf unserem eigenen Bogenplatz.
+Bei uns könnt alle Bogenarten geschossen werden: vom Blankbogen über Recurvebogen bis zu Compoundbogen, im Winter in der Halle als auch im Sommer auf unserem eigenen Bogenplatz.
 
-Das Bogenschießen hat eine lange Tradition und geht zurück bis ins alte Ägypten. Bereits von 1900 bis 1920 war das Bogenschießen eine Disziplin der Olympischen Spiele. Das Bogenschießen gilt im allegemeinen als ein gesunder Sport, denn durch diesen Sport wird unter anderem die Rückenmuskulatur gestärkt und verbessert die Körperhaltung. Ein weiterer Vorteil dieses Sports ist, dass er sowohl im Innenraum (Halle) als auch im Freien durchgeführt werden kann.
+Über die Jahre hinweg hat sich Bogenschießen als ein sportliches Betätigungsfeld etabliert, das nicht nur die physische Gesundheit fördert- insbesondere durch Stärkung der Rückenmuskulatur und der Verbesserung der Körperhaltung-, sondern auch geistige Konzentration und Disziplin verlangt. Dieser vielseitige Sport kann sowohl in geschlossenen Räumen als auch im Freien ausgeübt werden, was ihn zu einer ganzjährigen Aktivität macht. 
 
 Ob Breitensportler oder leistungsorientiete Teilnehmer an Tunieren und Meisterschaften - für alle ist Platz in unserem Verein.
 
 #### Interesse geweckt?
 
-Wenn wir dein Interesse geweckt haben und du mehr über das Bogenschießen erfahren möchtest, dann melde dich bei uns und vereinbare einen Termin für ein Probetraining.
+Wenn wir dein Interesse geweckt haben und du mehr über das Bogenschießen erfahren möchtest, dann melde dich bei uns und vereinbare einen Termin für einen Termin für die Teilnahme an einem Schnupperkurs oder ein Probetraining.
 
 Für das wöchentliche Training haben wir im Sommer unseren eigenen Bogenplatz und im Winter sind wir in der Turnhalle des Luisengymnasiums. Unsere erfahrenen Trainer schulen Anfänger wie Fortgeschrittene und beraten in allen Fragen.
 
@@ -33,13 +32,13 @@ Für das wöchentliche Training haben wir im Sommer unseren eigenen Bogenplatz u
 | Donnerstag | 17:00 bis 20:00 Uhr | 16:00 bis 20:00 Uhr |
 | Samstag    | 10:30 bis 13:00 Uhr |                     |
 
-Unsere Trainer\*innen stehen euch für alle Fragen rund um den Bogensport zur Verfügung. Egal ob Breitensportler\*in oder leistungsorientierte Teilnehmer\*innen. Alle sind herzlich willkommen.
+Unsere Trainer/-innen stehen euch für alle Fragen rund um den Bogensport zur Verfügung. Egal ob Breitensportler/-in oder leistungsorientierte Teilnehmer/-inne: Alle sind herzlich willkommen.
 
 ### Impressionen von unserem Bogenplatz
 
 ::list-style{.image-gal}
 
-- ![](/images/uploads/dscn0327.jpg)
-- ![](/images/uploads/dscn0321.jpg)
-- ![](/images/uploads/dscn0324.jpg)
-- ![](/images/uploads/dscn0322.jpg)
+* ![](/images/uploads/dscn0327.jpg)
+* ![](/images/uploads/dscn0321.jpg)
+* ![](/images/uploads/dscn0324.jpg)
+* ![](/images/uploads/dscn0322.jpg)
