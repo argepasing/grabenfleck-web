@@ -20,7 +20,7 @@ Ob Breitensportler oder leistungsorientierte Teilnehmer an Turnieren und Meister
 
 #### Interesse geweckt?
 
-Wenn wir dein Interesse geweckt haben und du mehr über das Bogenschießen erfahren möchtest, dann melde dich bei uns und vereinbare einen Termin für einen Termin für die Teilnahme an einem Schnupperkurs oder ein Probetraining.
+Wenn wir dein Interesse geweckt haben und du mehr über das Bogenschießen erfahren möchtest, dann melde dich bei uns und vereinbare einen Termin für die Teilnahme an einem Schnupperkurs oder ein Probetraining.
 
 Für das wöchentliche Training haben wir im Sommer unseren eigenen Bogenplatz und im Winter sind wir in der Turnhalle des Luisengymnasiums. Unsere erfahrenen Trainer schulen Anfänger wie Fortgeschrittene und beraten in allen Fragen.
 
