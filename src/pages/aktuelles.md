@@ -10,9 +10,7 @@ title: Aktuelles
 
 17.02.2024 - Unser Oberliga-Team konnte am Samstag in Langenpreising am 4. und letzten Wettkampftag noch einmal kräftig punkten, mit beeindruckenden Ringzahlen glänzen und die Saison als 5. mit 25:31 Punkten beenden.
 
-Einen ausführlichen Bericht und ein paar Fotos könnt ihr auf unserer Facebook Seite sehen.
-
-https://www.facebook.com/profile.php/?id=61550909529877&name=STSDirectNavUserDecorator
+Einen ausführlichen Bericht und ein paar Fotos könnt ihr auf [unserer Facebook Seite](https://www.facebook.com/people/SG-Grabenfleck-Bogen/61550909529877/) sehen.
 
 ### Ergebnisse aus der Bezirksmeisterschaft 2024 - Bogen
 
