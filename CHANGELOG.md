@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.1.17](https://github.com/argepasing/grabenfleck-web/compare/v0.1.16...v0.1.17) (2024-03-16)
+
+
+### Bug Fixes
+
+* Bump astro from 4.4.12 to 4.5.5 ([#79](https://github.com/argepasing/grabenfleck-web/issues/79)) ([84b0012](https://github.com/argepasing/grabenfleck-web/commit/84b001291f33214b25a3a0bdee4a138ce77974fa))
+* Bump prettier-plugin-tailwindcss from 0.5.11 to 0.5.12 ([#76](https://github.com/argepasing/grabenfleck-web/issues/76)) ([e2037b6](https://github.com/argepasing/grabenfleck-web/commit/e2037b695b6b5f9fea8c5b668637768ea7c77a47))
+* optimize iframe for mobile views ([a721650](https://github.com/argepasing/grabenfleck-web/commit/a72165057147e53d1de3269dae56d1b36a82b43e))
+* remove wettkampf from footer ([591a45e](https://github.com/argepasing/grabenfleck-web/commit/591a45e7d6ed126a5c80dae172ab2b46fe7290e6))
+* update astrojs/mdx ([cdf866c](https://github.com/argepasing/grabenfleck-web/commit/cdf866c7d57d302fb44453837ca378810b01d317))
+
 ## [0.1.16](https://github.com/argepasing/grabenfleck-web/compare/v0.1.15...v0.1.16) (2024-03-06)
 
 
