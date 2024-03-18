@@ -2,10 +2,17 @@
 layout: "@/layouts/Page.astro"
 title: Aktuelles
 ---
-
 # Aktuelles im Verein
 
 ## Was gibt es Neues?
+
+### Bezirksjugendtag und Verleihung des Gabi Neff Förderpreises
+
+16.03.2024 - Auch in diesem Jahr war unsere Jugend wieder unter den Preisträgern beim Gabi Neff Förderpreises. Hier haben sämtliche Schützenvereine, welche dem Bezirk München angehören Möglichkeit teilzunehmen. Gefördert sollen damit die Aktivitäten, insbesondere die Überfachlichen, der Vereinsjugend. In diesem Jahr, hat unsere Jugendabteilung den 2. Platz belegt und damit 500€ für die Jugendkasse gewonnen.
+
+![](/images/uploads/img_9505.jpeg)
+
+
 
 ### Oberliga 2024 - Bogen
 
@@ -25,11 +32,11 @@ Wir gratulieren Erna zu Platz 3 in der Einzelwertung und der Senioren-Mannschaft
 
 ### Meilensteine im Hallenbau
 
-- Bauvoranfrage wurde positiv beschieden
-- Förderantrag beim Feistaat Bayern wurde mit Bescheid vom 11.12.23 bewilligt
-- Unsere Hausbank hat uns eine Finanzierungszusage erteilt
+* Bauvoranfrage wurde positiv beschieden
+* Förderantrag beim Feistaat Bayern wurde mit Bescheid vom 11.12.23 bewilligt
+* Unsere Hausbank hat uns eine Finanzierungszusage erteilt
 
----
+- - -
 
 ## Vereins-Termine im Kalender
 
