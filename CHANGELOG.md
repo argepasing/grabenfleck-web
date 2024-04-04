@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.18](https://github.com/argepasing/grabenfleck-web/compare/v0.1.17...v0.1.18) (2024-04-04)
+
+
+### Bug Fixes
+
+* Bump @astrojs/mdx from 2.2.0 to 2.2.4 ([#90](https://github.com/argepasing/grabenfleck-web/issues/90)) ([ee2bcb8](https://github.com/argepasing/grabenfleck-web/commit/ee2bcb8a9e18869af31953d5f66c78dceacd3fb6))
+* Bump @tailwindcss/typography from 0.5.10 to 0.5.12 ([#82](https://github.com/argepasing/grabenfleck-web/issues/82)) ([931b059](https://github.com/argepasing/grabenfleck-web/commit/931b059b71bee0afc74b4463f09981d5baa68028))
+* Bump astro from 4.5.5 to 4.5.16 ([#89](https://github.com/argepasing/grabenfleck-web/issues/89)) ([072e25c](https://github.com/argepasing/grabenfleck-web/commit/072e25c43dabf112ed1f700b7235e2d02d0279f5))
+* Bump prettier-plugin-tailwindcss from 0.5.12 to 0.5.13 ([#84](https://github.com/argepasing/grabenfleck-web/issues/84)) ([233bf95](https://github.com/argepasing/grabenfleck-web/commit/233bf95c5545f22f9f72f0fe48681d1f01b7fa7e))
+* Bump tailwindcss from 3.4.1 to 3.4.3 ([#86](https://github.com/argepasing/grabenfleck-web/issues/86)) ([3cfd978](https://github.com/argepasing/grabenfleck-web/commit/3cfd9788caff2867d218f7e998587be3ddc1f7c6))
+* Bump vite from 5.1.5 to 5.2.8 ([#87](https://github.com/argepasing/grabenfleck-web/issues/87)) ([db1e832](https://github.com/argepasing/grabenfleck-web/commit/db1e832cc743482ec7132d1830e6de6a5ba06ccd))
+
 ## [0.1.17](https://github.com/argepasing/grabenfleck-web/compare/v0.1.16...v0.1.17) (2024-03-16)
 
 
