@@ -2,7 +2,6 @@
 layout: "@/layouts/Page.astro"
 title: Startseite
 ---
-
 # Herzlich Willkommen...
 
 ![SG Grabenfleck e.V.](/images/uploads/index-grabenfleck.jpg "SG Grabenfleck e.V.")
@@ -25,4 +24,4 @@ Von [Luftgewehr](/luftgewehr/) und [Luftpistole](/luftpistole/) über [Bogen](/b
 
 Wenn wir Dein Interesse am Schießsport geweckt haben und Du uns näher kennen lernen möchtest, dann würden wir uns freuen, Dich an einem unserer [Trainingstage](/kontakt/) begrüßen zu dürfen.
 
-Die SG Grabenfleck e.V. wird gefördert von der Landeshauptstadt München. <br />[Referat für Bildung und Sport](https://stadt.muenchen.de/infos/portrait-referat-bildung-sport.html).
+Die SG Grabenfleck e.V. wird gefördert von der Landeshauptstadt München. <br />[Referat für Bildung und Sport](https://stadt.muenchen.de/infos/portrait-referat-bildung-sport.html) sowie vom Bezirksausschuss 21 Pasing-Obermenzing.
