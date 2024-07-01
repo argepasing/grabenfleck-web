@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.22](https://github.com/argepasing/grabenfleck-web/compare/v0.1.21...v0.1.22) (2024-07-01)
+
+
+### Bug Fixes
+
+* bump @astrojs/mdx from 3.1.1 to 3.1.2 ([#126](https://github.com/argepasing/grabenfleck-web/issues/126)) ([ab8710b](https://github.com/argepasing/grabenfleck-web/commit/ab8710bc33ec01c8f4fa3b73ffcc11d87a6c70ab))
+* bump astro from 4.11.0 to 4.11.3 ([#125](https://github.com/argepasing/grabenfleck-web/issues/125)) ([55bba9e](https://github.com/argepasing/grabenfleck-web/commit/55bba9e3a74b3b41b97841e7a79fb1e657b9b142))
+
 ## [0.1.21](https://github.com/argepasing/grabenfleck-web/compare/v0.1.20...v0.1.21) (2024-06-24)
 
 
