@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.24](https://github.com/argepasing/grabenfleck-web/compare/v0.1.23...v0.1.24) (2024-07-29)
+
+
+### Bug Fixes
+
+* bump tailwindcss from 3.4.6 to 3.4.7 ([#135](https://github.com/argepasing/grabenfleck-web/issues/135)) ([f715796](https://github.com/argepasing/grabenfleck-web/commit/f71579656d3d723101d077749a65f93687ec5a45))
+
 ## [0.1.23](https://github.com/argepasing/grabenfleck-web/compare/v0.1.22...v0.1.23) (2024-07-22)
 
 
