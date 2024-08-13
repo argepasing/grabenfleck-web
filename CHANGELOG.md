@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.1.25](https://github.com/argepasing/grabenfleck-web/compare/v0.1.24...v0.1.25) (2024-08-13)
+
+
+### Bug Fixes
+
+* bump @tailwindcss/typography from 0.5.13 to 0.5.14 ([#140](https://github.com/argepasing/grabenfleck-web/issues/140)) ([d59dc4e](https://github.com/argepasing/grabenfleck-web/commit/d59dc4edb1d024d49783af4e9f2dc631c83fedc7))
+* bump astro from 4.12.2 to 4.13.1 ([#137](https://github.com/argepasing/grabenfleck-web/issues/137)) ([99977c0](https://github.com/argepasing/grabenfleck-web/commit/99977c0938bb28360128694688f8bf58e690d169))
+* bump astro from 4.13.1 to 4.13.3 ([#142](https://github.com/argepasing/grabenfleck-web/issues/142)) ([31cc1b8](https://github.com/argepasing/grabenfleck-web/commit/31cc1b829872b892ef38c67e01fc3c602e802868))
+* bump prettier-plugin-tailwindcss from 0.6.5 to 0.6.6 ([#141](https://github.com/argepasing/grabenfleck-web/issues/141)) ([0a1d53a](https://github.com/argepasing/grabenfleck-web/commit/0a1d53a458a1069955f6072a8719085ff3b3bd96))
+* bump tailwindcss from 3.4.7 to 3.4.9 ([#139](https://github.com/argepasing/grabenfleck-web/issues/139)) ([0500264](https://github.com/argepasing/grabenfleck-web/commit/0500264d64067890cb931b4d19d46692bdcc2d76))
+
 ## [0.1.24](https://github.com/argepasing/grabenfleck-web/compare/v0.1.23...v0.1.24) (2024-07-29)
 
 
