@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.26](https://github.com/argepasing/grabenfleck-web/compare/v0.1.25...v0.1.26) (2024-08-19)
+
+
+### Bug Fixes
+
+* bump astro from 4.13.3 to 4.14.2 ([#143](https://github.com/argepasing/grabenfleck-web/issues/143)) ([0e8b8e8](https://github.com/argepasing/grabenfleck-web/commit/0e8b8e85bc278aa54b429b0d0c785399d220828b))
+* bump tailwindcss from 3.4.9 to 3.4.10 ([#144](https://github.com/argepasing/grabenfleck-web/issues/144)) ([4ae5909](https://github.com/argepasing/grabenfleck-web/commit/4ae5909e359a44f98d51f60f084c3c77d75403a3))
+
 ## [0.1.25](https://github.com/argepasing/grabenfleck-web/compare/v0.1.24...v0.1.25) (2024-08-13)
 
 
