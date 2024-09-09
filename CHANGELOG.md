@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.27](https://github.com/argepasing/grabenfleck-web/compare/v0.1.26...v0.1.27) (2024-09-09)
+
+
+### Bug Fixes
+
+* bump @astrojs/mdx from 3.1.3 to 3.1.4 ([#147](https://github.com/argepasing/grabenfleck-web/issues/147)) ([8a00fd8](https://github.com/argepasing/grabenfleck-web/commit/8a00fd865c1a3e2768aba406075d50a54bd477ae))
+* bump @astrojs/mdx from 3.1.4 to 3.1.5 ([#150](https://github.com/argepasing/grabenfleck-web/issues/150)) ([09310bd](https://github.com/argepasing/grabenfleck-web/commit/09310bd8d60a17fe1d233d7ea123f140fd0273a4))
+* bump @tailwindcss/typography from 0.5.14 to 0.5.15 ([#152](https://github.com/argepasing/grabenfleck-web/issues/152)) ([1c7d71c](https://github.com/argepasing/grabenfleck-web/commit/1c7d71c271c858a1a717efbc1af1db19bd1f3dc2))
+* bump astro from 4.13.3 to 4.14.5 ([#146](https://github.com/argepasing/grabenfleck-web/issues/146)) ([2e5f76b](https://github.com/argepasing/grabenfleck-web/commit/2e5f76bf90f66223e26b9e630c693f33bc2c01b9))
+* bump astro from 4.14.5 to 4.15.1 ([#151](https://github.com/argepasing/grabenfleck-web/issues/151)) ([f6dab5f](https://github.com/argepasing/grabenfleck-web/commit/f6dab5fcc838eb7e18dcd43a3aec87fe78e0be16))
+* bump astro from 4.15.1 to 4.15.4 ([#153](https://github.com/argepasing/grabenfleck-web/issues/153)) ([ddb81c2](https://github.com/argepasing/grabenfleck-web/commit/ddb81c256a0208af1b94c259c43aca6a7d34ea2b))
+
 ## [0.1.26](https://github.com/argepasing/grabenfleck-web/compare/v0.1.25...v0.1.26) (2024-08-19)
 
 
