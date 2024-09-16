@@ -6,13 +6,19 @@ title: Aktuelles
 
 ## Was gibt es Neues?
 
+### Geänderte Trainingszeiten in der Wintersaison 2024/2025 bei den Bogenschützen
+
+Dienstag von 16:30 Uhr bis 22:00 Uhr
+
+Donnerstag von 18:00 bis 22:00 Uhr 
+
+Wir freuen uns auf verlängerte Trainingszeiten und hoffen auf rege Teilnahme.
+
 ### Bezirksjugendtag und Verleihung des Gabi Neff Förderpreises
 
 16.03.2024 - Auch in diesem Jahr war unsere Jugend wieder unter den Preisträgern beim Gabi Neff Förderpreises. Hier haben sämtliche Schützenvereine, welche dem Bezirk München angehören Möglichkeit teilzunehmen. Gefördert sollen damit die Aktivitäten, insbesondere die Überfachlichen, der Vereinsjugend. In diesem Jahr, hat unsere Jugendabteilung den 2. Platz belegt und damit 500€ für die Jugendkasse gewonnen.
 
 ![](/images/uploads/img_9505.jpeg)
-
-
 
 ### Oberliga 2024 - Bogen
 
