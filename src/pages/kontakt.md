@@ -73,10 +73,10 @@ nicht in der Ferienzeit - Dienstag, Donnerstag
 
 ### Trainingszeiten
 
-| Trainingszeiten | Uhrzeit              |
-| --------------- | -------------------- |
-| Dienstag        | 16:30 bis 22:00 Uhr  |
-| Donnerstag      | 18:00 bis 222:00 Uhr |
+| Trainingszeiten | Uhrzeit             |
+| --------------- | ------------------- |
+| Dienstag        | 16:30 bis 22:00 Uhr |
+| Donnerstag      | 18:00 bis 22:00 Uhr |
 
 ### Adresse Turnhalle
 
