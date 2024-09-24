@@ -12,7 +12,7 @@ Dienstag von 16:30 Uhr bis 22:00 Uhr
 
 Donnerstag von 18:00 bis 22:00 Uhr 
 
-Wir freuen uns auf verlängerte Trainingszeiten und hoffen auf rege Teilnahme.
+Wir freuen uns auf verlängerte Trainingszeiten und hoffen auf rege Teilnahme. Am 15.10.2024 starten wir!
 
 ### Bezirksjugendtag und Verleihung des Gabi Neff Förderpreises
 
@@ -41,6 +41,8 @@ Wir gratulieren Erna zu Platz 3 in der Einzelwertung und der Senioren-Mannschaft
 * Bauvoranfrage wurde positiv beschieden
 * Förderantrag beim Feistaat Bayern wurde mit Bescheid vom 11.12.23 bewilligt
 * Unsere Hausbank hat uns eine Finanzierungszusage erteilt
+* der Bauantrag wird erstellt
+* Die Firma Haas Fertigbau GmbH unterstützt uns bei der Planung der Halle und wird diese als Fertigteilbau errichten nach Eingang der Baugenehmigung.
 
 - - -
 
