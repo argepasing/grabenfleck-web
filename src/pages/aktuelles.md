@@ -6,6 +6,8 @@ title: Aktuelles
 
 ## Was gibt es Neues?
 
+### *Aktuelle Termine findest du ganz unten auf der Seite.*
+
 ### Geänderte Trainingszeiten in der Wintersaison 2024/2025 bei den Bogenschützen
 
 Dienstag von 16:30 Uhr bis 22:00 Uhr
