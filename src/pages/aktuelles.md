@@ -44,6 +44,8 @@ Wir gratulieren Erna zu Platz 3 in der Einzelwertung und der Senioren-Mannschaft
 * der Bauantrag wird erstellt
 * Die Firma Haas Fertigbau GmbH unterstützt uns bei der Planung der Halle und wird diese als Fertigteilbau errichten nach Eingang der Baugenehmigung.
 
+  ![](/images/uploads/neubau-halle-ansichten.jpg)
+
 - - -
 
 ## Vereins-Termine im Kalender
