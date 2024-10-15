@@ -18,19 +18,16 @@ title: Wettkampf
 
 - - -
 
-## LG 1 - Münchenliga
+## LG 1 - Bezirksoberliga
 
 ![](/images/uploads/wettkampf-lg-1-2023.jpg)
 
 * Franziska Felbermayr
-* Marion Dauerer
 * Christina Dauerer
 * Julia Schäfer
 * Beate Soyer
-* Mattias Pointner
-* Waldtraud Glasl
-* Verena Glasl
-* Georg Sebastian Felbermayr
+
+
 
 ## Bogenmannschaft
 
