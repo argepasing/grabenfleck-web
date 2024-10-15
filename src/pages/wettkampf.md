@@ -4,7 +4,7 @@ title: Wettkampf
 ---
 # Mannschaften
 
-## LP 1 - Münchenliga
+## LP 1 - Bezirksoberliga
 
 ![](/images/uploads/wettkampf-lp1-2023.jpg)
 
