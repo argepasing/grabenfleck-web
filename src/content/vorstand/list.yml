@@ -22,7 +22,7 @@ vorstand:
     image: /images/uploads/vorstand-simon-gratz.png
   - name: Claudia Steinberger
     role: Schriftführerin
-    image: public/images/uploads/claudia-steinberger-png.png
+    image: public/images/uploads/vorstand-fallback.jpg
   - name: Ester Mittermeier
     role: Kassiererin
     image: /images/uploads/vorstand-ester-mittermeier.png
