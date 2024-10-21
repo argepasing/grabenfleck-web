@@ -1,5 +1,29 @@
 # Changelog
 
+## [0.1.28](https://github.com/argepasing/grabenfleck-web/compare/v0.1.27...v0.1.28) (2024-10-21)
+
+
+### Bug Fixes
+
+* bump @astrojs/mdx from 3.1.5 to 3.1.6 ([#157](https://github.com/argepasing/grabenfleck-web/issues/157)) ([5714f5a](https://github.com/argepasing/grabenfleck-web/commit/5714f5a549895bf41a5ce80a06bd5a750e6c1922))
+* bump @astrojs/mdx from 3.1.6 to 3.1.7 ([#163](https://github.com/argepasing/grabenfleck-web/issues/163)) ([4646584](https://github.com/argepasing/grabenfleck-web/commit/4646584de073be8fef1bbffbd0f03e715ea8788c))
+* bump @astrojs/mdx from 3.1.7 to 3.1.8 ([#172](https://github.com/argepasing/grabenfleck-web/issues/172)) ([3245f74](https://github.com/argepasing/grabenfleck-web/commit/3245f74d7def384ced593916d9fd772e1ea92be8))
+* bump @astrojs/tailwind from 5.1.0 to 5.1.1 ([#164](https://github.com/argepasing/grabenfleck-web/issues/164)) ([b79f691](https://github.com/argepasing/grabenfleck-web/commit/b79f691704f33f563cbadaf58b402228ca810dd9))
+* bump @astrojs/tailwind from 5.1.1 to 5.1.2 ([#170](https://github.com/argepasing/grabenfleck-web/issues/170)) ([8e17404](https://github.com/argepasing/grabenfleck-web/commit/8e1740426692ffb46aa99213c237feb8211b9598))
+* bump astro from 4.15.12 to 4.16.2 ([#171](https://github.com/argepasing/grabenfleck-web/issues/171)) ([225e904](https://github.com/argepasing/grabenfleck-web/commit/225e904ee7128571d3f5106e7bf1ec83b044a1e0))
+* bump astro from 4.15.4 to 4.15.6 ([#159](https://github.com/argepasing/grabenfleck-web/issues/159)) ([de8c5b8](https://github.com/argepasing/grabenfleck-web/commit/de8c5b83ca8f58e941771cfa7cdb4632d1772f5f))
+* bump astro from 4.15.9 to 4.15.11 ([#168](https://github.com/argepasing/grabenfleck-web/issues/168)) ([5d5d7f8](https://github.com/argepasing/grabenfleck-web/commit/5d5d7f898c28090dbfc5c0339f6c131e93bccbe3))
+* bump astro from 4.16.2 to 4.16.6 ([#174](https://github.com/argepasing/grabenfleck-web/issues/174)) ([671dc8a](https://github.com/argepasing/grabenfleck-web/commit/671dc8aa3e89b4687761d5115924121f0f9ce874))
+* bump dset from 3.1.3 to 3.1.4 in the npm_and_yarn group ([#154](https://github.com/argepasing/grabenfleck-web/issues/154)) ([d0d55b8](https://github.com/argepasing/grabenfleck-web/commit/d0d55b89ae78119b35eb72e177beb977fea73265))
+* bump path-to-regexp from 6.2.2 to 6.3.0 in the npm_and_yarn group ([#156](https://github.com/argepasing/grabenfleck-web/issues/156)) ([7f3793f](https://github.com/argepasing/grabenfleck-web/commit/7f3793f57f67ace51085c60c4282d0204996eaa0))
+* bump prettier-plugin-tailwindcss from 0.6.6 to 0.6.8 ([#167](https://github.com/argepasing/grabenfleck-web/issues/167)) ([f2b9bb5](https://github.com/argepasing/grabenfleck-web/commit/f2b9bb5758c35fd3a864cc1a0fe74143a6910ed3))
+* bump tailwindcss from 3.4.10 to 3.4.11 ([#158](https://github.com/argepasing/grabenfleck-web/issues/158)) ([1fb9617](https://github.com/argepasing/grabenfleck-web/commit/1fb96179d29ed8c4aeaa8f8fa2a05c846ce0e6fb))
+* bump tailwindcss from 3.4.11 to 3.4.13 ([#166](https://github.com/argepasing/grabenfleck-web/issues/166)) ([7f1bbbb](https://github.com/argepasing/grabenfleck-web/commit/7f1bbbbbab4f262cf0728f976ef0e4a43f41613e))
+* bump tailwindcss from 3.4.13 to 3.4.14 ([#173](https://github.com/argepasing/grabenfleck-web/issues/173)) ([bb1bd81](https://github.com/argepasing/grabenfleck-web/commit/bb1bd817bf023ed35dd59ce6a9c61f909965f37a))
+* bump the npm_and_yarn group with 2 updates ([#169](https://github.com/argepasing/grabenfleck-web/issues/169)) ([742a8bb](https://github.com/argepasing/grabenfleck-web/commit/742a8bb01b131e6d329217f0220b0f5dba02ad40))
+* bump the npm_and_yarn group with 3 updates ([#165](https://github.com/argepasing/grabenfleck-web/issues/165)) ([919657e](https://github.com/argepasing/grabenfleck-web/commit/919657e9728cc919ed4dead6cefb828f755a6be1))
+* bump vite from 5.4.3 to 5.4.6 in the npm_and_yarn group ([#160](https://github.com/argepasing/grabenfleck-web/issues/160)) ([77d94f5](https://github.com/argepasing/grabenfleck-web/commit/77d94f5ddc9e493fa0daead3d8e9a90761a43029))
+
 ## [0.1.27](https://github.com/argepasing/grabenfleck-web/compare/v0.1.26...v0.1.27) (2024-09-09)
 
 
