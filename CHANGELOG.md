@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.1.29](https://github.com/argepasing/grabenfleck-web/compare/v0.1.28...v0.1.29) (2024-12-02)
+
+
+### Bug Fixes
+
+* bump @astrojs/mdx from 3.1.8 to 3.1.9 ([#177](https://github.com/argepasing/grabenfleck-web/issues/177)) ([fad3257](https://github.com/argepasing/grabenfleck-web/commit/fad3257fadb62521e33dd971efb6daf01f3d5861))
+* bump astro from 4.16.13 to 4.16.15 ([#184](https://github.com/argepasing/grabenfleck-web/issues/184)) ([48c6c63](https://github.com/argepasing/grabenfleck-web/commit/48c6c63533a62f9002d4d00627d75e8d3723b801))
+* bump astro from 4.16.15 to 4.16.16 ([#185](https://github.com/argepasing/grabenfleck-web/issues/185)) ([afafd45](https://github.com/argepasing/grabenfleck-web/commit/afafd4528b13fe8e48d39bb3b425e7c3c0de78ca))
+* bump astro from 4.16.2 to 4.16.7 ([#175](https://github.com/argepasing/grabenfleck-web/issues/175)) ([6761ea4](https://github.com/argepasing/grabenfleck-web/commit/6761ea4b670de28b5dc1641666be93e480067642))
+* bump astro from 4.16.7 to 4.16.8 ([#178](https://github.com/argepasing/grabenfleck-web/issues/178)) ([dc66cd8](https://github.com/argepasing/grabenfleck-web/commit/dc66cd87b7eb9f9fbb91206bfdcf6988fddd5a58))
+* bump astro from 4.16.8 to 4.16.13 ([#180](https://github.com/argepasing/grabenfleck-web/issues/180)) ([2a5bab4](https://github.com/argepasing/grabenfleck-web/commit/2a5bab420d18a1c1ff8ad43b4018497987dff66d))
+* bump prettier from 3.3.3 to 3.4.1 ([#186](https://github.com/argepasing/grabenfleck-web/issues/186)) ([364c61c](https://github.com/argepasing/grabenfleck-web/commit/364c61cebcc77bf207d1babc99603eacce9ba363))
+* bump prettier-plugin-tailwindcss from 0.6.8 to 0.6.9 ([#183](https://github.com/argepasing/grabenfleck-web/issues/183)) ([efa0238](https://github.com/argepasing/grabenfleck-web/commit/efa023868409b06ebc0f72d1f2d08dd660c3f5d0))
+* bump tailwindcss from 3.4.14 to 3.4.15 ([#181](https://github.com/argepasing/grabenfleck-web/issues/181)) ([e3bb398](https://github.com/argepasing/grabenfleck-web/commit/e3bb398fe871ca99dcd286252086edb2190a0818))
+
 ## [0.1.28](https://github.com/argepasing/grabenfleck-web/compare/v0.1.27...v0.1.28) (2024-10-21)
 
 
