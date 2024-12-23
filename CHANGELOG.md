@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.30](https://github.com/argepasing/grabenfleck-web/compare/v0.1.29...v0.1.30) (2024-12-23)
+
+
+### Bug Fixes
+
+* bump @astrojs/tailwind from 5.1.3 to 5.1.4 ([#195](https://github.com/argepasing/grabenfleck-web/issues/195)) ([d7af5bc](https://github.com/argepasing/grabenfleck-web/commit/d7af5bc5188703eead81dbb7bfee7e6cd7a16e92))
+* bump tailwindcss from 3.4.16 to 3.4.17 ([#196](https://github.com/argepasing/grabenfleck-web/issues/196)) ([f965a2e](https://github.com/argepasing/grabenfleck-web/commit/f965a2e28aa6aee6b9a1e4fcc62204bc7e627325))
+
 ## [0.1.29](https://github.com/argepasing/grabenfleck-web/compare/v0.1.28...v0.1.29) (2024-12-19)
 
 
