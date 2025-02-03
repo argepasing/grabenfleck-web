@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.1.30](https://github.com/argepasing/grabenfleck-web/compare/v0.1.29...v0.1.30) (2025-02-03)
+
+
+### Bug Fixes
+
+* bump @astrojs/tailwind from 5.1.3 to 5.1.4 ([#195](https://github.com/argepasing/grabenfleck-web/issues/195)) ([d7af5bc](https://github.com/argepasing/grabenfleck-web/commit/d7af5bc5188703eead81dbb7bfee7e6cd7a16e92))
+* bump @tailwindcss/typography from 0.5.15 to 0.5.16 ([#201](https://github.com/argepasing/grabenfleck-web/issues/201)) ([eee7cb5](https://github.com/argepasing/grabenfleck-web/commit/eee7cb5863a0703adcbe58c442dbb4dc92580010))
+* bump astro from 4.16.18 to 5.2.3 ([#210](https://github.com/argepasing/grabenfleck-web/issues/210)) ([fe7435e](https://github.com/argepasing/grabenfleck-web/commit/fe7435ee30d6ab2a15dd168342d38fb36e73ff2a))
+* bump prettier-plugin-tailwindcss from 0.6.10 to 0.6.11 ([#206](https://github.com/argepasing/grabenfleck-web/issues/206)) ([ca09257](https://github.com/argepasing/grabenfleck-web/commit/ca092571762208bb55a7e772422a3585eb53b52e))
+* bump prettier-plugin-tailwindcss from 0.6.9 to 0.6.10 ([#203](https://github.com/argepasing/grabenfleck-web/issues/203)) ([6ddc179](https://github.com/argepasing/grabenfleck-web/commit/6ddc179ac62b59ac27810f6f5903cf409dc5d194))
+* bump tailwindcss from 3.4.16 to 3.4.17 ([#196](https://github.com/argepasing/grabenfleck-web/issues/196)) ([f965a2e](https://github.com/argepasing/grabenfleck-web/commit/f965a2e28aa6aee6b9a1e4fcc62204bc7e627325))
+* bump vite from 5.4.11 to 5.4.14 in the npm_and_yarn group ([#204](https://github.com/argepasing/grabenfleck-web/issues/204)) ([6175d5c](https://github.com/argepasing/grabenfleck-web/commit/6175d5ca2122787584bc865b2afb6e55477f8962))
+* update @astrojs/tailwind to v6 ([0da264c](https://github.com/argepasing/grabenfleck-web/commit/0da264c094a25d116455f1a5d2d7ddbf77124038))
+* update mdx and remark-directive ([09df16b](https://github.com/argepasing/grabenfleck-web/commit/09df16b5c306cdaffb4f9819497f19788f036e85))
+* update tailwindcss to v4 ([b8d182c](https://github.com/argepasing/grabenfleck-web/commit/b8d182c0e653a3b58b8f1f0496bbb8db44bd7a63))
+
 ## [0.1.29](https://github.com/argepasing/grabenfleck-web/compare/v0.1.28...v0.1.29) (2024-12-19)
 
 
