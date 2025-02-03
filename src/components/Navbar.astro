@@ -5,7 +5,7 @@ const currentPath = Astro.url.pathname;
 <header class="z-50 mb-4 flex w-full flex-wrap border-b border-gray-200 bg-white py-3 text-sm sm:flex-nowrap sm:justify-start sm:py-0">
   <nav class="relative mx-auto w-full max-w-[85rem] px-6 sm:items-center sm:justify-between md:flex" aria-label="Global" data-current-path={currentPath}>
     <div class="flex items-center justify-between">
-      <a href="/" class="focus:outline-none">
+      <a href="/" class="focus:outline-hidden">
         <div class="inline-flex items-center">
           <div class="flex w-14 text-5xl">
             <img src="/images/uploads/logo-schuetzen-vektor.svg" alt="Logo der SG Grabenfleck e.V." class="w-11" />
@@ -21,7 +21,7 @@ const currentPath = Astro.url.pathname;
       <div class="md:hidden">
         <button
           type="button"
-          class="hs-collapse-toggle inline-flex items-center justify-center gap-2 rounded-md border bg-white p-2 align-middle text-sm font-medium text-gray-700 shadow-sm transition-all hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 focus:ring-offset-white"
+          class="hs-collapse-toggle inline-flex items-center justify-center gap-2 rounded-md border bg-white p-2 align-middle text-sm font-medium text-gray-700 shadow-xs transition-all hover:bg-gray-50 focus:outline-hidden focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 focus:ring-offset-white"
           data-hs-collapse="#navbar-collapse-with-animation"
           aria-controls="navbar-collapse-with-animation"
           aria-label="Toggle navigation"

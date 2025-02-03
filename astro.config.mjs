@@ -1,6 +1,6 @@
 import { defineConfig } from "astro/config";
 
-import tailwind from "@astrojs/tailwind";
+import tailwindcss from "@tailwindcss/vite";
 import mdx from "@astrojs/mdx";
 import remarkDirective from "remark-directive";
 import m2dx from "astro-m2dx";
@@ -14,7 +14,7 @@ const m2dxOptions = {
 // https://astro.build/config
 export default defineConfig({
   prefetch: true,
-  integrations: [tailwind(), mdx()],
+  integrations: [mdx()],
   markdown: {
     remarkPlugins: [
       remarkDirective, // required for styleDirectives
@@ -26,6 +26,6 @@ export default defineConfig({
     define: {
       "import.meta.env.PACKAGE_VERSION": JSON.stringify(`v${process.env.npm_package_version}`),
     },
-    plugins: [yaml()],
+    plugins: [tailwindcss(), yaml()],
   },
 });
