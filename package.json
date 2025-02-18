@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@astrojs/mdx": "^4.0.8",
-    "@tailwindcss/vite": "^4.0.3",
+    "@tailwindcss/vite": "^4.0.5",
     "astro": "^5.2.3",
     "astro-m2dx": "^0.7.16",
     "remark-directive": "^3.0.1",
