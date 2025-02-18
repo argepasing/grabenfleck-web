@@ -15,7 +15,7 @@
     "astro": "^5.2.3",
     "astro-m2dx": "^0.7.16",
     "remark-directive": "^3.0.1",
-    "tailwindcss": "^4.0.3"
+    "tailwindcss": "^4.0.6"
   },
   "devDependencies": {
     "@rollup/plugin-yaml": "^4.1.2",
