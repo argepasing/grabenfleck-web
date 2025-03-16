@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.1.31](https://github.com/argepasing/grabenfleck-web/compare/v0.1.30...v0.1.31) (2025-03-16)
+
+
+### Bug Fixes
+
+* bump @astrojs/mdx from 4.0.8 to 4.1.0 ([#223](https://github.com/argepasing/grabenfleck-web/issues/223)) ([89e19f7](https://github.com/argepasing/grabenfleck-web/commit/89e19f73ebaea89a306aac1f41786ddbbd128843))
+* bump @tailwindcss/vite from 4.0.3 to 4.0.5 ([#213](https://github.com/argepasing/grabenfleck-web/issues/213)) ([8e84129](https://github.com/argepasing/grabenfleck-web/commit/8e84129a9ea0cd95c82f4092bc767fdb26fa9068))
+* bump @tailwindcss/vite from 4.0.5 to 4.0.12 ([#228](https://github.com/argepasing/grabenfleck-web/issues/228)) ([111ca56](https://github.com/argepasing/grabenfleck-web/commit/111ca569b0d422b1d2a651927bf24279d7cad256))
+* bump astro from 5.2.3 to 5.3.0 ([#217](https://github.com/argepasing/grabenfleck-web/issues/217)) ([e92b1a8](https://github.com/argepasing/grabenfleck-web/commit/e92b1a815ee76482f8b5b1485c90de6ec170e6ee))
+* bump astro from 5.3.0 to 5.4.2 ([#227](https://github.com/argepasing/grabenfleck-web/issues/227)) ([fe54825](https://github.com/argepasing/grabenfleck-web/commit/fe54825f6f2415a88b9474f08740cf66cb3334d8))
+* bump prettier from 3.4.2 to 3.5.0 ([#211](https://github.com/argepasing/grabenfleck-web/issues/211)) ([5c94a57](https://github.com/argepasing/grabenfleck-web/commit/5c94a577d7f5d84e3818fd4fc817105a60ccdc6f))
+* bump prettier from 3.5.0 to 3.5.3 ([#225](https://github.com/argepasing/grabenfleck-web/issues/225)) ([7f6ab20](https://github.com/argepasing/grabenfleck-web/commit/7f6ab20973492c334d3e2e22b3d302002dd3cba5))
+* bump tailwindcss from 4.0.5 to 4.0.6 ([#216](https://github.com/argepasing/grabenfleck-web/issues/216)) ([bf0057c](https://github.com/argepasing/grabenfleck-web/commit/bf0057c3060e7928e472cd9a49770c406b1453ca))
+* bump tailwindcss from 4.0.6 to 4.0.9 ([#224](https://github.com/argepasing/grabenfleck-web/issues/224)) ([eba63a1](https://github.com/argepasing/grabenfleck-web/commit/eba63a152cd1f1fe26cc0763044b2dbdb7194e4e))
+* bump tailwindcss from 4.0.9 to 4.0.12 ([#226](https://github.com/argepasing/grabenfleck-web/issues/226)) ([11eabdf](https://github.com/argepasing/grabenfleck-web/commit/11eabdf8a724c7cb638241691683341d1bb17704))
+* bump the npm_and_yarn group with 4 updates ([#230](https://github.com/argepasing/grabenfleck-web/issues/230)) ([8390de3](https://github.com/argepasing/grabenfleck-web/commit/8390de38f25f5d021d2ea1c652e9d1388978fe76))
+
 ## [0.1.30](https://github.com/argepasing/grabenfleck-web/compare/v0.1.29...v0.1.30) (2025-02-03)
 
 
