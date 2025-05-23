@@ -8,8 +8,11 @@ title: Aktuelles
 
 ### *Aktuelle Termine findest du ganz unten auf der Seite.*
 
+### Vorbereitende Arbeiten für den Bau der Bogenhalle
 
+Die erste Arbeiten zur Vorbereitung des Baufelds für unsere Bogenhalle haben stattgefunden.
 
+![](/images/uploads/image2.jpeg)
 
 ### Hohe Auszeichnung für unseren 1. Schützenmeister Georg Felbermayr sen.
 
