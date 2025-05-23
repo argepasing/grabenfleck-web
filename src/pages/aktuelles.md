@@ -8,6 +8,14 @@ title: Aktuelles
 
 ### *Aktuelle Termine findest du ganz unten auf der Seite.*
 
+### Finale des Fernwettkampfes im Bezirk München
+
+Unsere Jugendmannschaft ist bei dem Fernwettkampf des Bezirks München bis ins Finale gekommen und hat dort den 3. Platz belegt.
+
+
+
+![](/images/uploads/image5.jpeg)
+
 ### Alle unsere Könige auf einem Bild
 
 von links: Gauschützenkönig LP Thomas Echensperger, Vereinskönig Georg Johann Felbermayr, Vizegaujugendkönig Georg Sebastian Felbermayr, 1. Schützenmeister Georg Felbermayr Sen.
