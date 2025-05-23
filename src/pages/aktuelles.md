@@ -16,7 +16,7 @@ von links: Gauschützenkönig LP Thomas Echensperger, Vereinskönig Georg Johann
 
 ### Vorbereitende Arbeiten für den Bau der Bogenhalle
 
-Die erste Arbeiten zur Vorbereitung des Baufelds für unsere Bogenhalle haben stattgefunden.
+Die ersten Arbeiten zur Vorbereitung des Baufelds für unsere Bogenhalle haben stattgefunden.
 
 ![](/images/uploads/image2.jpeg)
 
