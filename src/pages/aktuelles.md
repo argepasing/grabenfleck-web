@@ -8,6 +8,12 @@ title: Aktuelles
 
 ### *Aktuelle Termine findest du ganz unten auf der Seite.*
 
+### Alle unsere Könige auf einem Bild
+
+von links: Gauschützenkönig LP Thomas Echensperger, Vereinskönig Georg Johann Felbermayr, Vizegaujugendkönig Georg Sebastian Felbermayr, 1. Schützenmeister Georg Felbermayr Sen.
+
+![](/images/uploads/image0-1-.jpeg)
+
 ### Vorbereitende Arbeiten für den Bau der Bogenhalle
 
 Die erste Arbeiten zur Vorbereitung des Baufelds für unsere Bogenhalle haben stattgefunden.
