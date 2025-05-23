@@ -8,11 +8,17 @@ title: Aktuelles
 
 ### *Aktuelle Termine findest du ganz unten auf der Seite.*
 
-![](/images/uploads/image4-1-.jpeg)
+
+
 
 ### Hohe Auszeichnung für unseren 1. Schützenmeister Georg Felbermayr sen.
 
-am 2. Dezember 2024 erhielt Georg Felbermayr sen. durch die 3. Bürgermeisterin Verena Dietl den den goldenen Ehrenring.
+Am 2. Dezember 2024 erhielt Georg Felbermayr sen. durch die 3. Bürgermeisterin Verena Dietl den goldenen Ehrenring.
+
+
+![](/images/uploads/image4-1-.jpeg)
+
+
 
 ### Geänderte Trainingszeiten in der Wintersaison 2024/2025 bei den Bogenschützen
 
