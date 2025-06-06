@@ -8,11 +8,15 @@ title: Aktuelles
 
 ### *Aktuelle Termine findest du ganz unten auf der Seite.*
 
+### Ehrenmitgliedschaft im BSSB für Georg Felbermayr
+
+Georg Felbermayr sen. wurde beim 74. Landesschützentag in Garching zum Ehrenmitglied des BSSB ernannt.
+
+![](/images/uploads/img-20250601-wa0039.jpg)
+
 ### Finale des Fernwettkampfes im Bezirk München
 
 Unsere Jugendmannschaft ist bei dem Fernwettkampf des Bezirks München bis ins Finale gekommen und hat dort den 3. Platz belegt.
-
-
 
 ![](/images/uploads/image5.jpeg)
 
@@ -32,10 +36,7 @@ Die ersten Arbeiten zur Vorbereitung des Baufelds für unsere Bogenhalle haben s
 
 Am 2. Dezember 2024 erhielt Georg Felbermayr sen. durch die 3. Bürgermeisterin Verena Dietl den goldenen Ehrenring.
 
-
 ![](/images/uploads/image4-1-.jpeg)
-
-
 
 ### Geänderte Trainingszeiten in der Wintersaison 2024/2025 bei den Bogenschützen
 
