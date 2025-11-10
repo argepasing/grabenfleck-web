@@ -73,7 +73,8 @@ Wir gratulieren Erna zu Platz 3 in der Einzelwertung und der Senioren-Mannschaft
 * Bauvoranfrage wurde positiv beschieden
 * Förderantrag beim Feistaat Bayern wurde mit Bescheid vom 11.12.23 bewilligt
 * Unsere Hausbank hat uns eine Finanzierungszusage erteilt
-* der Bauantrag wird erstellt
+* der Baugenehmigung wurde erteilt
+* Grundstücksübertragung vom RBS wurde zugesagt
 * Die Firma Haas Fertigbau GmbH unterstützt uns bei der Planung der Halle und wird diese als Fertigteilbau errichten nach Eingang der Baugenehmigung.
 
   ![](/images/uploads/neubau-halle-ansichten.jpg)
