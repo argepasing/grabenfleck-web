@@ -8,6 +8,24 @@ title: Aktuelles
 
 ### *Aktuelle Termine findest du ganz unten auf der Seite.*
 
+
+Auch in diesem Jahr fuhr unsere Jugend wieder in den Herbstferien ins Jugendhaus am Walchensee und hatte jede Menge Spaß.
+
+![Jugendfahrt ins Jugendhaus Walchensee](/images/uploads/2025_11_walchensee.jpeg)
+
+
+Unsere Schützenjugend hat 2025 erfolgreich am Schülervergleichskampf teilgenommen.
+
+![Schülervergleichskampf](/images/uploads/2025_10_schülervergleichskampf.jpeg)
+
+
+Beim traditionellen Trachten- und Schützenumzug wurden wir in diesen von unserem Schützenkönig Georg mit seinen zwei Begleiterinnen Brigitte und Sandra vertreten. Unsere Fahne wurde von Stefan und Daniel getragen.
+
+![Trachten- und Schützenumzug Oktoberfest 2025](/images/uploads/2025_09_oktoberfest.jpeg)
+
+
+
+
 ### Ehrenmitgliedschaft im BSSB für Georg Felbermayr
 
 Georg Felbermayr sen. wurde beim 74. Landesschützentag in Garching zum Ehrenmitglied des BSSB ernannt.
