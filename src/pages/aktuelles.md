@@ -9,14 +9,22 @@ title: Aktuelles
 ### *Aktuelle Termine findest du ganz unten auf der Seite.*
 
 
+
+### Jugendwoche Walchensee 
+
+
 Auch in diesem Jahr fuhr unsere Jugend wieder in den Herbstferien ins Jugendhaus am Walchensee und hatte jede Menge Spaß.
 
 ![Jugendfahrt ins Jugendhaus Walchensee](/images/uploads/2025_11_walchensee.jpeg)
+
+### Schülervergleichskampf 2025
 
 
 Unsere Schützenjugend hat 2025 erfolgreich am Schülervergleichskampf teilgenommen.
 
 ![Schülervergleichskampf](/images/uploads/2025_10_schülervergleichskampf.jpeg)
+
+### Oktoberfest 2025
 
 
 Beim traditionellen Trachten- und Schützenumzug wurden wir in diesen von unserem Schützenkönig Georg mit seinen zwei Begleiterinnen Brigitte und Sandra vertreten. Unsere Fahne wurde von Stefan und Daniel getragen.
