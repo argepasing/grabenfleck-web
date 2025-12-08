@@ -1,5 +1,25 @@
 # Changelog
 
+## [0.1.33](https://github.com/argepasing/grabenfleck-web/compare/v0.1.32...v0.1.33) (2025-12-08)
+
+
+### Bug Fixes
+
+* bump @astrojs/mdx from 4.3.10 to 4.3.12 ([#313](https://github.com/argepasing/grabenfleck-web/issues/313)) ([0a90619](https://github.com/argepasing/grabenfleck-web/commit/0a90619f40284b0f1aa72abcd5f01607b17d91d1))
+* bump @astrojs/mdx from 4.3.8 to 4.3.9 ([#303](https://github.com/argepasing/grabenfleck-web/issues/303)) ([4ac2658](https://github.com/argepasing/grabenfleck-web/commit/4ac2658403564791db5d50923f0b3953318105d9))
+* bump @astrojs/mdx from 4.3.9 to 4.3.10 ([#307](https://github.com/argepasing/grabenfleck-web/issues/307)) ([4d67132](https://github.com/argepasing/grabenfleck-web/commit/4d67132215764b0df9c622bb64c1c7c73814ee9c))
+* bump @tailwindcss/vite from 4.1.16 to 4.1.17 ([#306](https://github.com/argepasing/grabenfleck-web/issues/306)) ([ffb1175](https://github.com/argepasing/grabenfleck-web/commit/ffb117556b30cc7866261e3badfa256ccd4fd172))
+* bump astro from 5.15.1 to 5.15.3 ([#304](https://github.com/argepasing/grabenfleck-web/issues/304)) ([1d2270f](https://github.com/argepasing/grabenfleck-web/commit/1d2270ff3352919c95d60f2fe83673d7fb7a2b3d))
+* bump astro from 5.15.3 to 5.15.4 ([#308](https://github.com/argepasing/grabenfleck-web/issues/308)) ([ddd3042](https://github.com/argepasing/grabenfleck-web/commit/ddd304206e5f0d08c73a2d033fc5f51a4be26cc6))
+* bump astro from 5.15.4 to 5.15.8 ([#311](https://github.com/argepasing/grabenfleck-web/issues/311)) ([2fd0b13](https://github.com/argepasing/grabenfleck-web/commit/2fd0b133c190c6095bf9ea9337eb5ed8ff572550))
+* bump astro from 5.15.9 to 5.16.0 ([#314](https://github.com/argepasing/grabenfleck-web/issues/314)) ([2e8e638](https://github.com/argepasing/grabenfleck-web/commit/2e8e6387f5d8cb1ca59d9ce88331d20d5187531c))
+* bump astro from 5.16.0 to 5.16.3 ([#315](https://github.com/argepasing/grabenfleck-web/issues/315)) ([f8aa377](https://github.com/argepasing/grabenfleck-web/commit/f8aa3775819456b00402742d2f719eb50fdbe85d))
+* bump astro from 5.16.3 to 5.16.4 ([#317](https://github.com/argepasing/grabenfleck-web/issues/317)) ([a756729](https://github.com/argepasing/grabenfleck-web/commit/a756729407e90fadcbf429148c3eb384499a9a77))
+* bump js-yaml in the npm_and_yarn group across 1 directory ([#312](https://github.com/argepasing/grabenfleck-web/issues/312)) ([3f63130](https://github.com/argepasing/grabenfleck-web/commit/3f631305263939371e8e7aa20d5a0c555367b415))
+* bump prettier from 3.6.2 to 3.7.3 ([#316](https://github.com/argepasing/grabenfleck-web/issues/316)) ([f06788a](https://github.com/argepasing/grabenfleck-web/commit/f06788ab68b5355a6c68ba1b44410c6cfcd27642))
+* bump prettier from 3.7.3 to 3.7.4 ([#318](https://github.com/argepasing/grabenfleck-web/issues/318)) ([72dc57f](https://github.com/argepasing/grabenfleck-web/commit/72dc57f772606e55ebe31d3f2ef66d96b6bef354))
+* bump prettier-plugin-tailwindcss from 0.7.1 to 0.7.2 ([#319](https://github.com/argepasing/grabenfleck-web/issues/319)) ([00d2277](https://github.com/argepasing/grabenfleck-web/commit/00d227799b1b2b353c77ea2b427562a1479e67d7))
+
 ## [0.1.32](https://github.com/argepasing/grabenfleck-web/compare/v0.1.31...v0.1.32) (2025-10-27)
 
 
