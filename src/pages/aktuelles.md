@@ -13,8 +13,7 @@ title: Aktuelles
 Am 1. Adventssonntag fand unsere Jahresendfeier mit
 Königsproklamation statt. 
 
-Schützenkönigin 2026 ist Monika Mai, Wurstkönigin Franziska
-Felbermayr und Brezenkönig Georg Felbermayr sen.
+Schützenkönigin 2026 ist Monika Mai, Wurstkönigin Franziska Felbermayr und Brezenkönig Georg Felbermayr sen.
 
 ![](/images/uploads/img-20260114-wa0001.png)
 
