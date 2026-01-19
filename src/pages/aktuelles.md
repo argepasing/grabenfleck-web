@@ -8,10 +8,17 @@ title: Aktuelles
 
 ### *Aktuelle Termine findest du ganz unten auf der Seite.*
 
+### Königsproklamation
 
+Am 1. Adventssonntag fand unsere Jahresendfeier mit
+Königsproklamation statt. 
 
-### Jugendwoche Walchensee 
+Schützenkönigin 2026 ist Monika Mai, Wurstkönigin Franziska
+Felbermayr und Brezenkönig Georg Felbermayr sen.
 
+![](/images/uploads/img-20260114-wa0001.png)
+
+### Jugendwoche Walchensee
 
 Auch in diesem Jahr fuhr unsere Jugend wieder in den Herbstferien ins Jugendhaus am Walchensee und hatte jede Menge Spaß.
 
@@ -19,20 +26,15 @@ Auch in diesem Jahr fuhr unsere Jugend wieder in den Herbstferien ins Jugendhaus
 
 ### Schülervergleichskampf 2025
 
-
 Unsere Schützenjugend hat 2025 erfolgreich am Schülervergleichskampf teilgenommen.
 
 ![Schülervergleichskampf](/images/uploads/2025_10_schülervergleichskampf.jpeg)
 
 ### Oktoberfest 2025
 
-
 Beim traditionellen Trachten- und Schützenumzug wurden wir in diesen von unserem Schützenkönig Georg mit seinen zwei Begleiterinnen Brigitte und Sandra vertreten. Unsere Fahne wurde von Stefan und Daniel getragen.
 
 ![Trachten- und Schützenumzug Oktoberfest 2025](/images/uploads/2025_09_oktoberfest.jpeg)
-
-
-
 
 ### Ehrenmitgliedschaft im BSSB für Georg Felbermayr
 
