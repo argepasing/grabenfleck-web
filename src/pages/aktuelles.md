@@ -8,6 +8,8 @@ title: Aktuelles
 
 ### *Aktuelle Termine findest du ganz unten auf der Seite.*
 
+![](/images/uploads/2026-04-vereinsschützenkönigin.jpg)
+
 ### Königsproklamation
 
 Am 1. Adventssonntag fand unsere Jahresendfeier mit
