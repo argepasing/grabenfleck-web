@@ -10,6 +10,8 @@ title: Aktuelles
 
 
 
+
+
 Unsere Vereinsschützenkönigin Monika hat das "Double" geschafft und ist mit dem Luftgewehr-Auflage auch Gaukönigin geworden. Die Proklamation fand im Rahmen des diesjährigen Jahresempfangs statt. 
 
 ![](/images/uploads/2026-04-vereinsschützenkönigin.jpg)
